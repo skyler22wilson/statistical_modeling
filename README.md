@@ -41,9 +41,16 @@ Part 3:
 
 Part 4:
 
+1. i used a simple linear regression model that used the longitude,  latitude and category_id as dependant veriables and the ratings as independant variables. The results of my linear regression show that longitude, latitude and category_id are all significant predictors of ratings
+2. I created a threshold equal to the mean to create a catagorical variable for ratings. I then used a GLM classification model with a binomial distribution which yeilded results that stated that category_id was not a signififcnat predictor of ratings since its value of 0.216 was much higher than 0.05 so using backwards stepwise regression i took it out wich yeilded results stating that latitude and longitude are significant predictors of whether a POI is rated above the mean
+
 ## Results
 
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+The Foursquare API provides more robust information and was much more targetted because i could add the use fields to get the exact sata that i wanted to return without the need to parse the json file nearly as much as I had to with Yelp. Plus the API request returned more useful data to begin with. However, the format of Yelps data from the API was much easier to parse which made accessing the relevent information far less difficult. Also as seen by the code cell above, the yelp API returned far more data even after removing the duplicates. The API call limit for the Yelp API complicated the process of parsing the data which was less than ideal. The log likelyhood and F statistic for my linear regression align with the results and further emphasize the sigificantce of the data
+
+My linear model results had a couple interesting conclusions: The results of my linear regression show that longitude, latitude and category_id are all significant predictors of ratings even though the correlation of ratings with category_id I calculated in my EDA was -0.03 which means that they are effectively uncorrelated. The log likelihood of -11210 suggest the model fits well, and the F-statistic of 182 suggests that the model is statistically significant. However from the visuals its clear that there is soome confounding in the data and multicoliniarity whcih is affecting the results.
+
+The categorical model yeilded interesting results in that it predicted that for a restaurant to be classified with a rating above the mean rating the oly significant predictors were the longitude and latitude. The log likelhood for my GLM model was -5039.2 which suggests that the model is fitting well, however the adjusted R-squared of 11% suggests that latitude and longitude are only explaining 11% of the variation in ratings being above the threshold which is very poor.
 
 ## Challenges
 
@@ -53,4 +60,4 @@ The main challenge I faced was retrieving the correct information from the Yelp 
 
 The two main things i would like to do given more time would be to tune my model and to fine tune the interactive map that i created to make the visualization both more visually apealing and easier to understand. I would add custom icons for each category a long with colour coordination which would improve clarity, i would also add a legend.
 
-For my linear model i would have fine tuned the model to increase its accuracy to better represent the story I wanted to tell with the data
+For my linear model i would have fine tuned the model to increase its accuracy to better represent the story I wanted to tell with the data, for the GLM model the R-squared value is quite low even if the variables are all significant predictors. Id like to expand the data set more so that i could get more accurate and informational results in both the linear and GLM model
