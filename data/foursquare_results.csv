@@ -1,0 +1,1296 @@
+business_id,name,category_id,category,address,latitude,longitude,tel,rating
+57f53ed7498e23279caaed8e,Txotx,13003,Bar,"Trondheimsveien 2, 0560 Oslo",59.919337,10.759947,921 69 062,9.1
+4d6803f3709bb60c63f9b014,Le Benjamin Bar & Bistro,13148,French Restaurant,"Søndre gate 6 (mellom Markveien & Thorvald Meyers gate), 0550 Oslo",59.91875,10.758048,22 35 79 44,9.4
+547a5140498e356dc652cfb7,Territoriet,13025,Wine Bar,"Markveien 58, 0550 Oslo",59.918887,10.75756,950 23 894,8.8
+4bd1eaae77b29c74bb8f8d82,Glød,13003,Bar,"Thorvald Meyers gate 70 A (Korsgata), 0552 Oslo",59.920272,10.759572,930 03 674,8.2
+5547ba21498e3c063aa9a7ba,Bd57,13006,Beer Bar,"Markveien 57, 0550 Oslo",59.91991,10.757172,923 11 315,8.4
+4b226c22f964a5209d4624e3,Dr. Kneipp's Wine Bar,13025,Wine Bar,"Torvbakkgata 12 (Markveien), 0550 Oslo",59.919775,10.757134,22 37 22 97,8.4
+4ca60fcf931bb60c27a18fe2,Schouskjelleren Mikrobryggeri,13003,Bar,"Trondheimsveien 2 (Thorvald Meryers Gate), 0560 Oslo",59.918476,10.760719,21 38 39 30,8.3
+4b51e2f1f964a520b75927e3,Tim Wendelboe,13034,Café,"Grüners gate 1 (Fossveien), 0552 Oslo",59.923354,10.755776,400 04 062,9.1
+56f5236ccd10c43c4671a28b,Way Down South,13026,BBQ Joint,"Waldemar Thranes gate 71a (behind Jakobs kirke/DogA), 0182 Oslo",59.919114,10.754837,902 26 090,8.6
+4d82438746fd6ea8713b6f02,Trattoria Popolare,13236,Italian Restaurant,"Trondheimsveien 2, 0560 Oslo",59.918664,10.761451,21 38 39 30,8.3
+5552449c498e387912e97ec7,Nedre Foss Gård,13336,Scandinavian Restaurant,"Nordre gate 2, 0551 Oslo",59.922199,10.753905,458 19 693,8.9
+50c9de0be4b0b713c476623f,Crowbar & Bryggeri,13003,Bar,"Torggata 32, 0183 Oslo",59.91711,10.753327,21 38 67 57,9.1
+4b0588b4f964a520d1d422e3,Parkteatret Scene,10042,Opera House,"Olaf Ryes plass 11 (Gruners gate), 0552 Oslo",59.923561,10.758434,22 35 63 00,8.5
+4caf482def1b37043c203100,Grünerløkka Brygghus,13018,Pub,"Thorvald Meyers gate 30 B, 0555 Oslo",59.925125,10.759368,966 22 831,8.9
+4bc0a653461576b0f0727a32,East Kitchen,13032,"Cafe, Coffee, and Tea House","Markveien 50, 0554 Oslo",59.920648,10.757645,22 71 96 58,8.0
+4ebbf92ee5faf7ab65928559,Mathallen Oslo,13065,Restaurant,"Vulkan 5 (Maridalsveien), 0178 Oslo",59.922219,10.751914,400 01 209,8.8
+55c4e7f4498e9bacc63a825b,Hopyard,13003,Bar,"Maridalsveien 17A, 0175 Oslo",59.922616,10.751387,406 75 443,8.8
+59b176f3cad1b6095f6688f4,Koie,13272,Ramen Restaurant,"Osterhaus' gate 13, 0183 Oslo",59.916999,10.752467,480 39 905,8.9
+4b0d7253f964a520864823e3,Villa Paradiso,13064,Pizzeria,"Olaf Ryes plass 8, 0552 Oslo",59.923575,10.757497,22 35 40 60,8.4
+562fb4b8498ebaac75b55a97,Illegal Burger,13031,Burger Joint,"Markveien, Oslo",59.922672,10.757165,22 20 33 02,8.2
+55aa89a2498ee54a909eb467,Freddy Fuego,13032,"Cafe, Coffee, and Tea House","Hausmanns gate 31A, 0182 Oslo",59.917753,10.753698,400 66 428,8.4
+5800f25838fa1e0e230e76d9,"Nedre Løkka Cocktailbar, Lounge og Selskapslokaler",13009,Cocktail Bar,"Thorvald Meyers gate 89 (Søndre gate), 0550 Oslo",59.918744,10.759101,941 15 000,7.9
+53920077498e5e3ad19663ee,Eldhuset - Kristiania Skjenkestue,13026,BBQ Joint,"Olaf Ryes Plass 9, 0552 Oslo",59.923525,10.757972,22 17 50 30,8.2
+5b75672c35811b002c5a98eb,Henry & Sally's,13006,Beer Bar,"Bernt Ankers gate 25, 0183 Oslo",59.916457,10.751146,400 74 047,8.9
+598dc38f0868a228a82ce75d,Prindsen Hage,13006,Beer Bar,"Storgata 36, 0186 Oslo",59.914521,10.755003,,9.0
+4b1fba47f964a5207b2824e3,Vespa & Humla,13034,Café,"Københavngata 2 (Karlstadgata), 0553 Oslo",59.924827,10.762861,456 88 787,8.4
+4b7712bdf964a520807a2ee3,Arakataka,13336,Scandinavian Restaurant,"Mariboes gate 7 (Badstugata), 0183 Oslo",59.916421,10.750684,23 32 83 00,8.9
+4f1bd320e4b03543a1b91c03,Südøst Asian Crossover,13072,Asian Restaurant,"Trondheimsveien 5 (Thorvald Meyers Gate), 0560 Oslo",59.918138,10.760887,23 35 30 70,7.8
+5c646f51250cab002ccaec86,Hrímnir Ramen,13000,Dining and Drinking,"9A Maridalsveien, 0178 Oslo",59.921432,10.75139,22 60 60 30,8.4
+4b0588b2f964a5204dd422e3,Bar Boca,13013,Hotel Bar,"Thorvald Meyers gate 30, 0555 Oslo",59.925173,10.759419,411 64 116,8.4
+5c5550441c675b002c45192d,Oslo Street Food,13049,Diner,"Torggata 16, 0181 Oslo",59.915901,10.750762,22 04 00 44,8.9
+552ea05d498ef128337df67a,Himkok,13006,Beer Bar,"Storgata 27 (young gate), 0184 Oslo",59.914202,10.751486,22 42 22 02,9.2
+511238b7e4b0e14068f68b0c,Supreme Roastworks,13035,Coffee Shop,"Thorvald Meyers gate 18, 0555 Oslo",59.928147,10.759322,22 71 42 02,9.4
+5a0cf9026dcf0435cc14abb8,Lulu,13263,Japanese Restaurant,"Youngs gate 7 (Youngstorget), 0181 Oslo",59.914929,10.750675,22 65 32 30,8.9
+4b0588b7f964a5200dd622e3,Sentrum Scene,10039,Music Venue,"Arbeidersamfunnets plass 1 (Calmeyers gate), 0181 Oslo",59.915578,10.751688,22 20 32 32,8.6
+4b12bc47f964a520118d23e3,Oslo Mekaniske Verksted,13003,Bar,"Tøyenbekken 34 (Joachim Nielsens Gang), 0188 Oslo",59.911306,10.762149,452 37 534,9.3
+4b264468f964a520a97924e3,Ringen Kino,10024,Movie Theater,"Sannergata 6 D (Toftes gate), 0557 Oslo",59.928602,10.760656,994 32 000,8.7
+4bf703c95efe2d7fd8346834,Orlando's Pub,13003,Bar,"Rosteds gate 7A, 0178 Oslo",59.919456,10.750227,22 11 30 11,8.1
+4c6aa1601a6620a1be8a668c,Fiskeriet,13065,Restaurant,"Youngstorget 2b, 0181 Oslo",59.914558,10.749854,22 42 45 40,8.5
+4b0588b7f964a520fdd522e3,John Dee,10041,Rock Club,"Torggata 16, 0181 Oslo",59.915883,10.750531,22 20 32 32,8.3
+4bdc272963c5c9b68a8e2a68,Olaf Ryes,13065,Restaurant,"Olaf Ryes Plass 12, 0552 Oslo",59.923501,10.758794,934 35 549,7.6
+537b852c498e9a76c5332464,St. Pauli,13006,Beer Bar,"Sannergata 1 B, 0557 Oslo",59.927665,10.755945,957 53 384,8.3
+4b0588b4f964a520d0d422e3,Dattera til Hagen,13009,Cocktail Bar,"Grønland 10, 0188 Oslo",59.913338,10.76009,22 17 18 61,8.1
+4bb7a74798c7ef3be9223002,Syverkiosken,13058,Hot Dog Joint,"Waldemar Thranes gate, 0175 Oslo",59.928288,10.752695,,8.5
+5b30a0a0eaf49a002c8b32ea,Brewgata,13003,Bar,"Brugata 5, 0186 Oslo",59.914183,10.755171,483 92 757,8.1
+4ddeaa7dae60c6eb2a60122d,Colonel Mustard,13003,Bar,"Darres gate 2 (Maridalsveien), 0175 Oslo",59.927842,10.751476,21 95 05 00,8.5
+4b07fb90f964a520e40123e3,Olympen Mat & Vinhus,13003,Bar,"Grønlandsleiret 15, 0190 Oslo",59.912296,10.764162,24 10 19 99,8.2
+54284aac498e2fd8aae842a9,Monsun Noodlebar,13072,Asian Restaurant,"Helgesens gate 14, 0553 Oslo",59.924649,10.758329,467 70 040,7.6
+4b0588b3f964a52095d422e3,Mucho Mas,13097,Caribbean Restaurant,"Thorvald Meyers gate 36, 0555 Oslo",59.924171,10.759511,22 37 16 09,7.4
+5a2713d9f4b52569f4ad814f,Håndslag,13003,Bar,"Youngs gate 19, 0181 Oslo",59.915036,10.750367,23 65 31 20,7.6
+53177551498e1d395bbda528,Maschmanns Brasseri,13310,Modern European Restaurant,"Karenslyst allé 51, 0279 Oslo",59.921506,10.680662,22 06 32 90,8.3
+5277f3c711d22daea896bc86,QUI Taste of Italy,13236,Italian Restaurant,"Karenslyst alle 55 Skoeyen, 0277 Oslo",59.921628,10.679417,21 39 57 64,6.9
+4b14feedf964a520b7a723e3,Kaffebrenneriet,13034,Café,"Karenslyst Allé 22, 0278 Oslo",59.920194,10.683492,22 56 13 24,7.1
+515d16d6e4b0d709ed01ef7a,Joe & The Juice,13032,"Cafe, Coffee, and Tea House","Messepromenaden 2 (Karenslyst Allé), 0279 Oslo",59.92081,10.681294,,6.3
+4b59e1f3f964a520149e28e3,Vertshuset DA Capo ANS,13072,Asian Restaurant,"Drammensveien 130, 0277 Oslo",59.921501,10.687851,22 56 19 46,6.4
+53f355c8498edda3ea8fa519,Starbucks Skøyen,13035,Coffee Shop,"Karenslyst Allé 11, 0278 Oslo",59.920833,10.682693,406 38 842,6.0
+4f72d171e4b03ea6fd553f0e,Fazer kantine Skøjen,13336,Scandinavian Restaurant,"Karenslyst Allé 57, 0277, 0277 Oslo",59.921213,10.677493,,
+57da70eb498e1b19c9b7b7bb,Trio Oslo,13336,Scandinavian Restaurant,Oslo,59.921558,10.678378,22 52 32 22,
+4e3151deb61c03a1e7dab1f2,Japo Sushi,13276,Sushi Restaurant,"Karenslyst Allé 9, 0278 Oslo",59.920433,10.683747,22 55 44 22,5.9
+588f5453f68d8d04baecbf13,Narvesen,13039,Deli,"Karenslyst Allé 53 (Skøyen stasjon), 0279 Oslo",59.9221,10.679286,,
+5f40dc64ee2b6c33ae20fae3,Naturli',13377,Vegan and Vegetarian Restaurant,"Drammensveien 149, 0277",59.922541,10.681557,,
+60b1003b408c7c66cf6c29d3,Hos Alma,13310,Modern European Restaurant,"Harbitzalleen 5 Harbitz Torg, 0275 Oslo",59.924487,10.674548,,
+5f5fce932a9e7b291c54580e,Laboratoriet,13018,Pub,"Harbitzalléen 3-7, 0275 Oslo",59.924469,10.674106,,
+5f6f17c33ae7ed6421758960,Lokal,13039,Deli,,59.92434,10.673335,,
+5f3fe0b49e59e8361c8e9092,Skøien Gastrobar,13057,Gastropub,"Askekroken 11, 0277 Oslo",59.922534,10.683136,,
+5e4c25cdb06170000721d96b,Skabos Hage,13336,Scandinavian Restaurant,0278 Oslo,59.920252,10.683006,,
+5904a936bb8d366feae1d2ca,Lett,13332,Salad Restaurant,0278 Oslo,59.92052,10.683396,,
+4bc60ed36c26b713bf39ecf3,Sushi To Go,13276,Sushi Restaurant,Karenslyst Allé 9,59.920383,10.684223,,
+4ba0fc49f964a5205f8c37e3,Baker Hansen Sjølyst,13002,Bakery,"Karenslyst allé 16, 0278 Oslo",59.919696,10.68497,22 55 14 93,
+4ba15c82f964a5200fb037e3,Peppes Pizza,13064,Pizzeria,"Karenslyst Allé 18, 0278 Oslo",59.919883,10.684006,22 22 55 55,5.5
+4b0588b6f964a5209cd522e3,Galleri Erik Steen,10004,Art Gallery,"Drammensveien 130/C13, 0277 Oslo",59.921579,10.687722,22 55 09 54,
+4ba15d2bf964a52061b037e3,Dolly Dimple's Sjølyst,13064,Pizzeria,"Sjølyst plass 5, 0278 Oslo",59.92039,10.682644,04440,5.1
+62b58c6d399865208dc71b85,Noi Delicatesse,13039,Deli,0275 Oslo,59.927119,10.677218,,
+4dc8ec83b0fbf26798bf9221,Valentin Cafe DA,13065,Restaurant,"Hovfaret 17 (Skøyen), 0275 Oslo",59.926788,10.676995,22 06 16 00,
+61799a8bd04c551513ba21e6,Seconda Tappa,13236,Italian Restaurant,"Drammensveien 130, 0277 Oslo",59.921478,10.687947,,
+5bc20a17c9f907002cdf571f,Dominos Pizza,13064,Pizzeria,0275 Oslo,59.927456,10.676017,,
+50ffbaede4b0969593548081,Cafero,13034,Café,"Drammensveien 130, 0277 Oslo",59.921501,10.687851,21 44 53 43,5.3
+add24ee1ba074f8e7e7e6897,Pizzabakeren Wagner,13064,Pizzeria,"Hoffsveien 1 A, 0275 Oslo",59.923136,10.67796,67 81 74 00,
+16d27f681cd04427754e58a8,Quartus,13032,"Cafe, Coffee, and Tea House","Karenslyst allé 46, 0279 Oslo",59.921383,10.680213,22 38 47 07,
+af7b23ed9dcc4b7c8547c3d5,Kaffekompaniet,13032,"Cafe, Coffee, and Tea House","Karenslyst allé 46, 0279 Oslo",59.921344,10.680278,22 38 47 50,
+ef2227272cf34b3391b885f0,Polykem Limited Jermund Liaskar,13065,Restaurant,"Rydet 18, 6105",59.920374,10.681886,,
+a90f2a5b8f82470162a8f624,Vidar Strandskogen,13032,"Cafe, Coffee, and Tea House","Sjølyst Plass 3, 0278 Oslo",59.920192,10.681797,23 00 14 19,
+b7d3b6ef287e4c193fcbaaca,Capitan,13065,Restaurant,"Karenslyst Allé 11, 0278 Oslo",59.920794,10.682758,916 06 287,
+e45a26b1c8c34c584c19868c,Zenzi,13065,Restaurant,"Karenslyst allé 9, 0278 Oslo",59.920511,10.683619,954 57 209,
+581a66a67ef545eef88917c3,Royal League,13145,Fast Food Restaurant,"Karenslyst Alle 20, 0278 Oslo",59.920086,10.6838,23 27 96 00,
+61e7bd033fd84094c1c4c00a,Nebbet,13065,Restaurant,Oslo,59.91994,10.684173,22 56 10 04,
+fceff0f9343540ac583f04cd,Tse Pizza & Kiosk Sten-Kjetil Holandsli Flosand,13145,Fast Food Restaurant,"Tingstuveien 8A, 0281 Oslo",59.920669,10.668343,993 86 202,
+bc0c549ea0cd4d2f7579c7b4,Spektrum Of Scandinavia Ltd,13065,Restaurant,"Charlestown, 0278 Oslo",59.919543,10.684701,922 66 051,
+cc90e4d089ed40b3f44f8888,Leonardo Restauranter,13065,Restaurant,"Karenlyst Allé 7, 0278 Oslo",59.919953,10.685457,23 08 30 60,
+19a6b9e786274571dd4c1c47,Santinos,13064,Pizzeria,"Karenslyst allé 7, 0278 Oslo",59.919828,10.685534,23 08 30 60,
+26f56fdaa558452e5254ab73,Viro 1,13065,Restaurant,"Karenslyst allé 7, 0278 Oslo",59.919828,10.685534,23 08 30 60,
+fe512e60b9094aa416106eaf,Sparehandel Dagligvare Abdelilah Sebrani,13065,Restaurant,"Karenslyst Allé 7, 0278 Oslo",59.919923,10.685636,980 74 980,
+b2dfeea1ba924116ffb29882,Espresso House Norge AS avd Skøyen 820,13065,Restaurant,"Karenslyst Allé 7, 0278 Oslo",59.919971,10.685688,,
+b1d38c9d26d04396be1fbde4,Cafe Frisk Annette Eide,13065,Restaurant,"Karenslyst Allé 7, 0278 Oslo",59.919971,10.685688,23 27 70 00,
+5b80cf9c6dfb4c33fe27bb71,Skøyen Cafe - Lunch Og Pizza V/alamyar,13065,Restaurant,"Hovfaret 17, 0275 Oslo",59.926769,10.676764,21 44 51 44,
+33d452e5ceb647dd7c630d84,MRS & MR Big Wahid Amiri,13065,Restaurant,"Hovfaret 17, 0275 Oslo",59.926769,10.676764,,
+9193abc724444078de22891b,Kaffepikene Skøyen,13065,Restaurant,"Karenslyst Allé 12 /14, 0278 Oslo",59.919114,10.685935,22 44 34 44,
+1de627c3145f4ca58f5710d2,Jara Vin Import,13065,Restaurant,"St. Edmunds vei 25, 0280 OSLO",59.926399,10.671502,67 58 01 87,
+bed88e9f9bc3450fc6f573a3,Select Wine & Food,13065,Restaurant,"St Edmunds vei 25, 0280 Oslo",59.926399,10.671502,67 58 01 87,
+99dacf60282742cf47cc2a19,Le Café,13034,Café,"Karenslyst allé 12 /14, 0278 Oslo",59.918988,10.686012,24 11 31 00,
+54f06e4a498e12fe8932c08a,Postkontoret,10039,Music Venue,"Hagegata 27, 0653 Oslo",59.914183,10.774866,458 34 885,8.7
+4b0663dcf964a5206eeb22e3,Kampen Bistro,13003,Bar,"Bøgata 21, 0655 Oslo",59.913754,10.781184,22 19 77 08,8.3
+5545182e498eb2d80a874f47,Perla,13009,Cocktail Bar,"Helgesens gate 66, 0558 Oslo",59.922626,10.769505,938 86 483,9.0
+5700ed5f498e378ee10f5612,Handwerk Botaniske,13002,Bakery,"Sars' gate 1, 0562 Oslo",59.920124,10.771168,22 60 85 00,8.0
+5863a2eb460dd94c3ad99904,Boulangerie M,13002,Bakery,"Sigurd Hoels vei 45, 0655 Oslo",59.917983,10.787621,905 43 253,8.0
+4e65f707c65b2dc8a1199c41,Kaffebrenneriet,13035,Coffee Shop,"Grønlandsleiret 32, 0190 Oslo",59.911558,10.767078,22 46 13 90,8.2
+57d2c3ef498e2ade1929060e,Safe As Milk,13003,Bar,"Gladengveien 4, 0661 Oslo",59.915408,10.788358,23 89 10 92,8.0
+59cd3aa389e490561ec6977b,The Golden Chimp,13106,Dim Sum Restaurant,"Heimdalsgata 37, 0578 Oslo",59.914196,10.767149,22 19 91 22,7.9
+4bcd4b07cc8cd13a4e71c2cf,Jasmine restaurant,13099,Chinese Restaurant,"Trondheimsveien 64 (Vardøgata), 0565 Oslo",59.923191,10.7717,22 38 54 83,8.1
+4b784e43f964a520d8c32ee3,Sushi Deluxe,13276,Sushi Restaurant,"Schweigaards gate 50, 0191 Oslo",59.908867,10.768009,22 17 11 22,8.0
+5888b5094f106941b893d005,Mad Goat Tap Room,13018,Pub,"Mandalls gate 10, 0190 Oslo",59.911204,10.763099,966 53 868,8.0
+582b60ad95ffcb0e68c365ac,Bar Brutus,13025,Wine Bar,"Eiriks gate 2 (Åkebergveien), 0650 Oslo",59.911545,10.771405,22 38 00 88,7.3
+4baf68ecf964a520c6fd3be3,Vålerengafamiliens Vertshus,13022,Sports Bar,"Hedmarksgata 1 (Strømsveien), 0658 Oslo",59.909577,10.789525,22 68 23 42,7.4
+4beec322e8c3c92831149992,Sifa Restaurantene,13309,Middle Eastern Restaurant,"Motzfeldts gate 7, 0187 Oslo",59.914072,10.763311,22 05 17 17,7.3
+4b0588b2f964a5206ad422e3,Asylet,13003,Bar,"Grønland 28, 0188 Oslo",59.912873,10.762556,22 17 09 39,7.3
+4cf7e46f81cd6dcb4656840d,Hagen Cafe,13034,Café,"Hagegata 34, 0653 Oslo",59.913549,10.776305,22 19 86 31,6.5
+4b0a7ef9f964a520782423e3,Punjab Tandoori Restaurant And Bar,13199,Indian Restaurant,"Grønland 24, 0188 Oslo",59.912923,10.762081,22 17 20 86,7.0
+53286b09498ef7c14908616d,Istanbul,13356,Turkish Restaurant,Oslo,59.912851,10.761157,,6.9
+5721d96b498e605e559c33aa,La Villa,13236,Italian Restaurant,"Tøyengata 2 (1. og 2. etasje), 0190 Oslo",59.912463,10.763494,22 17 71 11,6.7
+4b23fbd6f964a520625e24e3,Ocean Cafe Bar,13003,Bar,"Trondheimsveien 20, 0560 Oslo",59.919979,10.765929,22 37 69 99,6.6
+4f089729e4b071c575aaf927,Roald & Umberto,13236,Italian Restaurant,"Schweigaards gate 56B, 0656 Oslo",59.908473,10.769704,24 07 19 72,6.7
+50f2e647e4b0afae24e1e63a,Pane & Vino,13003,Bar,"Trondheimsveien 37, 0560 Oslo",59.921065,10.76974,22 68 61 30,6.5
+56913c76498efb17d54e93e0,Hy's Sushi,13072,Asian Restaurant,"Hovinveien 39, 0661 Oslo",59.919957,10.791008,21 94 94 94,6.3
+62daf10e120c49221d036adf,Chowk,13199,Indian Restaurant,"Hagegata 23, 0654 Oslo",59.91469,10.775816,,
+5a999abfa0215b6e32d47152,Glasnost,13003,Bar,"Økernveien 9, 0653 Oslo",59.914763,10.776123,,
+4fc8dbdae4b031d74b954185,Max Hamburger Oslo,13031,Burger Joint,"Grønlandsleiret 5, 0190 Oslo",59.912771,10.763506,21 02 96 65,6.3
+4d7c027c136bf04dd058578d,Tøyen Burger,13049,Diner,"Jens Bjelkes gate 82D, 0652 Oslo",59.912397,10.773907,,
+601bda8fac59ba3c07d2872a,Farine,13002,Bakery,"Normannsgata 44, 0655 Oslo",59.911586,10.781509,934 49 247,
+51c45ec6498e29addf168a46,Pizzanino,13064,Pizzeria,,59.915235,10.788384,,
+51f150cd498ee58febe1a1f5,Peppes Pizza,13064,Pizzeria,"Rolf Hofmos gate 34 (Ensjøveien), 0655 Oslo",59.913097,10.78853,22 22 55 55,
+5d434528eebe0b00080d57df,Eagle Pub,13018,Pub,"Grønlandsleiret 17a, 0190 Oslo",59.912236,10.764522,22 17 67 03,
+60e0875922033b6dad2d2b0d,Konoji,13263,Japanese Restaurant,0560,59.919632,10.765289,,
+61e97fe7785d544028bc2292,Mad Love Pizza,13064,Pizzeria,"Grønlandsleiret 61b, 0190 Oslo",59.909588,10.768069,,
+4cc469243d7fa1cd6ab3ab5f,Hot & Tasty,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 16, 0560 Oslo",59.91979,10.765197,22 37 10 41,
+59dcfa076eda0238d56b4fb4,Grønland Gym,13003,Bar,"Rubina Ranas gate 3, 0190 Oslo",59.911485,10.762765,930 05 597,5.6
+563f7666cd108ec5ae3b27a4,Galgeberg sushi og wok,13145,Fast Food Restaurant,"Galgeberg 3, Oslo",59.907824,10.781477,,
+53fe107a498e016a83da2839,Birusia,13236,Italian Restaurant,Oslo,59.907514,10.775984,,
+4c8bc2c0f0ce236a42a411ef,Haveli Tandoori,13199,Indian Restaurant,"Strømsveien 19-23, 0657 Oslo",59.908814,10.786483,,
+4ff9655ae4b04619c846e523,Sawol Soul Food Kitchen by Café Fedora,13068,American Restaurant,"Grønland 8, 0187 Oslo",59.913088,10.761939,,
+4c17cc3f4ff90f478b750d49,1857,10004,Art Gallery,"Tøyenbekken 12, 0188 Oslo",59.912182,10.762134,,
+58bd88e104f4d737f60ef9e3,Thai City Asena,13032,"Cafe, Coffee, and Tea House","Herslebs gate 4, 0561 Oslo",59.919409,10.762566,482 89 078,
+50ed42e2e4b037265577f8b6,Intility Kantine,13336,Scandinavian Restaurant,,59.909237,10.76544,,
+58c2d44d409f5601c61f839e,Skjenkestua Studentbar,13006,Beer Bar,"Christian Krohgs gate 32, 0186 Oslo",59.916054,10.760032,,
+63148c697368e36c6e39f0b0,Kuro Oslo,13035,Coffee Shop,"Rathkes gate 9, Oslo",59.92082,10.763029,,
+5eca5e1334eba8000807e5c1,Apostrophe by Lofthus Samvirkelag,13064,Pizzeria,"7A Kirkegårdsgata, 0558 Oslo",59.921389,10.763821,,
+55194755498e8aa8ef7ba0da,L'ardoise,13002,Bakery,"Thereses gate 20 B, 0168 Oslo",59.929169,10.733096,22 11 09 65,8.6
+4b45a3c7f964a520d40e26e3,Åpent Bakeri,13002,Bakery,"Damplassen 24, 0852 Oslo",59.94422,10.732691,22 04 96 67,8.3
+580a281038fa69ffee4299e5,Heim Oslo,13032,"Cafe, Coffee, and Tea House","Colletts gate 33, 0169 Oslo",59.92713,10.738431,940 23 045,8.1
+4baf7da8f964a52031043ce3,Sushi Hjørnet Adamstuen,13263,Japanese Restaurant,"Ullevålsveien 82 C, 0454 Oslo",59.933002,10.734446,22 11 49 99,7.1
+4b2b36b9f964a52024b524e3,Kaffebrenneriet,13034,Café,"Dannevigsveien 18, 0463 Oslo",59.937354,10.752555,952 62 678,7.2
+53088698498e75d673ea6c79,Espresso House,13034,Café,"Kirkeveien 166, 0450 Oslo",59.938134,10.735599,459 40 506,5.6
+4b719c36f964a520ee502de3,Gastro Delicatesse,13039,Deli,"Ullevålsveien 113 (Fagerborggata), 0359 Oslo",59.934586,10.729471,22 59 12 05,
+617579338fa3603ae8d6c161,Ansjosen,13236,Italian Restaurant,0454 Oslo,59.931733,10.735414,,
+4b7fe26df964a5206b4230e3,La Sosta,13099,Chinese Restaurant,"Brageveien 2, Oslo",59.930951,10.73458,,
+5b30b5c04a7aae00397a0249,Grazie Mille,13034,Café,"Kirkeveien 98, 0361 Oslo",59.93264,10.724212,941 63 281,
+4c707d14d274b60c7302da0d,Dominos Pizza,13064,Pizzeria,,59.931366,10.72306,,
+4fcf9eb9e4b046dae237ca29,Beirut Kebab Merheb Kanaan,13309,Middle Eastern Restaurant,"Thereses gate 28, 0168 Oslo",59.928344,10.732636,22 46 41 00,
+57500729498ee38ae602a128,Tacoteket,13303,Mexican Restaurant,Oslo,59.940358,10.721991,,
+5f6ca6e71ce13b29fe8eca44,Union Blindern,13064,Pizzeria,0371 Oslo,59.9404,10.722099,,
+56a61f76498e9013b36674e1,Kutt Gourmet,13310,Modern European Restaurant,"Problemveien 11, Oslo",59.940395,10.721914,,
+4cc980d8d54fa1cd2bcf3729,Break,13032,"Cafe, Coffee, and Tea House","Problemveien 11, 0313 Oslo",59.94063,10.721541,22 85 33 72,
+59909a800a464d2c765e642c,Lofthus Samvirkelag Damplassen,13064,Pizzeria,"Damplassen 2 Ulleval Hageby, 0852 Oslo",59.943873,10.732744,22 60 06 66,
+57404cbe498e6896a38260cc,Ekte vare - økologisk dagligvare og café,13034,Café,"Dannevigsveien 18c, 0463 Oslo",59.937297,10.752389,401 79 422,
+4b9aca48f964a520e9d535e3,Deli Sushi,13276,Sushi Restaurant,"Wilhelms gate 8, 0168 Oslo",59.926985,10.734887,22 56 92 10,
+195998c3f6754c47992b268c,Slider's,13065,Restaurant,"Nedre Ullevål 4 A, 0850 Oslo",59.938159,10.732555,,
+7c17b590a689462b319b1d42,Hans Weisethaunet,10000,Arts and Entertainment,"Ullevålsveien 91, 0359 Oslo",59.932532,10.734049,55 10 22 26,
+696b66795dab44be6a78608c,Ullevål Kebab & Pizza Refat Bano,13145,Fast Food Restaurant,"Songsveien 8, 0451 Oslo",59.937305,10.728358,982 11 594,
+19d116c7180c4c0886d5169f,Studentkafeene Veterinærskolens Kafe,13065,Restaurant,"Ullevålsveien 72, 0454 Oslo",59.932256,10.737247,22 85 33 80,
+c9bc5e98a7b84ba0cf60a3bc,Sameiet Ullevålsalleen 6,13065,Restaurant,"Ullevålsallèen 6 A, 0852 Oslo",59.939913,10.731998,410 25 872,
+44a893f267cd430281b18328,Castberg Kniv Og Gaffel,13065,Restaurant,"August Cappelens gate 2, 0360 Oslo",59.933509,10.727471,22 53 83 06,
+c9932d9ec894427373f4d5a5,Lindern Grill Farzana Akhtar,13145,Fast Food Restaurant,"Kirkev 127, 0455 Oslo",59.933464,10.726893,22 46 98 46,
+ad2f5b6449a745b873740c20,Studentkafeene AS Avd 45 Teologikafeen,13065,Restaurant,"Blindernveien 9, 0371 Oslo",59.936099,10.725267,22 85 33 80,
+86bcd8db7a07445a7da71490,La Sosta Adamstuen,13065,Restaurant,"Vidars gate 13 B, 0452 Oslo",59.930757,10.734902,22 60 64 70,
+a215ecc230574cfe662dc431,Pizza Cavaliere Da,13145,Fast Food Restaurant,"Brageveien 2A, 0452 Oslo",59.930772,10.733964,599 02 567,
+94a2e030809e4d9ee59bfaed,Marienlyst Cafebar Z.U. Khan,13003,Bar,"Kirkeveien 104, 0361 Oslo",59.933373,10.725737,22 60 53 59,
+9f70b2944c5647cdb91e98e8,Stockman´S,13065,Restaurant,"Kirkeveien 104C, 0361 Oslo",59.933558,10.7253,22 60 53 59,
+2734329b981147ee070b12d6,Studentkafeene AS Avd 56/58 Biologikafeen/Po Lunsjbar,13065,Restaurant,"Blindernveien 31, 0371 Oslo",59.938104,10.724554,22 85 33 80,
+a184f900db4a43aa117e9f4d,Tor Andreas Skillestad,13276,Sushi Restaurant,"Kirkeveien 102 A Leilighet 17, 0361 Oslo",59.933787,10.723746,924 16 594,
+7d8143a7fc834a7a30c0c27b,Komplett Fix,13032,"Cafe, Coffee, and Tea House","Thereses gate 16A, 0452 Oslo",59.929812,10.733466,,
+7ca5197376ca409de48219cf,Bislett Bistro,13027,Bistro,"Thereses gate 20B, 0168 Oslo",59.929139,10.733276,22 46 53 00,
+93bee93121664b93d82c3b8d,Studentkafeene AS Avd 60 Kafe Sverdrup,13032,"Cafe, Coffee, and Tea House","Moltke Moes vei 37, 0851 Oslo",59.93881,10.721816,22 85 33 80,
+41c46e0e4e8c41438958c4fb,Samfunnsvitenskapelig Fakultetsforening,13032,"Cafe, Coffee, and Tea House","Moltke Moes vei 31, 0851 Oslo",59.941352,10.725173,22 85 71 36,
+0c56ab629d0249ee223dc7bc,Stensparken Uteservering Ans,13035,Coffee Shop,"Pilestredet 72, 0354 Oslo",59.928735,10.731466,22 60 15 20,
+85438c5d4e1a46fb596d59a7,Pizza Beirut Kebab & Grill Abdelhadi El Khamlichi,13032,"Cafe, Coffee, and Tea House","Thereses gate 28, 0168 Oslo",59.928439,10.732738,22 46 41 00,
+92f4e4a90d454ba5ae6e8129,Beirut Grill & Catering,13065,Restaurant,"Thereses gate 28, 0168 Oslo",59.92843,10.732623,461 32 222,
+dfd04d0c68ca46f9684a915c,Grill Beirut Kebab Ahmed Ghanim Talal Talal,13065,Restaurant,"Thereses gate 28, 0168 Oslo",59.928383,10.732572,,
+b443acdfc705417c08eddffb,Eg Drift,13065,Restaurant,"Sofies gate 60, 0168 Oslo",59.92801,10.733972,23 36 67 60,
+e23e6514ff9e4b84375fbc9c,Dominos pizza DA - Dominos pizza - Majorstua,13064,Pizzeria,"Kirkeveien 77, 0364 Oslo",59.931293,10.722136,23 32 80 80,
+b2e8d93e9b9d44422c3fe038,Middelshavets Konditori & Grillbar Nuri Y Selimoglu,13065,Restaurant,"Thereses gate 32, 0168 Oslo",59.927979,10.732457,22 37 69 99,
+02d68920dc8c4f4218013efc,Dana Bakeri,13002,Bakery,"Fagerborggata 6A, 0360 Oslo",59.928556,10.726934,22 69 41 40,
+689fa697fb8d4a7437ded148,Mat Fra Bonden,13032,"Cafe, Coffee, and Tea House","Vibes gate 31b, 0356 Oslo",59.928197,10.727397,,
+6e1cc3815b6f46cdcc66ac03,Heim St. Hanshaugen,13065,Restaurant,"Colletts gate 33, 0169 Oslo",59.927082,10.73838,22 56 70 00,
+cbc8e57542564e95e3e091f0,Collets Kafe Og Bar,13003,Bar,"Colletts gate 33, 0169 Oslo",59.927073,10.738264,22 56 70 00,
+55efd9b5498efe7ef5adcfd3,Lofthus Samvirkelag Tranen,13032,"Cafe, Coffee, and Tea House","Waldemar Thranes gate 70, 0173 Oslo",59.928047,10.749048,22 60 06 66,9.1
+4c823ef3e602b1f7c0219a7a,Liebling,13034,Café,"Øvrefoss 4 (Markveien), 0555 Oslo",59.927276,10.756588,960 45 481,8.7
+4b094acef964a5204f1523e3,Java Espressobar & Kaffeforretning,13035,Coffee Shop,"Ullevålsveien 47 (Geitmyrsveien), 0171 Oslo",59.924497,10.73953,22 46 08 00,8.8
+4ed2538df790d0703ac2495f,Focacceria,13064,Pizzeria,"Markveien 34, 0554 Oslo",59.923575,10.757497,22 35 40 60,8.7
+5646645e498e954762d5c803,Café Rouleur,13009,Cocktail Bar,"Ullevaalsveien 16A (Waldemar Thranes Gate), 0171 Oslo",59.923915,10.740495,959 60 728,8.7
+50fee353e4b063a3ad0d6922,Bombay Cuisine,13199,Indian Restaurant,"Toftes gate 19 B (Sunnmørgata), 0556 Oslo",59.929496,10.760872,22 71 88 88,8.3
+54d3a1e1498e30011a273181,Munchies Grünerløkka,13031,Burger Joint,"Thorvald Meyers gate 36 A, 0555 Oslo",59.924174,10.758985,970 19 787,8.4
+4b61a1e9f964a520ef1a2ae3,Pascal avd Ullevålsveien,13002,Bakery,"Ullevålsveien 47 A, 0171 Oslo",59.924488,10.739414,22 60 11 61,8.2
+4b16bd1ff964a520bfbc23e3,Arte Pazza,13064,Pizzeria,"Ullevålsveien 61, 0171 Oslo",59.926458,10.73824,22 46 63 77,8.1
+4b07dc88f964a520940023e3,Cocoa,13003,Bar,"Toftes gate 48 (Nissens gate), 0556 Oslo",59.925894,10.761356,22 71 71 00,8.1
+4b277be8f964a520d28624e3,Månefisken,13065,Restaurant,"Sagveien 23A, 0459 Oslo",59.931051,10.756078,22 35 60 22,7.7
+4b23e82cf964a520905c24e3,Aku-Aku Tiki Bar,13009,Cocktail Bar,"Thorvald Meyers gate 32, 0555 Oslo",59.924778,10.75942,411 76 966,7.9
+55674b33498e10d4e7ceb051,Chez Colin,13148,French Restaurant,"Fredensborgveien 44, 0177 Oslo",59.920558,10.749184,23 20 23 23,8.1
+4bc49e834cdfc9b622e09821,Pizza Ricetta,13064,Pizzeria,"Toftes gate 15 A, 0556 Oslo",59.930189,10.760768,22 35 04 00,7.7
+4baa28aff964a520374f3ae3,Sagene Lunsjbar,13034,Café,"Maridalsveien 153 B, 0461 Oslo",59.937622,10.756549,984 48 900,7.6
+5505ca91498ee93a88c87538,Lucky Bird,13055,Fried Chicken Joint,"Maridalsveien 17, Oslo (Mathallen), 0178 Oslo",59.922673,10.751554,23 89 68 66,7.3
+55e4a7c4498e2abd21182240,Pho Mai,13032,"Cafe, Coffee, and Tea House","Vogts gate 38, 0474 Oslo",59.933305,10.763046,21 64 64 77,7.1
+51bb2b5d498e0e44306c88ec,Grisen,13006,Beer Bar,"Torshovgata 2A, 0476 Oslo",59.934163,10.7628,919 10 411,7.1
+5cc5b9421543c7002cc0ff6d,Theka,13199,Indian Restaurant,"Olaf Ryes plass 10, 0552 Oslo",59.923516,10.757856,938 11 539,7.0
+4b743f90f964a520cacf2de3,Restaurant Schrøder,13336,Scandinavian Restaurant,"Waldemar Thranes gate 8, 0171 Oslo",59.923478,10.739391,22 60 51 83,7.0
+4e3296997d8bf5432e3d43d7,San Remo Pizza & Grill,13064,Pizzeria,"Torshovgata 7 (Vogts Gate), 0476 Oslo",59.933637,10.763932,22 38 17 50,6.4
+4bf2cb026a31d13ae2e7932e,Albertine,13199,Indian Restaurant,"Hallings gate 5, 0170 Oslo",59.922287,10.738753,,6.4
+4b0db073f964a520ee4d23e3,Noahs Ark ANS,13018,Pub,"Thorvald Meyers gate 23, 0555 Oslo",59.927313,10.758746,22 37 69 54,5.8
+50747477e4b0fe15225a7546,Smelteverket,10000,Arts and Entertainment,"Vulkan 17 (Maridalsveien 17A), 0178 Oslo",59.922796,10.752003,21 39 80 59,5.9
+59a180653b4e004905c49bfc,Vesuvio Cafè,13034,Café,0172 Oslo,59.925071,10.745756,918 78 986,
+4cdece1ef8a4a1435dc0d9bc,Lincoln Pub,13018,Pub,"Vogts gate 43 (Torshov Gate), 0474 Oslo",59.933541,10.763829,22 37 71 00,5.9
+4c5d93127735c9b6b8658f72,Mangiamo,13064,Pizzeria,"Thorvald Meyers gate 43 A (Helgesens gate), 0555 Oslo",59.924434,10.758945,22 71 43 00,5.8
+579cc196498e9ffc5ed5904d,Sunt og Godt Fanny Lorentzen,13032,"Cafe, Coffee, and Tea House","Thorvald Meyers gate 18, 0555 Oslo",59.928156,10.759437,,
+4b437fd4f964a520c7e125e3,Café Skansen,13003,Bar,"Rådhusgata 32, 0151 Oslo",59.910187,10.738826,24 20 13 11,8.5
+56462518498edc515ac72721,Der Peppern Gror,13199,Indian Restaurant,"Fridtjof Nansens plass 7, 0160 Oslo",59.912505,10.735379,400 07 470,8.7
+51321d86e4b0feed29c31d84,Mamma Pizza,13064,Pizzeria,"Dronningens gate 22 (Karl Johans Gate), 0154 Oslo",59.910818,10.746912,21 38 59 48,9.0
+4b894f4df964a520722a32e3,Dinner,13099,Chinese Restaurant,"Stortingsgata 22 (Klingenberggata), 0161 Oslo",59.913779,10.734836,23 10 04 66,9.0
+4bf80c66b182c9b670b8765a,Solsiden Restaurant,13338,Seafood Restaurant,"Søndre Akershus Kai 34, 0150 Oslo",59.907233,10.734714,22 33 36 30,8.7
+4b07f770f964a520b10123e3,Stockfleths,13034,Café,"Prinsens gate 6 (Dronningens gate), 0152 Oslo",59.910454,10.746733,23 03 68 20,8.9
+4b9bff9df964a520043f36e3,Jaipur Indian Restaurant & Catering,13199,Indian Restaurant,"Karl Johans gate 18 C, 0159 Oslo",59.912703,10.741836,22 42 53 11,8.4
+594c178b037be13aa5c5c68e,Røør,10003,Arcade,"Rosenkrantz gate 4, 0159 Oslo",59.915107,10.740597,930 00 764,8.4
+4b0d9d75f964a5204b4c23e3,Engebret Café,13034,Café,"Bankplassen 1, 0151 Oslo",59.908986,10.741987,22 82 25 25,7.8
+4fafbba6e4b08a88c639cc13,Paradis Gelateria,13035,Coffee Shop,"Lille Stranden 4, 0252 Oslo",59.908351,10.72321,22 83 83 00,9.2
+5c790eebbcbf7a002cf8b4fd,KöD Oslo,13383,Steakhouse,"Tollbugata 15, 0152 Oslo",59.910405,10.744987,23 96 69 38,7.9
+5505d132498e46f783fac84f,Døgnvill Burger Tjuvholmen,13068,American Restaurant,"Lille Stranden 10 (Bolette Brygge), 0252 Oslo",59.90833,10.723505,22 83 00 01,8.9
+4b3a50eff964a5207c6425e3,Olivia Aker Brygge,13064,Pizzeria,"Stranden 3 (Aker Brygge), 0250 Oslo",59.910244,10.727774,23 11 54 70,8.1
+5c8b88db1acf11002c0608a4,Atlas Brasserie & Café,13068,American Restaurant,"Jernbanetorget 2 (Amerikalinjen), 0154 Oslo",59.91074,10.74984,21 40 59 16,8.2
+4b0588b4f964a520ded422e3,Louise Restaurant & Bar,13338,Seafood Restaurant,"Stranden 3 (Aker Brygge), 0250 Oslo",59.910061,10.727684,22 83 00 60,8.0
+5436bb68498e528c8a721000,Espresso House Aker Brygge,13034,Café,"Stranden 1 (Dokkveien), 0250 Oslo",59.910462,10.728325,21 06 48 15,7.8
+5912d597dd12f844c0af44eb,Brygg Oslo,13006,Beer Bar,"Storgata 7 (Kirkeristen), 0155 Oslo",59.913292,10.748818,482 61 774,7.9
+4d5e99e05b276dcbdd3bfcc5,Amundsen Bryggeri og Spiseri,13029,Brewery,"Stortingsgata 20 (Roald Amundsens gate), 0161 Oslo",59.913653,10.734914,24 20 09 00,7.6
+4b1cf214f964a520a30a24e3,Kaffebrenneriet,13003,Bar,"Akersgata 16 (Prinsens gate), 0158 Oslo",59.91194,10.74049,22 41 66 00,7.3
+5df50c4806144d0008cdaddb,Olivia EGER,13236,Italian Restaurant,"Karl Johans gate 23 B (Etasje 1), 0159 Oslo",59.913089,10.741719,23 11 54 70,7.5
+4b0588b6f964a520b3d522e3,Lofoten Fiskerestaurant,13338,Seafood Restaurant,"Stranden 75 (Aker Brygge), 0250 Oslo",59.908642,10.724685,22 83 08 08,7.9
+58bf486fe0adac7fd2e0758e,Kullt,13003,Bar,"Rådhusgata 27 (Rosenkrantz gate), 0158 Oslo",59.911211,10.736217,23 68 78 00,7.2
+4b0588b7f964a520e1d522e3,Rorbua,13336,Scandinavian Restaurant,"Stranden 71, 0250 Oslo",59.908672,10.724505,22 83 64 84,7.8
+56b87d7e498e429dd7ab5737,Starbucks Aker Brygge,13035,Coffee Shop,"Stranden 7 (Aker Brygge), 0250 Oslo",59.909681,10.726749,920 36 078,7.6
+544a26d2498e062a21c13e15,Jarmann Gastropub,13057,Gastropub,"Stranden 1 (Grundingen), 0250 Oslo",59.910432,10.728505,22 83 28 90,7.5
+6112d65a7519122baa75d3db,Pastis,13148,French Restaurant,"Stranden 3, 0250 Oslo",59.910021,10.727813,21 02 36 30,7.5
+5c0bca4b250cab002c78bf86,The Salmon,13338,Seafood Restaurant,"Strandpromenaden 11 Tjuvholmen, 0252 Oslo",59.907594,10.722507,415 48 080,7.8
+4b76e4c2f964a520f3672ee3,Cafe Cathedral,13034,Café,"Dronningens gate 27, 0154 Oslo",59.911961,10.747499,22 33 00 35,7.4
+4b585a41f964a520fa5328e3,Beer Palace,13003,Bar,"Holmens gate 3, 0250 Oslo",59.910608,10.726258,22 83 71 55,7.5
+58e6a74a4988da41d554a5d9,Ling Ling Oslo,13102,Cantonese Restaurant,"Aker Brygge Stranden 30, 0250 Oslo",59.908472,10.72588,24 13 38 00,7.6
+556741aa498e0a4781894e69,Gangnam,13289,Korean Restaurant,"Munkedamsveien 59, 0270 Oslo",59.911047,10.721225,22 83 22 09,7.8
+54d0a3f9498e7bfe6fdb4304,Steam Kaffebar,13035,Coffee Shop,"Jernbanetorget 1 (Østbanehallen), 0154 Oslo",59.910844,10.751174,479 08 266,7.5
+4b0588b7f964a52001d622e3,Oslo Konserthus,10037,Concert Hall,"Munkedamsveien 14, 0250 Oslo",59.913295,10.729767,23 11 31 00,7.4
+4b21400cf964a520fc3824e3,Dr Jekylls,10045,Pool Hall,"Klingenberggata 4, 0161 Oslo",59.913671,10.73345,22 41 30 44,7.2
+4be5615e2468c928e9edff42,Pappabuene,13003,Bar,"Rådhusbrygge 1 1, 0160 Oslo",59.910143,10.734333,23 69 93 76,6.9
+5bd334c98d0a53002c0b92ae,Døgnvill Burger Bjørvika,13031,Burger Joint,"Operagata 6, 0150 Oslo",59.908231,10.753671,22 17 60 00,7.5
+4e2f1a5fd1646b407b8aa891,Olivia Tjuvholmen,13064,Pizzeria,"Bryggegangen 4, 0252 Oslo",59.908826,10.722554,23 11 54 70,7.5
+5821b891165d97731723a486,Olivia,13236,Italian Restaurant,"Østbanehallen, 0154 Oslo",59.910449,10.751175,23 11 54 70,7.2
+5503266a498ec719aace61b6,Asia Aker Brygge,13072,Asian Restaurant,"Stranden 1, 0250 Oslo",59.910432,10.728505,23 11 54 60,7.0
+4b06c061f964a52096ef22e3,Paddy's,13018,Pub,"Stortingsgata 28, 0161 Oslo",59.914483,10.732626,22 83 96 76,6.8
+4b7f1882f964a520251630e3,Sir Winston,13018,Pub,"Karl Johans gate 10, 0154 Oslo",59.911823,10.746293,22 41 14 41,6.6
+4bbf2082006dc9b63c0afc3f,Cafe Fiasco,13018,Pub,"Schweigaards gate 4, 0185 Oslo",59.912102,10.755484,21 66 69 57,6.9
+578a73d138fa871db4671293,Bruun-Larsen,13009,Cocktail Bar,"Torshovgata 15, 0476 Oslo",59.933249,10.76627,,8.7
+4dcfeb11b0fb25f6e36817dd,Punjabi Masala,13145,Fast Food Restaurant,"Trondheimsveien 154, 0570 Oslo",59.928945,10.777441,22 38 23 00,6.9
+59be3a00123a196ea4b96199,Baker Hansen,13002,Bakery,"Lørenveien 53, 0585 Oslo",59.929498,10.795833,940 23 808,7.3
+4ba7a8f0f964a5201da739e3,Cafe Teater & Bistro,13034,Café,"Torshovgata 33, 0476 Oslo",59.932864,10.768082,22 87 07 00,6.7
+4e19deec45dd120c121c520e,Shalimar,13199,Indian Restaurant,"Konghellegata 5, 0569 Oslo",59.929761,10.779481,22 37 47 68,
+5d8e4b0ad278ad00078fc165,The South Indian,13223,South Indian Restaurant,0570 Oslo,59.929641,10.77851,,
+4c6c024ef2846dcbe7a761e9,Bislett Kebab House Rosenhoff,13145,Fast Food Restaurant,,59.929498,10.778352,,
+4da1f376c6e96ea84271cb5d,Oslo Kebab og Pizzahus,13145,Fast Food Restaurant,"Trondheimsveien 137, 0570 Oslo",59.929277,10.778327,,
+4d41c16a7a516ea85813c782,Tasty Restaurant Shao,13099,Chinese Restaurant,"Trondheimsveien 162, 0570 Oslo",59.93006,10.777683,22 22 22 88,
+4d7d06258f89224bf9c6ae26,Best Kebab Hot,13064,Pizzeria,"trondheimsveien 159, 0570 Oslo",59.930425,10.777862,,
+54679537498e0cb221e1dc4e,Sanjay's Indian Restaurant & Bar,13199,Indian Restaurant,"Loerenveien 44 (Peter Møllers vei), 0580 Oslo",59.931345,10.789124,22 22 26 00,5.7
+4bf10c9b21072d7ff589208b,Favoritt Pizza,13064,Pizzeria,"Carl Berners plass 2, 0568 Oslo",59.92649,10.775764,22 38 38 75,
+61fd1dc50a660e1ad3fcd93d,Carl Berners Grill,13288,Kebab Restaurant,"Chr. Michelsens gate 2B, 0568 Oslo",59.926369,10.775166,,
+5b9fd64c6e488e002d706d5a,Vulkani Sushi,13276,Sushi Restaurant,0567 Oslo,59.927275,10.771203,,
+5c1d6799180b91003749ec6c,Gamle Renna,13018,Pub,"Trondheimsveien 187, 0570 Oslo",59.935098,10.780434,22 71 93 60,
+5ae383e96bdee6002c59eeb6,Faribas,13034,Café,"Trondheimsveien 99, 0565 Oslo",59.924523,10.774715,,
+60008d0ed9cc927ace047eb4,Fryd Løren Gastropub,13003,Bar,"Loerenveien 44, 0585 Oslo",59.930811,10.793359,915 17 696,
+4b92e215f964a520302434e3,Shamrock,10045,Pool Hall,"Schleppegrells gate 32 (Dælenenga), 0556 Oslo",59.92748,10.765385,22 38 05 00,5.7
+60e5da8807e44b6e35eab288,8 Fish Sushi,13276,Sushi Restaurant,"Bøkkerveien 12, 0579",59.92728,10.794323,,
+4c31f39ced37a59355046b03,Peppes Pizza,13064,Pizzeria,"Løren, Oslo",59.930873,10.792645,,5.3
+5de7dfbf7b74210008fb583e,Sugar & Spice,13072,Asian Restaurant,"Bokkerveien 4 Entrance from the outside of Vinslottet, 0579 Oslo",59.92712,10.795046,469 16 307,
+6272ac0703c6463a4b85bf76,Stykke,13064,Pizzeria,"Bøkkerveien 11, 0579",59.927395,10.796238,,
+4d668874c8dbec4a2643f0cc,Hasle Sushi Bar Henry Vu,13003,Bar,"Grenseveien 50, 0579 Oslo",59.923527,10.792928,22 07 00 80,
+5edd12d0357a39000885b314,Hy’s Asian Streetfood & Juicebar,13072,Asian Restaurant,"Lørenveien 66, 0585 Oslo",59.929235,10.798094,,
+5a48e9e51b0ea523e1322a3c,Umami Sushi,13032,"Cafe, Coffee, and Tea House","Langgata 2, 0566 Oslo",59.924057,10.768179,967 31 116,
+4b0588b6f964a52096d522e3,Kunstverket Galleri,10004,Art Gallery,"Tromsøgata 5B, 0565 Oslo",59.923245,10.770698,23 23 41 50,
+7e61016ec9f24483e83b2449,Takt,13065,Restaurant,"Sinsenveien 11, 0572 Oslo",59.929242,10.781255,22 38 44 31,
+15d9865ae4364b7704f48670,Oslo Cafe Bar,13003,Bar,"Olaf Schous vei 2, 0572 Oslo",59.930375,10.781728,900 52 937,
+40d16e02d90a451b3f69001e,Mester Rammer,10004,Art Gallery,"Hasleveien 15 C, 0571 Oslo",59.928521,10.781012,23 23 00 90,
+cb31df60cbe7434896945a94,Akati,13065,Restaurant,"Trondheimsveien 139, 0570 Oslo",59.929681,10.778441,400 97 431,
+0e6eeeec5104469eac0ffb33,Cafe Dubai Lounge Muhammed Mehdi Jawad Al Sawafi,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 139, 0570 Oslo",59.929325,10.778378,,
+9a181e1b713e47e199db6e77,Taste Of Punjab Da,13065,Restaurant,"Trondheimsveien 139 A, 0570 Oslo",59.929325,10.778378,22 35 11 11,
+4351470be1764575b99bfb00,Sushi Rosenhoff,13065,Restaurant,"Trondheimsveien 139 B, 0570 Oslo",59.929498,10.778352,452 04 531,
+2b19943e9b704addf3ed04b9,HUONG LY Vo-Thi-Ngoc-Phien,13065,Restaurant,"Trondheimsveien 135, 0570 Oslo",59.928787,10.778225,22 38 40 31,
+fee28592af5f4a0693ed1b7c,Hellströms Optiska,13065,Restaurant,"Trondheimsveien 157, 0570 Oslo",59.931199,10.778798,,
+7b1c9b75069246923c4f41ae,RAZI PIZZA Fatholla-Kassim,13065,Restaurant,"Rosenhoff gate 1, 0569 Oslo",59.928957,10.77703,22 35 16 16,
+4338d672021643fa052b41c5,Panda Restaurant,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 269, 0570 Oslo",59.93142,10.778823,917 59 715,
+3bdb39f2104a4f315b73ac0a,Whan Wilhelmsens Takeaway,13145,Fast Food Restaurant,"Trondheimsveien 161, 0570 Oslo",59.931411,10.778707,,
+576025f2ca33422699c0c917,Shanghai Grill Jian Cheng Shi,13145,Fast Food Restaurant,"Trondheimsveien 113, 0565 Oslo",59.926715,10.776958,,
+6e8db397580a435a2acc3762,Carl Berner Lille Kjøkken Van Uyen Tu,13065,Restaurant,"Trondheimsveien 113, 0565 Oslo",59.926619,10.776855,23 22 73 10,
+df163159a3aa448f3ee9343a,John Antonio Nilsen Konsulting,13065,Restaurant,"Christian Michelsens gate 3b, 0568 Oslo",59.926666,10.775211,77 80 23 70,
+346ca27ad6214a5fcd2347e8,Vulkan Burgerbar,13065,Restaurant,"Christian Michelsens gate 38, 0568 Oslo",59.927948,10.771394,915 37 833,
+ab6c1a6f5ddb4d912136b834,Saga Import,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 100, 0565 Oslo",59.925052,10.774752,904 77 024,
+5d6c9f84cfba4dd6b87e04fa,ROZA PIZZA & GRILL Thabet Al-Tayef Jasmin Al-Dareb,13145,Fast Food Restaurant,"Christian Michelsgata 28, 0568 Oslo",59.928773,10.770159,22 37 18 30,
+866c566fd82f4004f900f20b,Grillbox Ciprian Dumitru,13032,"Cafe, Coffee, and Tea House","Peter Møllers vei 3 A, 0585 Oslo",59.929931,10.792377,401 60 148,
+39bc6aa478c74c9c10e98d7c,Rodeløkka Invest,13065,Restaurant,"Hammerfestgata 8, 0565 Oslo",59.925135,10.773571,22 38 19 61,
+a0ba5a9471694d462bc07f79,Peppes Pizza,13064,Pizzeria,"Lørenveien 42, 0580 Oslo",59.930912,10.79258,22 22 55 55,
+6bd252f41b5e45cd606e64e6,Zhang Yueli,13065,Restaurant,"Gøteborggata 49, 0566 Oslo",59.926731,10.770408,22 37 67 45,
+a8f340e71f7447b5d0e549e5,Villemarange Holding,13065,Restaurant,"Johan Svendsens gate 27, 0475 Oslo",59.935117,10.775052,,
+4d4466ef1ed56dcb3903af54,St. Lars,13383,Steakhouse,"Thereses gate 45, 0354 Oslo",59.926466,10.731049,21 66 85 63,8.2
+4c20deda4d4a20a161659b70,Café Laundromat,13034,Café,"Underhaugsveien 2 (Pilestredet), 0354 Oslo",59.925371,10.730513,21 38 36 29,7.9
+4e34287ce4cdf7a42cae58d5,La Cetta Sinan Oral,13064,Pizzeria,"Thereses gate 51 (Pilestredet), 0354 Oslo",59.925909,10.730666,22 20 28 89,7.6
+4b201f36f964a520812d24e3,Cafe Nero,13006,Beer Bar,"Thereses gate 47, 0354 Oslo",59.92637,10.730947,23 19 74 47,7.4
+53ece47d498e83c38012fd53,Pauls Boutique,13009,Cocktail Bar,"Darres gate 1, 0175 Oslo",59.927516,10.751233,932 53 886,7.8
+4b06f0a6f964a520a2f322e3,House Of Sushi Kiellands Plass,13276,Sushi Restaurant,"Waldemar Thranes gate 72, 0175 Oslo",59.928281,10.750357,23 89 69 59,6.2
+4e8f54945c5c4562ef8b8095,Gastronomia Italiano,13236,Italian Restaurant,"Waldemar Thranes gate 63, 0173 Oslo",59.927653,10.749049,22 71 71 90,
+58d802bf2f91cb5e92d442b0,The Italian Job,13064,Pizzeria,"Waldemar Thranes gate 63, 0173 Oslo",59.927647,10.748946,22 37 00 08,
+57dd3f21498e73334ac9570d,Melk,10004,Art Gallery,0173 Oslo,59.926806,10.747189,,
+4c3e1498db3b1b8d89ea6495,Store Stå Pub,13018,Pub,"Thereses gate 51 (Pilestredet), 0354 Oslo",59.925909,10.730666,22 46 85 46,5.8
+641f06160bd61c40cd71b26d,POM Bistro,13027,Bistro,"Darres gate 1, Oslo",59.927536,10.751199,,
+61476ddf58452638d0cdc8d5,Pizza Al Parco,13064,Pizzeria,"Thereses gate 42, 0168 Oslo",59.926971,10.731908,75 75 16 16,
+529109ab11d224f7b1d5863e,Mamma Trans Kjøkken DA,13065,Restaurant,"Waldemar Thranes gate 32, 0171 Oslo",59.925019,10.742841,23 20 16 00,
+59fcfe58a2c00b25f6eb97e2,Valdemar Kebab & Pizza,13288,Kebab Restaurant,0171 Oslo,59.924706,10.743071,,
+4bbf22c985fbb713e3a67167,Lille Oliven,13034,Café,"Pilestredet 75 C, 0354 Oslo",59.926853,10.728711,22 56 51 69,
+5689516d498e546e3c19c0a8,Sagene Pizzaria Og Kebab,13064,Pizzeria,"Arendalsgata 3, 0463 Oslo",59.937445,10.755407,22 37 18 97,
+58ea35c5876ade784138b8fc,Fomoto,13032,"Cafe, Coffee, and Tea House","Sandakerveien 10t, 0473 Oslo",59.931624,10.758915,952 76 063,
+3a72f9e414f04be3174c2602,Green Vitality,13065,Restaurant,"Vøyensvingen 2, 0458 Oslo",59.929361,10.751831,463 63 757,
+ffbbc78efdd741d71713672d,Info Maptel Juliana Jeanette U Romano,13065,Restaurant,"Darresg 1 C, 0175 Oslo",59.927794,10.751425,,
+e423586b1d0c46cd5cb266fa,The Core,13032,"Cafe, Coffee, and Tea House","Waldemar Thranes gate 71a, 0175 Oslo",59.928061,10.752027,468 62 312,
+c60ab821171240b9fc5e9d15,Bislet Mathuse Shabnam Nazneen,13145,Fast Food Restaurant,"Thereses gate 42, 0168 Oslo",59.92701,10.731844,998 87 422,
+e654931ca0514708becb9e72,Heberlein Foods,13145,Fast Food Restaurant,"Waldemar Thranes gate 17 B, 0171 Oslo",59.924864,10.743098,455 11 301,
+245ece1c79f4429505a4f53f,Ståle Gatekjøkken Stojimir Melentijevic,13145,Fast Food Restaurant,"Uelands gate 12, 0175 Oslo",59.926003,10.749824,,
+685f9525527a4fe2138ef8dc,Ni Hao Take Away,13145,Fast Food Restaurant,"Thereses gate 47, 0354 Oslo",59.926427,10.731114,22 56 78 80,
+c2e5fc1ffee54b171514bf4c,Dattera Til Hagen Bar Og Café,13003,Bar,"Hauchs gate 7, 0175 Oslo",59.926425,10.751865,22 14 47 66,
+4b079f1cf964a52008ff22e3,Åpent Bakeri,13002,Bakery,"Åsengata 42 (Hans Nilsen Hauges gate), 0480 Oslo",59.939484,10.773693,22 60 06 66,9.1
+4c30be5b7cc0c9b6cdc1ed9a,Lofthus Samvirkelag,13064,Pizzeria,"Åsengata 42 (Hans Nielsen Hauges gate), 0480 Oslo",59.939484,10.773693,22 60 06 66,8.8
+4e9ad1166c2592b36ccecd2c,Bjølsen Bakeri,13002,Bakery,"Bergensgata 12, 0468 Oslo",59.941717,10.759031,22 23 10 02,8.2
+4b6c38f9f964a5204b2a2ce3,Mat & Mer,13039,Deli,"Bergensgata 2, 0468 Oslo",59.940082,10.758868,22 23 63 19,7.7
+4ce187ea3644a09377a45d9f,Bjølsen Sushi,13276,Sushi Restaurant,"Sarpsborggata 12C, 0468 Oslo",59.942261,10.759826,22 95 20 00,7.8
+53331e7b498e8a06a2c8e05d,Saigon Express,13072,Asian Restaurant,"Maridalsveien 157, 0461 Oslo",59.938139,10.756998,22 23 09 00,7.3
+54e22e2f498e57d91627049f,Jewel of India,13199,Indian Restaurant,"Grefsenveien 6, 0482 Oslo",59.941739,10.771132,22 22 17 70,7.8
+54076034498e1bd4f4041005,Mr. Fish,13032,"Cafe, Coffee, and Tea House","Sandakerveien 22 A (Torshovgt), 0473 Oslo",59.934055,10.761413,21 09 35 99,6.8
+4ba4fed1f964a520d6cd38e3,Never Mind Sushi,13276,Sushi Restaurant,"Vogts gate 68, 0477 Oslo",59.936905,10.76648,23 39 03 45,5.9
+4d888c3a7d4c5481fe164171,Bentse Kafeteria,13034,Café,"Bentsebrugata 11, 0469 Oslo",59.935848,10.762488,22 15 12 07,
+60fda34fda88db6810e2615b,Villa Paradiso Tivoli (Lilleborg),13236,Italian Restaurant,"Ivan Bjoerndals gate 25, 0472 Oslo",59.938219,10.763651,986 32 573,
+4b4f5c2bf964a5200e0327e3,Sushi house,13276,Sushi Restaurant,Oslo,59.93854,10.757639,,
+4e70d4c6c65b340cde9437f8,Super Grill,13145,Fast Food Restaurant,Oslo,59.937804,10.756639,,
+5c9277dac8b2fb002c275248,Tiffany's,13031,Burger Joint,"Bentsebrugata 31D, 0469 Oslo",59.939494,10.759191,,
+4b82a9d5f964a52023dd30e3,Myrens Kjøkken,13034,Café,"Sandakerveien 24 C, 0473 Oslo",59.934858,10.760474,22 37 02 70,
+5e315babcb3bb80007ba286d,Tyren Torshov,13018,Pub,"Vogts gate 60, 0477 Oslo",59.935891,10.765288,,
+4bed7072bac3c9b6a242fee9,Sun Sushi,13003,Bar,"Vogts gate 56b, 0477 Oslo",59.935574,10.76516,22 22 97 99,
+510e83c9183fb6babb98067a,China Star Wing Lim Cheung,13099,Chinese Restaurant,"Bergensgata 5 C, 0468 Oslo",59.940964,10.759495,22 23 70 45,
+4b699ea3f964a520eca92be3,Charlies Kebab,13145,Fast Food Restaurant,"Vogts gate 40, 0474 Oslo",59.933505,10.763367,22 35 72 00,
+565049e9498ef79f1f6341c9,Grytelokket,13145,Fast Food Restaurant,Oslo,59.933323,10.763565,,
+5b859f9c8fb09e002ce2653c,Sushi & Thai,13276,Sushi Restaurant,"Vogtsgate 39, 0474 Oslo",59.933216,10.763586,,
+605e1d5c0e5d7472c89e62fa,Sushi Rose,13003,Bar,"Maridalsveien 205, 0469 Oslo",59.941776,10.763075,465 18 888,
+638b862c63a22e382b7bcc45,BFF Burger diner,13049,Diner,0474 Oslo,59.932451,10.762914,,
+4ee8e6f7aa1f29ac6311cda4,Restaurant Shayan Limited,13309,Middle Eastern Restaurant,"Holsts gate 9, 0473 Oslo",59.93135,10.761587,22 38 40 89,
+572f68de498e72a564263e93,Bislett Kebab House,13145,Fast Food Restaurant,Sandakerveien,59.942287,10.770061,,
+4eb6b51129c212fb6ceedfc0,Jafs Sandaker,13031,Burger Joint,,59.942406,10.770681,,
+5d67f0034d67cb0008b874a0,Sea Sushi Bar,13276,Sushi Restaurant,"Toftes gate 20, 0557 Oslo",59.9283,10.761286,413 69 863,
+592e7f7fdb1d814344f11f5c,Kafe Tandem,13034,Café,"Grefsenveien 26, 0482 Oslo",59.943103,10.773441,917 17 200,
+4b7c456bf964a520b4882fe3,Super Grill Da,13031,Burger Joint,"Maridalsveien 154, 0461 Oslo",59.937576,10.755971,461 30 913,
+d1486157ecd34a13ae8446cc,Kvalitetmat Shahid Javed Sheikh,13145,Fast Food Restaurant,"Gjøvikgata 3, 0470 Oslo",59.939503,10.761002,22 18 24 46,
+fed9e05d21974e4c1eb70233,Ny Super Grill DA,13145,Fast Food Restaurant,"Maridalsveien 154a, 0461 Oslo",59.937567,10.755856,463 42 320,
+0769ebcccf654c7f22009b44,Solglimt Partner Service Ivar Johansen,13065,Restaurant,"Maridalsveien 129, 0461 Oslo",59.935989,10.75586,22 68 78 58,
+daff3dc495cf42cc6c7f5b60,Golfkroa Torstein Haugen,13065,Restaurant,"Sandakerveien 24c, 0473 Oslo",59.934655,10.758984,,
+e35d07abf3bd4d9fad97b83e,Sjømatboden Da,13065,Restaurant,"Vogtsgate 66, 0477 Oslo",59.936639,10.765877,,
+085132d503fd484b41ac1efa,China Grill Ans,13145,Fast Food Restaurant,"Vogtsg 56, 0477 Oslo",59.935527,10.765109,22 22 10 80,
+5b805536c62b49002c6f9c94,Katla,13032,"Cafe, Coffee, and Tea House","Universitetsgata 12, 0164 Oslo",59.916541,10.738744,22 69 50 00,8.5
+5244555b498e4bc1efeeeb8c,Aye Aye Club / Tortuga,13003,Bar,"Storgata 9, 0155 Oslo",59.913397,10.749036,22 33 20 08,7.7
+544aaef0498e7ab794906602,Brasserie Paleo,13336,Scandinavian Restaurant,"Rosenkrantz gate 1, 0159 Oslo",59.915675,10.740569,23 31 55 00,7.6
+4b51d528f964a520405727e3,Cafe Sør,13009,Cocktail Bar,"Torggata 11, 0181 Oslo",59.914037,10.748238,414 63 047,7.3
+4b487032f964a520524d26e3,Kaffebrenneriet,13034,Café,"Universitetsgata 18 (Kristian IVs Gate), 0164 Oslo",59.915688,10.737937,952 62 677,7.5
+5ccc2a933fcee80039d33e4a,Youngs,13034,Café,"Youngstorget 3 (Pløens Gate), 0181 Oslo",59.914435,10.749405,,6.7
+5ad1db56ad17892a6af66b89,Åpent Bakeri Drift AS avd Barcode,13035,Coffee Shop,"Dronning Eufemias gate 16, 0191 Oslo",59.907994,10.758498,928 59 007,8.7
+56079c05498e2ffed288315d,Nodee Barcode,13072,Asian Restaurant,"Dronning Eufemias gate 28, 0191 Oslo",59.907806,10.759462,23 10 04 61,8.2
+544691d4498e12eec6e587ff,Vaaghals,13336,Scandinavian Restaurant,"Dronning Eufemias gate 8, 0191 Oslo",59.908514,10.756726,920 70 999,7.8
+55ae506f498ebecde83e54e8,Stock,13027,Bistro,"Dronning Eufemias gate 14 (Stasjonsalmenningen), 0191 Oslo",59.908218,10.757997,21 09 03 09,7.6
+5d54253b8c55720008449e8e,Godt Brød,13002,Bakery,"Operagata 29, 0194 Oslo",59.906872,10.757615,22 68 66 00,7.7
+56018097498ee879544a045e,Vesper Bar,13003,Bar,"Dronning Eufemias gate 32 (Wismargata), 0191 Oslo",59.9076,10.760194,464 43 043,7.5
+5e21f9c75b863c00082e2d0c,Koie,13272,Ramen Restaurant,0194 Oslo,59.906871,10.755921,,7.5
+54cbb559498eab65c2c4813a,Royal Gastropub,13057,Gastropub,"Jernbanetorget 1 (Østbanehallen), 0154 Oslo",59.910757,10.751187,21 08 22 72,6.7
+4be328f5f07b0f47bc3ff743,Smia Galleri,13034,Café,"Opplandsgata 19, 0657 Oslo",59.906364,10.785448,22 19 59 20,9.0
+60f1e953f919ed39dffe9563,ZZ Pizza,13064,Pizzeria,"Oslo, Norway St. Halvards gate 33, 0192 Oslo",59.906056,10.775119,,8.2
+5299fcf2498ecb8286f80302,Galleri Gamle Oslo,10004,Art Gallery,"Enebakkveien 20, 0657 Oslo",59.907034,10.782777,980 80 006,
+572b2b5a498eacaa4468f5bd,Klosterenga Cafe,13006,Beer Bar,"Schweigaards gate 60 B, 0656 Oslo",59.907854,10.771901,413 68 291,
+4c6900980e98a59311552359,Cafe Bella,13034,Café,"Hagegata 36A, 0653 Oslo",59.913481,10.776549,21 38 45 53,
+4daf201a5da3cca6f0b830d9,Pizza & Kina Expressen Gamlebyen,13064,Pizzeria,"Munkegata 2, 0656 Oslo",59.908404,10.768254,22 22 22 22,
+61d1e7bf04c77d533e2b37bc,Himalaya Nepali,13199,Indian Restaurant,"Oslo gate 14 (Bispegata), 0192 Oslo",59.90554,10.767726,,
+6026a59581ec3c6b067b8a23,Skrenten Pizza,13064,Pizzeria,"1B Alnafetgata, 0192 Oslo",59.90236,10.771925,462 97 999,
+53f62aa6498ee1bf3be82c39,Turkish Grill House,13356,Turkish Restaurant,"Platous gate 6, 0190 Oslo",59.912351,10.76655,22 17 33 33,
+54158a7a498e05d0b8ccf184,La Mocca,13034,Café,"Platous gate 6, 0190 Oslo",59.91239,10.766486,458 14 257,
+54b41db9498ea1f75c5ba1b5,Greentaste,13379,Vietnamese Restaurant,Oslo,59.903139,10.767701,,
+4e14a058d16447c40d19f290,Grønland Pizza & Kebab,13145,Fast Food Restaurant,"Grønlandsleiret 14, 0190 Oslo",59.912347,10.765382,22 17 23 08,
+5398c9e8adb84146d90ecb02,Freds Mat & Vinhus,13065,Restaurant,"Normannsgata 5, 0655 Oslo",59.908717,10.779602,22 67 61 88,
+0a4553164e6644da3ee47ca8,Fred Ma Company Lie Ma,13065,Restaurant,"Normannsgata 5, 0655 Oslo",59.908717,10.779602,22 67 61 88,
+d1bc4005a0ac46f5ac4f35bc,Galgeberg Cafe V/vy Dinh,13065,Restaurant,"Galgeberg 3, 0657 Oslo",59.90759,10.779771,22 68 90 48,
+a90ef0754f22429a40a77b56,Ola Wang Nordic Trade Company,13065,Restaurant,"Normanns gate 14, 0655 Oslo",59.909139,10.779948,23 24 07 83,
+5b390327772345b0f71afccb,Dream Garden - Arsalan Haghpanah,13065,Restaurant,"St. Halvards gate 61 B, 0657 Oslo",59.906905,10.779991,66 78 78 16,
+17ab235cdd7a45dd31f14285,Jora Trading Limited,13065,Restaurant,"Åkebergveien 56, 0650 Oslo",59.909055,10.77774,906 07 296,
+4b63109a7b854a2dd35cba00,Kinabolle,13145,Fast Food Restaurant,"H0503 Hølandsgata 22a, 0655 Oslo",59.910246,10.781769,,
+fbb920ac5d114952c9218334,Tøyen Pizzahuset Adiba Noreen,13145,Fast Food Restaurant,"Åkebergveien 38 b, 0650 Oslo",59.909865,10.775748,22 67 35 34,
+cebce2ae14ab4763bdd61588,Matvogna Til Fredrik Og Thomas Da,13145,Fast Food Restaurant,"Åkebergveien 34 C, 0650 Oslo",59.91008,10.775131,995 16 908,
+ec6d00852fc54ff93aed3447,Gastronomi Norge,13065,Restaurant,"Kampen Hageby 2, 0655 Oslo",59.911691,10.785117,,
+dc8c18eb8a984904af0ee8cb,Adam Mohamed Moussa Al-jibawi,13065,Restaurant,"Hedmarksgata 10 A, 0658 Oslo",59.910007,10.788292,909 83 688,
+1e94842a74904eabba470750,Nadir,13065,Restaurant,"Schweigaards gate 56, 0656 Oslo",59.908473,10.769704,24 07 19 72,
+a6777ca9e2c5450ae5ded3b1,Kværnhuset Drivkraft,13065,Restaurant,"Turbinveien 26, 0195 Oslo",59.904223,10.789509,22 67 44 00,
+d5f0a78521a14fdc848b7927,Haroon Pizza & Fastfood Tahira Yasmin Inayat,13145,Fast Food Restaurant,"Borggata 7 A, 0650 Oslo",59.912283,10.771878,22 68 86 20,
+ead243adfbe442ed197a5f61,Willems Belgiske Frityr,13145,Fast Food Restaurant,"Borggata 6, 0650 Oslo",59.912388,10.770402,462 59 970,
+851d22e8e755492194ae63a8,Tøyen Kiosk Og Gategrill Mona Hilma Minster,13145,Fast Food Restaurant,"Borggata 12 B, 0650 Oslo",59.913438,10.772056,22 57 11 10,
+f9a6fef284eb4fcae5e73f5e,Dunia Grill,13145,Fast Food Restaurant,"Borggata 12 B, 0650 Oslo",59.913524,10.772043,22 19 20 20,
+a6b4ccef137245149f458d2c,Fortotto Group Chelaoulaou,13065,Restaurant,"St Halvards gate 1 C, 0192 Oslo",59.904928,10.768134,21 37 94 42,
+4ba4b290f964a5202bad38e3,Mocca Kaffebar & Brenneri,13035,Coffee Shop,"Niels Juels gate 70 (Briskebyveien), 0259 Oslo",59.919349,10.718566,22 55 55 18,8.6
+4bc07a90461576b0cd297a32,Åpent Bakeri,13002,Bakery,"Inkognito Terrasse 1 (Colbjørnsensgate), 0256 Oslo",59.916605,10.720501,22 04 96 67,8.5
+4b05c055f964a5206de222e3,Alex Sushi,13276,Sushi Restaurant,"Cort Adelers gate 2 (Solligata), 0254 Oslo",59.914737,10.720725,22 43 99 99,8.8
+5984a7fde96d0c55fc7ff2c6,Kverneriet Solli,13031,Burger Joint,"Henrik Ibsens gate 100, 0255 Oslo",59.91443,10.718492,906 00 333,8.7
+4b0588b6f964a520aed522e3,Palace Grill,13383,Steakhouse,"Solligata 2, 0254 Oslo",59.914267,10.720329,23 13 11 40,8.6
+548a1468498e8beca99420d1,Bono Food,13025,Wine Bar,"Niels Juels gate 25, 0257 Oslo",59.916164,10.714315,986 87 691,8.2
+4b995701f964a5204a7435e3,Forest & Brown,13010,Dive Bar,"Niels Juels gate 31, 0257 Oslo",59.916787,10.71498,22 55 26 80,8.0
+527bc23b498e86f2f53ed3c3,Delicatessen Aker Brygge,13003,Bar,"Holmens gate 2, 0250 Oslo",59.910671,10.727066,22 46 72 00,8.7
+4b0588b5f964a5207ed522e3,Kunstnernes Hus,10004,Art Gallery,"Wergelandsveien 17, 0167 Oslo",59.919383,10.730775,22 85 34 10,8.1
+59203364f96b2c5570ffec48,Park 29,13148,French Restaurant,"Parkveien 29, 0350 Oslo",59.920383,10.727293,481 70 000,7.9
+60c3ad4647c77877a64d6437,Kanpai Sushi & Izakaya,13276,Sushi Restaurant,"Parkveien 1b, 0350 Oslo",59.922309,10.731631,913 08 248,8.3
+54172c42498e6cd2a393d051,Burger Joint Aker Brygge,13031,Burger Joint,"Holmens gate 3, 0250 Oslo",59.910703,10.72636,21 08 22 75,8.4
+518a2e0f498e8c9225ce1979,Den Glade Gris,13026,BBQ Joint,"St. Olavs gate 33, 0166 Oslo",59.917866,10.73381,22 11 17 10,8.0
+4b0588b3f964a52079d422e3,Oslo Mikrobryggeri,13003,Bar,"Bogstadveien 6 (Holtegata), 0355 Oslo",59.924354,10.724238,22 56 97 76,7.9
+4b06cd7df964a52084f022e3,Theatercaféen,13034,Café,"Stortingsgata 24/26, 0161 Oslo",59.914024,10.73404,22 82 40 50,7.9
+54ca7f85498e99dacf276668,Villa Paradiso Frogner,13064,Pizzeria,"Sommerrogata 17, 0255 Oslo",59.915001,10.717939,917 67 639,7.2
+59ce65f84ce0664e0edec7a9,Brasserie Ouest,13148,French Restaurant,"Elisenbergveien 19, 0265 Oslo",59.91864,10.706167,464 33 555,7.5
+5c68616d318394002565278e,De La Casa Pastabar Frognerveien,13133,Colombian Restaurant,"Frognerveien 35, 0266 Oslo",59.919733,10.708924,928 33 275,7.4
+5989e5d2772fbc3df3212616,Vineria Ventidue,13025,Wine Bar,"Gimleveien 22, 0266 Oslo",59.920164,10.705469,913 58 080,7.5
+4bc8a7dd14d79521ab8a69e9,Village Tandoori,13199,Indian Restaurant,"Bygdøy allé 65, 0265 Oslo",59.918955,10.702906,22 56 10 25,7.6
+5aca4985772fbc1f5120230a,San Francisco Bread Bowl,13003,Bar,"Frognerveien 9b, 0257 Oslo",59.916399,10.715623,954 81 007,6.9
+5abe4c84d0a1495357aad363,Welhavens Skjenkestue,13018,Pub,"Welhavens gate 21, 0350 Oslo",59.921126,10.730629,481 27 541,7.3
+5a758e30da5ede14bb698407,Klimataria Taverna,13003,Bar,"Parkveien 13, 0350 Oslo",59.921763,10.730357,458 52 122,7.3
+588ce94d7a8f042236ea0917,Eldhuset Bislett,13026,BBQ Joint,"Dalsbergstien 19, 0167 Oslo",59.923145,10.732895,22 60 50 01,7.0
+4b0588b3f964a520bed422e3,Lorry,13003,Bar,"Parkveien 12, 0350 Oslo",59.920769,10.728871,22 69 69 04,6.8
+4b1ffb08f964a520a82b24e3,Olivia Hegdehaugsveien,13064,Pizzeria,"Hegdehaugsveien 34 (Oscars gate), 0352 Oslo",59.922457,10.726337,23 11 54 70,6.7
+4b895ea3f964a520a02f32e3,Yaya's Restaurant Vika,13352,Thai Restaurant,"Munkedamsveien 53 B, 0250 Oslo",59.910934,10.722586,22 83 71 10,6.8
+4b0588b7f964a52006d622e3,Josefine Vertshus,13003,Bar,"Josefines gate 16, 0351 Oslo",59.923567,10.72763,22 69 34 99,6.7
+4b6d8f27f964a520947c2ce3,Latter,10010,Comedy Club,"Holmens gate 1, 0250 Oslo",59.910904,10.726681,23 11 88 00,6.6
+53eccdf4498e796ff42459d5,Espresso House,13034,Café,"Bogstadveien 36, 0366 Oslo",59.926713,10.720199,21 06 48 13,6.7
+5322b41211d2033b46e5fe70,Espresso House,13034,Café,"Parkveien 27, 0350 Oslo",59.920553,10.727793,21 06 48 08,6.2
+638240a8241fa82c3e8a91da,Hédone,13072,Asian Restaurant,"Skovveien 15, 0257 Oslo",59.917793,10.718311,,
+6338b3e3d5876b656b063e10,Punk Royale Oslo,13336,Scandinavian Restaurant,"Frognerveien 5, Oslo",59.915951,10.716742,,
+632d91ba3b74fd22fb293e6c,Ekspedisjonshallen,13152,Brasserie,"Sommerrogata 1, Oslo",59.915205,10.719324,,
+60bd25f55469eb35cff8d143,Bastard Burgers,13031,Burger Joint,"Frognerveien 1A, 0257 Oslo",59.915186,10.717543,920 99 015,
+5e1b571c2a9626000843c1cc,BFF Diner,13068,American Restaurant,"Bygdoey alle 15, 0257 Oslo",59.915848,10.713964,904 12 351,
+4b0b2ff0f964a520502e23e3,Tullins Cafe,13034,Café,"Tullins gate 2, 0166 Oslo",59.918641,10.734745,22 20 46 16,6.1
+56b3a617498e7a23b45a7d29,The Lannisters,13016,Lounge,"Olav Vs gate 1, 0161 Oslo",59.91376,10.732911,411 05 087,6.1
+59c27bc9a9fe124f55bf12b1,Joe & The Juice,13032,"Cafe, Coffee, and Tea House","Oscarsgate 19, 0352 Oslo",59.922675,10.726888,,
+4b0588b3f964a52080d422e3,Sjakk Matt Vika,13034,Café,"Haakon VII's gate 5, 0161 Oslo",59.913759,10.731216,22 83 41 56,5.6
+5f3d3adc4e4ed1230a51c482,Sabi Sushi,13276,Sushi Restaurant,0161 Oslo,59.914464,10.7307,,
+611bf8fde45f35104e521d48,Der Pepperen Gror,13199,Indian Restaurant,0355,59.92401,10.725954,,
+5e63a4a997e2f20008d931ca,Happy Foods,13377,Vegan and Vegetarian Restaurant,"Neuberggata 2A, 0367 Oslo",59.924852,10.713233,922 42 284,
+6137c4258719902c2b75e673,Villa Heftye,13027,Bistro,"Munkedamsveien 62A, 0270 Oslo",59.910627,10.718528,922 08 221,
+4c28dfedce3fc92821db6d88,Sushi Of Life,13072,Asian Restaurant,"Munkedamsveien 14, 0161 Oslo",59.914133,10.73151,,
+5405e1ba498ebf230f2f9575,Skur 33,13236,Italian Restaurant,"Akershusstranda 11, 0150 Oslo",59.907816,10.73375,23 35 70 60,8.0
+5c7425f7d48ec1002c1418c4,New Delhi,13199,Indian Restaurant,0252 Oslo,59.908913,10.723388,,8.1
+4e764174fa76059701601102,Hanami,13263,Japanese Restaurant,"Kanalen 1, 0252 Oslo",59.908167,10.721427,22 83 10 90,8.1
+5345a9fb498e1a99c7afc9be,The Thief Foodbar,13027,Bistro,"The Thief (Landgangen 1), 0252 Oslo",59.907668,10.721162,,8.1
+4bf5567ccad2c92850e69c99,Tjuvholmen Sjømagasin,13338,Seafood Restaurant,"Tjuvholmen allé 14, 0252 Oslo",59.907818,10.722005,23 89 77 77,7.7
+57150d33498e21b5d3f9d95a,Sumo Restaurant,13276,Sushi Restaurant,"Henrik Ibsens Gt 90, 0255 Oslo",59.914619,10.719224,22 54 71 71,6.4
+4b0588b6f964a520c3d522e3,Big Horn Steak House Aker Brygge,13097,Caribbean Restaurant,"Fjordalléen 2, 0250 Oslo",59.909043,10.725326,22 83 83 63,6.5
+609578947d2e40190a81916a,Mano Pizza,13064,Pizzeria,"Frognerveien 2, 0257 Oslo",59.915299,10.717115,930 10 201,
+4f638ff1e4b087553c083641,Izakaya Oslo,13276,Sushi Restaurant,"St. Olavs gate 7, 0165 Oslo",59.918259,10.74164,463 45 679,9.1
+4b509820f964a520aa2827e3,Fuglen,13009,Cocktail Bar,"Universitetsgata 2 (Pilestredet), 0164 Oslo",59.917612,10.740102,22 20 08 80,9.1
+4b0ed142f964a520825b23e3,Sofies Mat og Vinhus,13336,Scandinavian Restaurant,"Sofies gate 15, 0170 Oslo",59.922716,10.735824,22 46 07 45,7.8
+4b87f26df964a52071d431e3,Cru,13336,Scandinavian Restaurant,"Ingelbrecht Knudssøns gate 1 (Industrigata), 0365 Oslo",59.927402,10.722841,23 98 98 98,9.2
+51fc134f498e6f753775b931,Kolonialen,13336,Scandinavian Restaurant,"Dalsbergstien 16, 0170 Oslo",59.92297,10.735143,401 03 578,7.4
+57626ba8498e040aa3c29b31,Cesar Bar og Cafe,13003,Bar,"C. J. Hambros plass 2 (Teatergata), 0164 Oslo",59.91595,10.741287,479 10 135,6.6
+63e8f2788534111d08a821a6,Down South Deli,13026,BBQ Joint,"Waldemars Thranes gate 8, 0171 Oslo",59.92335,10.739528,,
+5babdc12c0f163002ccd84e4,Parksalongen,13003,Bar,"Waldemar Thranes gate 1, 0171 Oslo",59.923017,10.73911,466 77 231,
+4bcdc4eccc8cd13a610dc3cf,Beijing Palace,13102,Cantonese Restaurant,"Pilestredet 27, 0164 Oslo",59.91768,10.738163,22 11 08 00,6.0
+5c9a0c1018d43b002ca067d5,Bislett Kebab House pilestredet,13288,Kebab Restaurant,"Pilestredet 55, 0350 Oslo",59.92292,10.731702,,
+5f4922a05c783a0b4b27818e,Breddos Tacos Oslo,13306,Taco Restaurant,"Vulkan 5, 0178 Oslo",59.922428,10.75235,,
+6132339cdae3f11262fe3d09,Skråplanet,13003,Bar,"Universitetsgata 2 Underetasjen, 0164 Oslo",59.917774,10.740018,990 15 660,
+4b0bc4ccf964a520833323e3,Delicatessen Tapasbar,13347,Tapas Restaurant,"Søndre gate 8, 0550 Oslo",59.918738,10.758459,22 71 45 46,8.8
+5533f29d498ea245fa3a9adb,Hytta Bar,13003,Bar,"Thorvald Meyers gate 70A, 0552 Oslo",59.920272,10.759572,994 63 996,8.0
+4b16b6ddf964a52071bc23e3,Trancher,13383,Steakhouse,"Thorvald Meyers gate 78, 0550 Oslo",59.918876,10.759665,22 36 47 60,7.9
+5574875a498e88c35d62ac85,Peloton,13034,Café,"Torggata 35, 0183 Oslo",59.917412,10.754392,924 89 755,8.1
+4b0588b3f964a5207ed422e3,Cafe Mir,10039,Music Venue,"Toftes gate 69, 0552 Oslo",59.921699,10.760994,22 37 39 70,7.5
+506dab8ee4b0e15ca75a4d7a,Kaffebrenneriet,13035,Coffee Shop,"Markveien 60 (at Søndre Gate), 0550 Oslo",59.918762,10.757637,952 62 685,6.9
+52759b6311d2308001f56979,Tijuana,13003,Bar,"Thorvald Meyers gate 61, 0552 Oslo",59.922063,10.759478,900 77 191,6.6
+60f6d80814289913ecd7c931,Zarathustra Meyhane,13309,Middle Eastern Restaurant,"80 Thorvald Meyers gate, 0550 Oslo",59.918558,10.759558,940 69 469,
+56d9a685498e3643a8c3bed8,Pust,13034,Café,"Slemdalsveien 1, 0369 Oslo",59.930398,10.714614,408 00 014,9.1
+553a8405498e16d13247cb68,Kverneriet Oslo,13031,Burger Joint,"Kirkeveien 64 B, 0364 Oslo",59.929241,10.714964,906 00 333,9.0
+5c28d5d3acc5f5002c8032f9,Grains,13002,Bakery,"Valkyriegata 21B, 0366 Oslo",59.930039,10.715751,930 10 994,8.0
+58c835a9c45ee3758c9204d7,À L’aise,13148,French Restaurant,"Essendrops gate 6, 0368 Oslo",59.929076,10.709495,21 05 57 01,8.0
+4b9d3371f964a520e09836e3,Larsen Restaurant,13031,Burger Joint,"Sørkedalsveien 1, 0369 Oslo",59.929883,10.71364,22 60 64 92,7.2
+5360b9e7498ea33569f3471a,The Pub,13018,Pub,"Majorstuveien 34 (Jacob Aalls Gate), 0367 Oslo",59.927555,10.715278,22 46 99 29,7.3
+58d2a3da8cfe540f75321bda,Kaffebrenneriet Majorstuen,13035,Coffee Shop,"Fridtjof Nansens vei 5, 0369 Oslo",59.930021,10.71093,952 62 698,7.0
+516e6940e4b06d9611c3431e,Mini Thai Sushi V/ Le,13032,"Cafe, Coffee, and Tea House","Fridtjof Nansens vei 2, 0369 Oslo",59.929631,10.7121,22 20 20 22,7.0
+4b0588b3f964a52096d422e3,Kaffebrenneriet,13034,Café,"Valkyriegata 3, 0366 Oslo",59.92826,10.718678,952 62 668,7.3
+5460becc498e04b020cbeb9d,Crêpes Maison Majorstuen,13032,"Cafe, Coffee, and Tea House","Sørkedalsveien 3A, 0369 Oslo",59.930154,10.713189,21 69 69 60,6.9
+4b0588b2f964a52051d422e3,Den Gamle Major,13018,Pub,"Bogstadveien 66, 0366 Oslo",59.928671,10.715518,22 46 29 04,7.1
+5a64b69df8cbd43a19ab1499,Villa Paradiso,13064,Pizzeria,"Jacob Aals gate, 0364 Oslo",59.929092,10.718211,,6.9
+4b27bb84f964a520198924e3,Pizza Pancetta Majorstuen,13064,Pizzeria,"Kirkeveien 69, 0364 Oslo",59.930362,10.719763,22 59 90 90,6.9
+4b0588b2f964a52050d422e3,Highbury,13018,Pub,"Bogstadveien 50, 0366 Oslo",59.927498,10.719028,22 46 17 71,7.0
+522750e611d2072952afd290,Starbucks Bogstadveien,13035,Coffee Shop,"Bogstadveien 60A, 0366 Oslo",59.92825,10.716868,454 89 176,6.2
+4b291c14f964a520e29824e3,Sushi & Wok,13072,Asian Restaurant,"Essendrops gate 9, 0368 Oslo",59.929622,10.711984,23 20 28 33,5.9
+4c547658fd2ea593bc3f242a,Café Billabong,13034,Café,"Bogstadveien 53 A, 0366 Oslo",59.929456,10.714347,22 60 42 97,5.7
+4de7d6c745dda9e8a3361f68,Galleri Neuf,10004,Art Gallery,Oslo,59.931788,10.715572,,
+5a31696fa0215b490c4410f7,Il Colosseo Majorstuen,13034,Café,"Sørkedalsveien 3A, 0369 Oslo",59.930232,10.713061,21 69 69 60,
+576556d5498e70081d0feee5,Japan Sushi,13276,Sushi Restaurant,Sørkedalsveien 3A,59.930154,10.713189,,
+4babc83ff964a52021c93ae3,Deli de Luca,13039,Deli,"Sørkedalsveien 2, 0356 Oslo",59.929832,10.714115,,
+4b58a3cef964a520166328e3,Chinatown Restaurant,13099,Chinese Restaurant,"Valkyriegaten 15 (Kirkeveien), 0366 Oslo",59.929511,10.716735,22 59 15 90,
+4be2cff3d27a20a18263905b,JapanTorget,13072,Asian Restaurant,Oslo,59.928601,10.714068,,
+5cb61e918c35dc002c4276ab,The Indus,13199,Indian Restaurant,"Kirkeveien 57, 0368 Oslo",59.927917,10.714267,458 03 582,
+629d04eda3a46a37ebd7ec70,Ghost Pizza,13064,Pizzeria,0368 Oslo,59.92779,10.713794,,
+4c8a682d1eafb1f797fc7935,CurryAndKetchup,13199,Indian Restaurant,,59.927707,10.713852,,
+5b7306c9e075500038248d3a,Tesoro Pizzeria,13064,Pizzeria,"Kirkeveien 51, 0368 Oslo",59.927668,10.713917,21 44 84 82,
+4c4dadfa9efabe9aaa88e568,Gandhi,13199,Indian Restaurant,"Jacob Aalls gate 16-18, 0368 Oslo",59.928064,10.71561,22 60 43 00,
+4da3599f9935a0939195c76f,Parken Sushi,13276,Sushi Restaurant,"Kirkeveien 48, 0368 Oslo",59.927587,10.712877,22 60 03 00,
+4cc1e17301fb236ab8679bba,Lofotstua,13336,Scandinavian Restaurant,"Kirkeveien 40, 0368 Oslo",59.927233,10.712287,22 46 93 96,
+599845f741868661178ad6c4,Vinderen Bydelsspiseri,13027,Bistro,"Slemdalsveien 63, 0373 Oslo",59.942115,10.705237,21 38 11 01,
+5eb56ddc4383ce0008a056df,Soho Urban Eatery,13377,Vegan and Vegetarian Restaurant,0366 Oslo,59.928282,10.718539,,
+5fd37ba85c46be1c101c5a36,Billie's Kitchen,13039,Deli,0366 Oslo,59.928291,10.718607,,
+5fb166c59a820137611c5df1,Vinderen Sushi,13276,Sushi Restaurant,0373 Oslo,59.942145,10.705057,,
+4d2dd491f728b60c0df59dfd,Mr. Sushi,13276,Sushi Restaurant,"Bogstadveien 71B, 0366 Oslo",59.927955,10.71814,,
+57de9480498e7acde36a0ffe,Little Italy,13064,Pizzeria,"Slemdalsveien 72 (Holmenveien), 0373 Oslo",59.942763,10.704554,405 53 111,
+4c41d9bfff711b8d6a871205,McDonald's,13031,Burger Joint,"Valkyriegata 13, 0366 Oslo",59.929231,10.71707,22 46 77 00,4.7
+4b4b712df964a520cc9b26e3,Burger King,13031,Burger Joint,"Valkyriegaten 11, 0366 Oslo",59.929075,10.717327,22 60 09 15,4.7
+4bbb87e03de8c9b6e4de99ad,Angus Steak House,13383,Steakhouse,"Karl johan, 0366 Oslo",59.928524,10.715891,971 37 449,
+39b5f55d8515467d8d68e75e,Mandarin House,13032,"Cafe, Coffee, and Tea House","Sørkedalsveien 5, 0369 Oslo",59.930689,10.712173,22 96 00 55,
+32cb3464330c4c2948827c18,Hang Luu Sushi,13065,Restaurant,"Sørkedalsveien 5B, 0369 Oslo",59.930698,10.712288,923 62 000,
+e0a74ca25ecc4624baad4d7c,Jia,13065,Restaurant,"Sørkedalsveien 5 A, 0369 Oslo",59.930581,10.712481,22 96 00 55,
+f909e5c8a074495ff5235372,Leikr Lasse Pedersen,13032,"Cafe, Coffee, and Tea House","Hammerstads gate 21 C, 0363 Oslo",59.93191,10.718243,918 51 100,
+c3a20c4a0de244952e469da4,Bar sushi Tjuvholmen,13065,Restaurant,"Kirkeveien 64 B, 0364 Oslo",59.929238,10.715491,23 19 63 20,
+390ab5572c1049b6c605a10e,Oslo Sushi Thuy Dang Le,13276,Sushi Restaurant,"Bogstadveien 66 A, 0366 Oslo",59.92868,10.715634,22 60 80 00,
+4bd961f80f7cd13a36657c9f,Texburger,13031,Burger Joint,"Drammensveien 215, 0281 Oslo",59.917838,10.660243,22 50 86 86,7.4
+4b6afc05f964a52095ea2be3,McDonald's,13031,Burger Joint,"CC Vest (Lilleakerveien 16), 0283 Oslo",59.917281,10.635829,22 51 94 95,6.0
+62b4557880b8bb423c34aa25,La Maison,13148,French Restaurant,0280 Oslo,59.92446,10.65462,,
+5ae86594d1a402002c53b0a6,Holgerslyst Cafe,13034,Café,"Holgerslystveien 22, 0280 Oslo",59.924581,10.65454,,
+4e4faa43d22daf51d2785fb5,Charlies Kebab,13145,Fast Food Restaurant,"Haråsveien 25, 0283 Oslo",59.918501,10.636946,09786,
+6349ae4168ad0c10551e07bc,Fly Chicken,13055,Fried Chicken Joint,0283 Oslo,59.918663,10.63596,,
+4c7034eed97fa1430362f5ca,Paradis Pizza Huset,13031,Burger Joint,"Ullern allé 4, 0381 Oslo",59.92592,10.641479,22 68 68 68,
+549074b8498e0ad7b5caf367,Niwa,13072,Asian Restaurant,"Lilleakerveien 16, 0283 Oslo",59.918622,10.6357,22 22 96 00,
+5ee3af3ac171bd04480a995b,Deli CC,13039,Deli,0283 Oslo,59.917671,10.635902,,
+5aeaa91a67e5f2002c36a143,Schlägergården,13236,Italian Restaurant,"Lilleakerveien 30, 0283 Oslo",59.920274,10.635308,,
+610e5ea16a48ee2445c8efc6,Olivenlunden 1830,13039,Deli,0283 Oslo,59.917541,10.635829,,
+632768e4220c1e4db794d220,Spice Rootz,13199,Indian Restaurant,0283 Oslo,59.91671,10.635947,,
+5918d6351987ec2534d9f1e0,Ensomhetens Teater (Tidligere Kjent Som Blindveien),13354,Theme Restaurant,"Ei gate på Ullern, 0280 Oslo",59.927749,10.656335,,
+5beefffd9411f20038efa286,Ullern Salat & Sushi Box,13276,Sushi Restaurant,"ullern allé 41, 0381 Oslo",59.928414,10.647526,967 35 544,
+558ee90a498ec31df3914d47,Jonas Jacobsen's Session House,13026,BBQ Joint,"Ullernveien 91, Oslo",59.927995,10.657008,,
+7abd27dfa82c420ae5294fa3,Kristine Myreng Myhre,13065,Restaurant,"Sørvangen 29, 0282 Oslo",59.918821,10.651562,934 09 368,
+760755cb8f1b40e6689559a7,Restauranthuset Lapsetorvet,13065,Restaurant,"Vækerø terrasse 1 C, 0282 Oslo",59.918682,10.650357,22 12 22 30,
+73d38e2b0f4b4172774d25e4,Cavalier Steaks & Pasta,13065,Restaurant,"Bestumveien 42 H, 0281 Oslo",59.921655,10.656915,22 50 08 64,
+f1793ae7e30a4573a860eeb6,Maritim Fastfood,13145,Fast Food Restaurant,"v/Texburger Drammensveien 217, 0281 Oslo",59.917706,10.659763,22 50 86 86,
+c6fcc21052d5477a1c538fca,Båtsupern på Sjølyst,13145,Fast Food Restaurant,0277 Oslo,59.91512,10.654698,951 57 000,
+6bf166ff00364be574b9f1c1,Terese Aas Holding,13065,Restaurant,"Wessels gate 8, 0165 Oslo",59.919014,10.640665,23 01 01 01,
+b3583f4cdcc945d64c7bb6d7,Luxshi Renhold & Baguette Expressen Parameswaran Murugupillai,13065,Restaurant,"Ullernveien 1 D, 0280 OSLO",59.921761,10.661047,21 91 74 96,
+b830d4a3857e4c398756d771,Kafedrift Alvdal,13065,Restaurant,"Ullern Gårds vei 40, 0382 Oslo",59.925212,10.646964,907 08 000,
+0d8dddce6e8146e1e60f9d10,Cafe Amsterdam Ans,13065,Restaurant,"Haråsveien 19 B, 0283 Oslo",59.91916,10.638072,22 50 55 00,
+f2831fae301146db605767d2,Baltus Media,10000,Arts and Entertainment,"Ullernveien 27, 0280 Oslo",59.925974,10.657191,,
+67b6df1efd82457305706307,Lilleaker Pizza Aqeelah Naz Ali,13145,Fast Food Restaurant,"Lilleakerveien 39 A, 0284 Oslo",59.922047,10.637849,22 50 20 26,
+0b26e5a6844d4134ff194395,Kinakjøkkenet-Lilleaker,13145,Fast Food Restaurant,"Haråsveien 25, 0283 Oslo",59.918432,10.63719,,
+d1451ad9bd754a2d7e9dde9d,"Charlies Kebab House, Shalem Mohammad Saleem",13145,Fast Food Restaurant,"Haråsveien 25, 0283 Oslo",59.918471,10.637126,22 35 72 00,
+f258917273984c8e63c593e9,Pars Exchange,13065,Restaurant,"Lilleakerveien 48, 0284 Oslo",59.923603,10.638795,,
+1fba18fe73374a743764f07c,Master Charlies kebab & pizza Shah,13145,Fast Food Restaurant,"Lilleakerveien 25, 0283 Oslo",59.919436,10.636569,22 50 00 90,
+f7a11473d1c249f51f780452,Lilleaker Mat,13145,Fast Food Restaurant,"Lilleakerveien 39 A, 0283 Oslo",59.920985,10.636741,941 12 525,
+94a971309a1f471a9b06d9f9,Nishi Sushi,13276,Sushi Restaurant,"Lilleakerveien 31, 0283 Oslo",59.920063,10.636181,488 47 979,
+d934d0fdac9c4e4b9daae6f9,Alireza Azarkhosh,13065,Restaurant,"Lilleakerveien 29, 0283 Oslo",59.920102,10.636117,,
+b6ee1f7b3faf4db07deba853,Gamlebadet bistro,13065,Restaurant,"Lilleakerveien 29, 0283 Oslo",59.920102,10.636117,22 50 92 00,
+db83e9faa32b4c425302c939,A Taste Of Asia DA,13065,Restaurant,"Ullern Allé 2, 0381 Oslo",59.925839,10.641731,,
+d8edbea5a3b54e46af07b541,Mats & Martin,13065,Restaurant,"Lilleakerveien 16, 0283 Oslo",59.917522,10.636219,22 50 83 00,
+01b2381c616f4c92a1ad65e5,Baker Hansen,13002,Bakery,"Lilleakerveien 16, 0283 Oslo",59.917474,10.636168,940 23 219,
+9b992fe9d7174c290046c203,Schlägergården Kafé og Catering,13034,Café,"Lilleakerveien 30 Lilleaker, 0283 Oslo",59.920481,10.635358,412 17 154,
+577d6e74c9934598c41bef3e,Smoothie Xchange CC Vest,13145,Fast Food Restaurant,"Lilleakerveien 16, 0283 Oslo",59.917417,10.636001,22 50 07 34,
+b0973c2c3c564c332f9f2840,Bagel & Juice Cafe CC Vest,13032,"Cafe, Coffee, and Tea House","Lilleakerveien 16, 0283 Oslo",59.917417,10.636001,940 23 246,
+4e246e0adb8e4b3046453f53,McDonald's,13031,Burger Joint,"Lilleakerveien 16, 0283 Oslo",59.91737,10.63595,22 51 94 95,
+706e9c24fc6f4f3ad6021a20,Mats & Martin,13065,Restaurant,"Mustads vei 1, 0283 Oslo",59.91849,10.635136,900 36 361,
+be88e6df567b4fb3f27e507f,Café Husmann,13065,Restaurant,0216 Oslo,59.916106,10.636611,484 02 010,
+6aaa579531b94d49fcce048a,Eli Catering,13065,Restaurant,"Ullern allé 28, 0381 Oslo",59.926793,10.641989,464 67 299,
+fa9b629bc7c04b8ee2907aaa,Sd Brothers,13145,Fast Food Restaurant,"Ullern Allé 41, 0381 Oslo",59.928491,10.647398,22 51 90 00,
+5c779b36d54c4e4fe70510d3,Falcon Crest,13065,Restaurant,"Ullern Alle 41, 0381 Oslo",59.92853,10.647333,24 12 93 00,
+ad6854fe1b0c41b16c9a6bc6,Café Allé,13065,Restaurant,"Ullern alle 41, 0381 Oslo",59.928521,10.647218,24 12 93 00,
+4bfc0a7bda7120a1de7449fd,Dana Bakeri,13309,Middle Eastern Restaurant,Fagerborggata 6A,59.943779,10.720888,22 69 41 40,7.8
+500172b4e4b0d8ae05d14f72,Jonathan,13276,Sushi Restaurant,Oslo,59.942774,10.704143,,7.6
+50e56c1ce4b09225247b5597,Baker Hansen Vinderen,13002,Bakery,"Slemdalsveien 70, 0370 Oslo",59.942284,10.704042,940 23 233,6.9
+4bcd44c468f976b0441d6483,United Bakeries Consept AS Avd Slemdal,13002,Bakery,"Slemdalsveien 63A (Rasmus Winderens Vei), 0373 Oslo",59.942145,10.705057,23 08 27 20,6.7
+5fc297a59a4df4149362f0e4,Sabi Sushi,13276,Sushi Restaurant,0373 Oslo,59.942813,10.704079,,
+5493029d498edf459c75f5f9,Jonathan sushi & asian dining,13276,Sushi Restaurant,"Holmenveien 1, 0374 Oslo",59.942875,10.703193,22 49 93 00,
+50e82d06e4b07c15b6e00715,Billies Kitchen,13039,Deli,"Slemdalsveien 70, 0370 Oslo",59.942275,10.703927,23 22 30 04,
+593d36536bdee61f151b3fb8,Vindern Kebab og Pizza V/ali Noman,13145,Fast Food Restaurant,"Holmenveien 11, 0374 Oslo",59.943392,10.699723,,
+4fd87b10e4b0cd4d9ea8707c,Café Årstidene,13049,Diner,"Gaustad Sykehus, Sognsvannsveien 21, 0372 Oslo",59.949945,10.719019,22 92 35 69,
+528b904411d2bd1c4bfc6315,Chabua Sushi,13276,Sushi Restaurant,,59.943383,10.699607,,
+4ce40ebd05f7a0939ec0a328,Tank,13031,Burger Joint,Oslo,59.940403,10.72193,,
+57d13c68498e1c27b12f9387,Ramen-Ya,13272,Ramen Restaurant,0313 Oslo,59.940272,10.722004,,
+4c3077efed37a5931de66803,Villa Stenersen,10004,Art Gallery,"Tuengen allé 10 C, Vinderen, 0374 Oslo",59.93927,10.698595,23 29 26 30,
+4b713b20f964a5206e3d2de3,McDonald's,13031,Burger Joint,"Torgny Segerstedts vei 11, 0372 Oslo",59.948239,10.723546,22 58 03 20,4.9
+76ccf16f3f82436c4f89830b,Vinderen Sushi & Asian Dining,13065,Restaurant,"Slemdalsveien 63, 0373 Oslo",59.947103,10.706234,919 01 900,
+0a8b93d20a904aec559ac1ae,Sio Mat og Drikke AS avd 73 Forskningsveien Spiseri,13032,"Cafe, Coffee, and Tea House","Forskningsveien 3, 0373 Oslo",59.943816,10.713516,22 85 33 80,
+52b3917df729490b3a4606cd,Studentkafeene AS 49/51 Informatikkkafeen/Ifi Lunsbar,13065,Restaurant,"Gaustadalléen 23, 0373 Oslo",59.944308,10.717007,22 85 33 80,
+6fbe681a7b8a453de10228c4,United Bakeries Consept AS Avd Vinderen Torg,13065,Restaurant,"Slemdalsveien 72, 0373 Oslo",59.942811,10.704605,67 17 78 80,
+9d27ef6319a346ffe925b928,Grace,13032,"Cafe, Coffee, and Tea House","Rasmus Winderens vei 39, 0370 Oslo",59.941568,10.708887,22 14 20 00,
+ed111c32366e4a795d6ccdfb,Jonoe Sushi,13276,Sushi Restaurant,"Holmenveien 1, 0373 Oslo",59.94295,10.70359,22 49 93 00,
+a31450e13fc84bf3c3e86cb1,Forskningsparken Bakeri,13002,Bakery,"Gaustadalléen 21, 0349 Oslo",59.942198,10.715807,953 00 484,
+799b9f5cd1824130361fea53,As Jeppe,13065,Restaurant,"Slemdalsveien 70, 0370 Oslo",59.942159,10.70412,22 14 99 17,
+46f79afdf0fd41becf74f5aa,Espresso House Norge AS avd Vindern 812,13065,Restaurant,"Slemdalsveien 63 A, 0373 Oslo",59.941905,10.704801,67 17 78 80,
+c6d37a33e5574208f63fbe9a,Shiso Caffe DA,13065,Restaurant,"Holmenveien 11, 0374 Oslo",59.943401,10.699839,912 71 598,
+0ef53c9e64464665a3d8bbbd,Roma Pizza Grill DA,13145,Fast Food Restaurant,"Holmenveien 11, 0374 Oslo",59.943401,10.699839,22 23 95 95,
+197409cc8186419fca4b5821,Dana Bakeri,13002,Bakery,"Niels Henrik Abels vei 40, 0313 Oslo",59.943717,10.721775,22 69 41 40,
+9d5387f434274585ce53c35e,Student Kebab Ahmad Vahdani,13145,Fast Food Restaurant,"Apalveien 60, 0371 Oslo",59.939903,10.716739,400 99 670,
+c8dfcddd606446871b9cdcba,Trond Gjessing,10000,Arts and Entertainment,"Veslefrikkveien 8, 0851 Oslo",59.943653,10.724883,22 46 01 00,
+de0e0c0ad6254ce37a8fcd55,Sio Mat og Drikke AS avd 62 Kafe Niels,13032,"Cafe, Coffee, and Tea House","Niels Henrik Abels vei 36, 0313 Oslo",59.942072,10.723719,22 85 33 80,
+6d3c87f2899b419857273ed7,Sio Mat og Drikke AS avd 21-22-23-24-26-31-32 Ramen Ya,13065,Restaurant,"Problemveien 11, 0371 Oslo",59.940534,10.721438,22 85 33 80,
+37697debe01141718e6bc1cb,Sio Mat Og Drikke,13032,"Cafe, Coffee, and Tea House","Problemveien 11, 0313 Oslo",59.940534,10.721438,22 85 33 80,
+58dfd449a37d7208fd86d15e,Nordvegan,13377,Vegan and Vegetarian Restaurant,"Kristian Iv's gate 15, 0164 Oslo",59.915649,10.738002,969 11 167,9.1
+55f13279498ef62f15a9ab86,United Bakeries,13002,Bakery,"Karl Johans gate 37-43 (Første etasje), 0162 Oslo",59.914295,10.737505,940 24 102,8.5
+5527c880498ed037d58bcd8b,Kaffebrenneriet Rådhusplassen,13035,Coffee Shop,"Hieronymus Heyerdahls gate 1 (Rådhusplassen), 0160 Oslo",59.911635,10.734342,902 16 023,8.0
+57484e0d498e0cddb38dfd79,New Taste Of China,13102,Cantonese Restaurant,"Tordenskiolds gate 8, 0160 Oslo",59.912186,10.735778,22 11 18 88,7.9
+4b0588b2f964a52053d422e3,Last Train,13003,Bar,"Karl Johans gate 45 (Universitetsgata), 0162 Oslo",59.914608,10.736464,22 41 52 93,7.8
+4baa3954f964a5200d553ae3,Borggården Biffrestaurant,13383,Steakhouse,"Fridtjof Nansens Plass 5, 0160 Oslo",59.913088,10.734415,22 42 09 05,7.5
+59454c314ce06616d2438d71,Eight Rooftop Bar,13009,Cocktail Bar,"Karl Johans gate 27, 0159 Oslo",59.913665,10.740113,23 21 20 00,7.6
+57ffcf2938fa57a01428c12f,Grand Café,13336,Scandinavian Restaurant,"Karl Johans gate 31, 0162 Oslo",59.913787,10.738924,981 82 000,7.5
+5d4eea07b7591000084079fd,J2,13289,Korean Restaurant,0350 Oslo,59.923929,10.731131,,
+4ba3935bf964a520b34838e3,La Såda,13064,Pizzeria,"Schultz' gate 1 (Fauchalds gate), 0365 Oslo",59.927975,10.721761,22 46 43 43,6.0
+5c015129780eee002cae04a9,Listen To Baljit,13199,Indian Restaurant,"Frognerveien 1, 0257 Oslo",59.915195,10.717617,998 62 000,8.4
+4f88500ae4b047d8490efaeb,Sawan,13072,Asian Restaurant,"President Harbitz' gate 4, 0259 Oslo",59.918767,10.715615,400 09 060,8.9
+56f68242498e4394173d7557,Eckers,13002,Bakery,"Eckebersgsgate 41, 0267 Oslo",59.920019,10.707536,,8.1
+54461601498e71ae5fa95833,Lett,13035,Coffee Shop,"Klingenberggata 7, 0161 Oslo",59.913526,10.731602,941 42 924,7.6
+4ba51a20f964a52071dd38e3,Eataly Ristorante,13236,Italian Restaurant,"Bryggetorget 18 (Aker Brygge), 0250 Oslo",59.909413,10.724452,22 83 13 00,6.3
+60d5f07d6e752e2dea230c94,Best Friends Pizza,13064,Pizzeria,0555 Oslo,59.927549,10.759341,,
+617ad18da6663f700a96d8d1,Løkka Bar & Kjøkken,13027,Bistro,0556 Oslo,59.927135,10.761299,,
+5f4d244f32f761326daf7745,Falafel n' Juice,13144,Falafel Restaurant,"Thorvald Meyers gate 33 C, 0555 Oslo",59.925657,10.758878,454 00 424,
+5d6af24aa27e1a00074da2d8,Los Tacos - Grünerløkka,13306,Taco Restaurant,"Seilduksgata 17 (Thorvald Meyers gate), 0553 Oslo",59.925394,10.759444,920 73 232,
+521485b004932bdafbffb8bc,Nydalen Bryggeri og Spiseri,13057,Gastropub,"Nydalsveien 30 A, 0484 Oslo",59.950125,10.764548,22 23 94 40,7.6
+4c74e863db52b1f7ed3677dc,Nydalen Sushi,13276,Sushi Restaurant,"Nydalsalleen 1, Oslo",59.948545,10.766774,22 02 54 00,7.8
+4c723fed13228cfaf38b2a65,Kaffebrenneriet,13035,Coffee Shop,"Vitaminveien 7-9, 0485 Oslo",59.946809,10.774872,952 62 681,8.2
+57e2b557498eab9dacddf565,Xeast,13032,"Cafe, Coffee, and Tea House","Nydalsveien 33, 0484 Oslo",59.949068,10.766169,22 23 40 40,7.5
+4c62c066e1621b8da7252453,Bambus Sushi,13276,Sushi Restaurant,"Vitaminveien 9, 0485 Oslo",59.94657,10.774616,,6.7
+5beefda41af8520039a1e703,Sumo,13263,Japanese Restaurant,0484 Oslo,59.94725,10.771531,,6.3
+575e72ac498ebb36b9b2f2c3,Telia Kantine,13336,Scandinavian Restaurant,0484 Oslo,59.952251,10.766822,,
+572b25f3498e942a163f365e,Godt Brød,13002,Bakery,"Nydalsveien 28, Oslo",59.949686,10.763971,22 95 09 03,5.9
+4bd1608477b29c7417868c82,La Cantina,13067,African Restaurant,,59.95363,10.763961,,
+56123f25498e72654853bd1a,Randi Roggenbihl Rause Retter,13030,Buffet,"Gjerdrums vei 10 A, 0484 Oslo",59.953881,10.763806,22 49 08 18,
+524aadac498ebdced87ade2b,Sbio Kroa,13003,Bar,"Nydalsveien 37, 0484 Oslo",59.948931,10.768354,977 36 099,6.0
+548b0fa7498e949de7edb8c2,Salateriet,13145,Fast Food Restaurant,"Nydalsveien 33 (Nydalsveien 33), 0484 Oslo",59.949047,10.766465,948 86 168,
+57922ccfcd101a68ea88c6f8,Joe & The Juice,13032,"Cafe, Coffee, and Tea House","Nydalsveien 33, 0484 Oslo",59.949068,10.766169,,
+57f7a35dcd10b5d062c97a8f,WHAT'SOUP Nydalen,13342,Soup Spot,"Nydalsveien 33, 0484 Oslo",59.949434,10.765733,901 61 674,
+4b4dff14f964a5207add26e3,Peppes Pizza,13064,Pizzeria,"Nydalsveien 36, 0484 Oslo",59.949932,10.766565,22 22 55 55,5.4
+6148c3bc4075ff032594ea32,Burger Shack,13031,Burger Joint,0484 Oslo,59.948574,10.766915,,
+59aae7909be5225c7b2eeab2,Smak!,13288,Kebab Restaurant,0484 Oslo,59.94855,10.766613,22 18 22 15,
+5ce2cc3a8194fc002ce10413,Dr Crunchy - Oslo Fried Chicken,13055,Fried Chicken Joint,0484 Oslo,59.948507,10.766838,,
+5b0ae971333d6b0024785d4c,Nydalen Wok,13032,"Cafe, Coffee, and Tea House","Nydalen Allé 1, 0484 Oslo",59.948498,10.766723,,
+5dcc6501bf1af40008adc9b5,Los Tacos,13306,Taco Restaurant,0485 Oslo,59.948288,10.771566,,
+5d64f83ed3702c0008393b89,Nydalen Pizza og Grill Ahmed,13145,Fast Food Restaurant,"Nydalen allé 19, 0484 Oslo",59.947712,10.767894,23 00 96 96,
+54380b26498e299b6020ee70,Cin Cin,13236,Italian Restaurant,"Nydalen Allé 19, 0484 Oslo",59.947628,10.76738,21 91 00 01,
+4e70be0c2271c7e78bebe4b8,Tavli Cafe Bar,13022,Sports Bar,"Gunnar Schjelderups vei 13 C, 0485 Oslo",59.949806,10.775649,21 99 44 44,
+5c08136265cdf80039451d93,Pink Fish,13338,Seafood Restaurant,"Vitaminveien 31, 0484 Oslo",59.947387,10.771042,458 56 176,
+5f3d0a4cdcf2fd3384235b30,Fly Chicken,13055,Fried Chicken Joint,"Vitaminveien 31, 0484 Oslo",59.947387,10.771042,404 09 831,
+5bd5d8f11af852002c465e40,Johnny Rockets,13032,"Cafe, Coffee, and Tea House","Vitaminveien 11, 0485 Oslo",59.94771,10.771812,466 74 145,
+5df8f98311ae510008da8b02,Los Tacos - Storo,13306,Taco Restaurant,"Vitaminveien 11E, 0485 Oslo",59.947266,10.771953,464 00 101,
+5c4853a6cb3fd2002ce10ad3,Brasserie Ferda,13336,Scandinavian Restaurant,"Vitaminveien 23, 0485 Oslo",59.947253,10.772202,,
+62dc3f65221a1e0e884acb2e,Redsun,13072,Asian Restaurant,0483 Oslo,59.946898,10.771646,,
+61ec5be923d27f6dbc2eb9e1,Mr Mi,13072,Asian Restaurant,"Vitaminveien 24, 0483 Oslo",59.946944,10.772082,,
+5840643592789f706d47f104,Domino's Pizza,13064,Pizzeria,0484 Oslo,59.946106,10.767502,,
+5ab647d0037be12b645275c6,Eataly,13236,Italian Restaurant,0485 Oslo,59.947414,10.774748,,
+56787239498ecc0a7f181514,Mamma Pizza,13064,Pizzeria,"Vitaminveien 7-9, Oslo",59.947361,10.774755,,
+4cdf4e3effcf3704f9031982,Nydalen Kebab og Pizza,13145,Fast Food Restaurant,"Maridalsveien 256, 0872 Oslo",59.946263,10.759983,21 05 84 84,5.6
+61b8c00dc5a7db019422d892,Three Little Birds,13009,Cocktail Bar,"Vitaminveien 18, 0483 Oslo",59.9467,10.772745,988 17 615,
+5a35b919772fbc374b461a6e,La Baguette Storo,13334,Sandwich Spot,"Vitaminveien 7-9, 0485 Oslo",59.947472,10.774948,458 61 640,
+60f9b860fb77c64b0238f071,Digg,13064,Pizzeria,0485 Oslo,59.946851,10.773761,,
+4c657564b80abe9aad35cae5,lille P,13332,Salad Restaurant,,59.946774,10.774225,,
+636e83342ad87a3093f3f9bf,Unik Sushi Og Roll,13276,Sushi Restaurant,"Nycoveien 12, 0483 Oslo",59.946312,10.772734,,
+5c115b5ab77c77002c525c72,"Little Eataly, Storo Storsenter",13236,Italian Restaurant,0485 Oslo,59.946744,10.774734,,
+53807fa1498ef9ed0508e9f8,Bit Storo Senter,13034,Café,Oslo,59.94657,10.774616,934 82 155,
+5e5a61d632281c0008954c47,Sabi Sushi Storo,13276,Sushi Restaurant,"Nycoveien 2, 0483 Oslo",59.945656,10.772372,930 04 659,
+5e245e9e313854000850ef91,Talormade,13043,Donut Shop,"Nycoveien 2, 0483 Oslo",59.945329,10.772756,930 01 227,
+4c6577809cb82d7f96d68dd2,Jordbærpikene,13034,Café,"Vitaminveien 7-9 (Vitaminveien 9), 0485 Oslo",59.947156,10.77482,406 22 120,5.4
+60c3a8501952b83610cb80e8,Lillo Lounge,13016,Lounge,"Sandakerveien 98-100, 0484 Oslo",59.94511,10.771514,942 76 659,
+5f107c78b5c3dd682b5f6f4f,Smak av Italia,13039,Deli,0484 Oslo,59.944878,10.771774,,
+5ee64a978d0fc40008aa4300,Kompis,13031,Burger Joint,"Sandakerveien 102D, 0484 Oslo",59.944806,10.771665,979 08 000,
+616c1f85138bf02ccf545ab2,Lille Saigon 1,13379,Vietnamese Restaurant,0484 Oslo,59.944737,10.771546,,
+4cf23dff88de370470f0772b,McDonald's,13031,Burger Joint,"Storo Storsenter (Vitaminveien 7-9), 0485 Oslo",59.946577,10.774639,22 15 09 24,4.9
+8654da7b66834687b1d9f2ff,Kaffepikene,13003,Bar,"Nydalsveien 33, 0484 Oslo",59.949125,10.766336,23 26 00 40,
+513a1e10e4b0753d66414302,Galleri A,10004,Art Gallery,,59.927015,10.72518,,
+560c0243498edfbe7e5fe6ea,Sporveisgata,13065,Restaurant,"Thorvald Meyers gate 61, 0552 Oslo",59.9247,10.728101,21 38 42 06,
+4d614ee2d7206ea8cecefef1,Umi Sushi,13276,Sushi Restaurant,"Neuberggata 9, 0367 Oslo",59.925615,10.714578,22 55 81 00,
+500d3199e4b042b407274718,Kafe Vigeland,13034,Café,"Frognerveien 67, 0266 Oslo",59.924958,10.707314,22 13 54 90,
+64303e8789a99d37359eb9de,Piazza Italia,13236,Italian Restaurant,"58 Frognerveien, Oslo",59.922314,10.704338,,
+4b0588b6f964a520b5d522e3,Brasserie France,13148,French Restaurant,"Øvre Slottsgate 16, 0157 Oslo",59.91317,10.742759,23 10 01 65,8.1
+4b37579df964a520904025e3,Bohemen Sportspub,13022,Sports Bar,"Arbeidergata 2, 0159 Oslo",59.914383,10.740881,22 41 62 66,7.3
+4bb71ab02ea195210e8dac2f,New Beirut Kebab,13145,Fast Food Restaurant,"Møllergata 8, 0179 Oslo",59.914141,10.746762,22 42 54 54,7.4
+4b0588b3f964a52099d422e3,Stortorvets Gjæstgiveri,13049,Diner,"Grensen 1, 0159 Oslo",59.913506,10.744812,23 35 63 60,6.6
+4bcc09203740b71353766365,Prima Fila Ristorante,13003,Bar,"Fridtjof Nansens plass 5, 0160 Oslo",59.913232,10.734568,22 42 27 50,6.5
+4b0588b3f964a5207ad422e3,The Scotsman,13022,Sports Bar,"Karl Johans gate 17, 0159 Oslo",59.912665,10.743595,22 47 44 77,6.2
+54944c06498e427c84ebd22b,Taverna'n,13027,Bistro,"Youngstorget 1, 0181 Oslo",59.914797,10.750111,400 17 437,7.1
+4b0588b7f964a520ddd522e3,La Sangria,13345,Spanish Restaurant,"Holbergs gate 19, 0166 Oslo",59.918906,10.733653,22 11 63 15,7.6
+554a4db7498ebde87bd6f1f0,Indi Spice,13198,Indian Chinese Restaurant,"Welhavens gate 2A, 0166 Oslo",59.919734,10.733586,22 20 96 08,6.6
+4b0588b3f964a52084d422e3,The Dubliner Folk Pub Oslo,10039,Music Venue,"Rådhusgata 28 (Nedre Slottsgate), 0151 Oslo",59.909754,10.740586,22 33 70 05,8.0
+4f37b82b4fc64328d5fdfddd,Yamas,13177,Greek Restaurant,"Parkveien 6, 0350 Oslo",59.92135,10.730128,22 46 89 09,
+5166e567e4b0c1d137cce039,Wasabi Sushi,13276,Sushi Restaurant,"Hagegata 22/24, 0653 Oslo",59.91447,10.775173,21 64 64 09,7.7
+564f58c6498e222d853f29d2,Brick Lane Café,13035,Coffee Shop,"Grensesvingen 7, Oslo",59.91407,10.798787,472 76 986,6.8
+596650ffb3d8e26c68341ee6,Brooklyn Burger Joint Oslo,13031,Burger Joint,"Hagegata 22, 0653 Oslo",59.914548,10.775045,405 20 202,6.8
+5222124811d2ebf3c69bae43,Pizzanini Ensjø,13064,Pizzeria,"Gladengveien 4, 0661 Oslo",59.915417,10.788474,901 91 215,
+4b22c46df964a5202b4d24e3,Folkets Kebab,13145,Fast Food Restaurant,"Grenseveien 76 (Vallefaret), 0663 Oslo",59.917063,10.800619,22 65 47 22,6.1
+4b54b4a8f964a5201dc827e3,Galgeberg Corner,13010,Dive Bar,"St. Halvards gate 65-67, 0657 Oslo",59.907258,10.780581,22 57 25 56,5.9
+5200c342498e3c2c1bbd107c,Ensjø Sushi & Wok,13072,Asian Restaurant,"Gladengveien 15b, 0661 Oslo",59.917472,10.7929,,
+557d91b1498e50ed08c518bb,Vålerenga Halal Burger,13145,Fast Food Restaurant,"Strømsveien 25A, 0658 Oslo",59.908724,10.787023,21 64 64 64,
+5f491ea866125c5f0350729e,Fresh Asian Fusion,13072,Asian Restaurant,"Grensesvingen 7 Fyrstikktorget, 0661 Oslo",59.913672,10.799314,21 93 13 13,
+53aaf494498e7499e4108b72,Malerhaugen Taverna,13027,Bistro,,59.917102,10.795469,,
+4c9231e8ae96a09334aea946,Gwen Sushi,13276,Sushi Restaurant,"Strømsveien 22 c, Oslo",59.908485,10.786767,21 68 02 68,
+54c29070498e9fdb2df9cbfe,Asia Rett Hjem Ans,13276,Sushi Restaurant,"Gladengveien 15, 0661 Oslo",59.91711,10.792195,22 19 88 88,
+51a75bdf498e96557cc4443c,Tava Restaurant & Bar,13303,Mexican Restaurant,,59.913717,10.777332,,
+56eec7b6498e7524025ae670,Marienfryd Kafé & Grill,13145,Fast Food Restaurant,"Bertrand Narvesens vei 2, 0661 Oslo",59.919909,10.790957,21 68 88 89,
+5001a27ce4b06c76d07d0a3b,"""Friends""",13145,Fast Food Restaurant,"Enebakkveien 17, 0657 Oslo",59.907623,10.782455,400 72 604,
+5fba96cba17e0d25db05a716,Indi Gastrobar,13199,Indian Restaurant,"Nordmannsgate 5B, 0650 Oslo",59.908717,10.779602,454 82 869,
+5b6e1495e7a23700395999d8,Tøyen Pizza Grill,13145,Fast Food Restaurant,"Økernveien 5, 0653 Oslo",59.914309,10.776483,22 68 58 58,
+557b0117498e2a3d9179ef03,Vålerenga Grill Og Kebab Mohammad Husnain Butt,13145,Fast Food Restaurant,"Enebakkveien 17, 0657 Oslo",59.907279,10.78198,404 72 847,
+4b05ab1df964a520a0e022e3,Torgerstuen,13034,Café,"Åkebergveien 50 A, 0650 Oslo",59.909464,10.776802,22 19 06 22,
+504cde64e4b08a4f69b29daa,Sverresgate,13177,Greek Restaurant,"Sverres gate, Oslo",59.911295,10.776644,,
+4b070d85f964a52054f622e3,Dr Pizza,13064,Pizzeria,"Galgeberg 3, 0657 Oslo",59.907473,10.779964,23 24 03 33,
+62af4c0253331d63c966007e,Food Family,13064,Pizzeria,0652,59.913795,10.774366,,
+514a3d2fe4b03ade7c2924ee,Galgeberg Corner,13031,Burger Joint,Oslo,59.906773,10.777732,,
+43d9412a107d47069b53db3e,Gv Drift,13065,Restaurant,"Gladengveien 4, 0661 Oslo",59.915361,10.788307,957 21 303,
+bea32830a3fd488ed322317e,Kafeutvikling,13065,Restaurant,"Fyrstikkalléen 7, 0661 Oslo",59.913415,10.795437,63 80 07 00,
+b260569601b54991eb821cf3,Helsfyr Matservice,13065,Restaurant,"Karoline Kristiansens vei 2, 0661 Oslo",59.913753,10.796964,22 68 09 81,
+4d1d2e0affca437d7e1b0f5c,Express Mat AS - Pizza & Kina Expressen Helsfyr,13145,Fast Food Restaurant,"Karoline Kristiansens vei 2, 0661 Oslo",59.913809,10.797131,22 22 22 22,
+07ecccb1b0534ef9e74a1f20,Fresh Sushi & Wok V/ Pham,13072,Asian Restaurant,"Gladengveien 15 B, 0661 Oslo",59.917158,10.792246,910 03 697,
+b7318a0c3c9f4feb4e9e3656,Mazhar Servering,13145,Fast Food Restaurant,"Gladengveien 15b, 0661 Oslo",59.917197,10.792182,,
+4e53c7e122711d4da5c011c8,Japo Sushi Sognsvann,13276,Sushi Restaurant,"Sognsveien 70, 0855 Oslo",59.948035,10.731588,,7.0
+4be1941d594bc928c9eeabbb,Dolly Dimple's,13064,Pizzeria,"Ullevaal Stadion (Sognsveien 73), 0854 Oslo",59.948107,10.732512,,
+5cd1b4a90e3239002cb6e7d3,Domino's Pizza Ullevaal,13064,Pizzeria,0855,59.948383,10.733231,,
+4c0691ed8a81c9b64ce92590,Burger King,13032,"Cafe, Coffee, and Tea House","Sognsveien 75A, 0855 Oslo",59.948607,10.732729,22 18 48 31,5.2
+52f28957498ebf05707ee65e,Tåsen grill & pizza,13031,Burger Joint,,59.948718,10.744818,,
+55be4cfc498ed9ea41197961,Pizzabakeren,13064,Pizzeria,"Tåsenveien 26, 0853 Oslo",59.94398,10.74758,22 18 18 20,
+55b674ff498e5794439b7ab7,Peppes Pizza,13064,Pizzeria,"Tåsenveien 31, 0870 Oslo",59.944665,10.749055,22 22 55 55,
+2b6c3e47b1bf4918828ec5ef,Justwokit,13145,Fast Food Restaurant,"Trondheimsveien 139, 0570 Oslo",59.947814,10.731563,,
+e7abbb387b1c43ac216201a4,Dolly Dimple's Ullevål Stadion,13064,Pizzeria,"Sognsveien 75 A, 0855 Oslo",59.948568,10.732794,04440,
+c3e7d51f9bef4bd52a37f2af,Fyr Bistronomi & Bar,13032,"Cafe, Coffee, and Tea House","Sognsveien 75 A, 0855 Oslo",59.948577,10.732909,459 16 392,
+cc33c7e5c3c549cb27c642a6,Burger King,13031,Burger Joint,"Sognsveien75, 0855 Oslo",59.948719,10.732777,22 18 48 31,
+e269823ec0c7462dcb91af3b,Roar Lundebø,13032,"Cafe, Coffee, and Tea House","Sognsv 75, 0855 Oslo",59.948542,10.734143,22 18 48 31,
+82467f7e11f24ea05eff50da,Bone's - Kenneth Jensen,13065,Restaurant,"Sognsveien 75, 0855 Oslo",59.948512,10.734323,,
+e8a8cf8ca8c846b5feccd236,Baker Hansen,13002,Bakery,"Sognsveien 75, 0805 Oslo",59.948599,10.734309,940 23 232,
+ed2e351a0561473d3f86362c,Heidi R Norgård,13065,Restaurant,"Burger King Sognsveien 75, 0855 Oslo",59.949138,10.73224,22 18 48 31,
+9a909684d1784047d8eeaf96,Egon,13065,Restaurant,"Ullevål Stadion, 0855 Kristiansand",59.949454,10.736285,,
+f3d28e674b3643294bfbcd74,Dag Hol,10000,Arts and Entertainment,"Nils Lauritssøns vei 26, 0854 Oslo",59.946976,10.73935,22 23 48 80,
+01145b31c1024f5cb9520ae2,Naturgodt,13032,"Cafe, Coffee, and Tea House","Nils Bays vei 76, 0855 Oslo",59.951213,10.734674,,
+d11d8396370447cefa981431,Chatchada,13032,"Cafe, Coffee, and Tea House","P. A. Munchs vei 14, 0870 Oslo",59.945276,10.744519,,
+1646e95a48124321050d7265,Abel Revixit,13032,"Cafe, Coffee, and Tea House","Vestgrensa 2, 0851 Oslo",59.940784,10.729118,,
+68952a32b22e4ae516e9ed71,Artemis,13065,Restaurant,"Gjennomfaret 9, 0876 Oslo",59.951489,10.746621,22 23 70 90,
+a00bedf7bbec43691f175870,C Og M,13064,Pizzeria,"Tåsenveien 26, 0853 Oslo",59.943855,10.747657,22 18 18 20,
+a544d7ef348c49c94a56d378,Nirmal Singh Restaurantdrift,13065,Restaurant,"Valkyriegata 11, 0366 Oslo",59.929123,10.717379,982 54 108,
+4b23b3b1f964a5203e5824e3,Kaffe & Brød Disen,13034,Café,"Disenveien 31, 0587 Oslo",59.941586,10.795657,934 37 224,7.9
+5f00bbbb68b9341b7c00cc7a,Campino Sinsen,13064,Pizzeria,"Hans Nielsen Hauges gate 37, 0481 Oslo",59.938601,10.780375,414 91 111,
+4de8f1fe1838b9ad8d1aec98,Villaria Pizza,13064,Pizzeria,"Sinsenterrassen 14, 0574 Oslo",59.933771,10.781978,22 22 51 51,
+516ed01d498ea3466f767621,Pizza Pancetta Grefsen,13032,"Cafe, Coffee, and Tea House","Grefsenveien 6, 0482 Oslo",59.941671,10.771376,22 22 27 70,
+4c9a395da004a1cd1e77466e,Skeidkiosken,13145,Fast Food Restaurant,"Kjelsåsveien, Oslo",59.943596,10.78711,,
+609578a5cecd5a0479ee47e3,New Winny Kebab,13288,Kebab Restaurant,"57 Grefsenveien, 0487 Oslo",59.945321,10.780569,,
+529f58cd498e061b3dc0cf31,Lili China,13072,Asian Restaurant,,59.931136,10.777989,,
+087bd77c96274bdc8931d19c,Enrique Rota Coma Bella Napoli,13065,Restaurant,"Borger Withsgate 29-1, 0482 Oslo",59.940916,10.777454,22 22 16 88,
+c096707da72c46dccfc096b3,Mona Blix,13065,Restaurant,"Kyrre Grepps gate 32, 0479 Oslo",59.936794,10.774624,22 22 49 30,
+70709d1e37344fab2edd4b0b,Par Event,13065,Restaurant,"Nydalen Allé 37A, 0480 Oslo",59.939226,10.773206,924 12 141,
+1e981a4c826046c726e64f9a,Wokmakeren DA,13065,Restaurant,"Amtmann Meinichs gate 17, 0482 Oslo",59.941405,10.774164,22 20 09 28,
+3389cfab60c34296dd5256ba,Cafe Cortado & Bar Hossain Akoudad,10024,Movie Theater,"Grefsenveien 6, 0482 Oslo",59.941727,10.771543,22 89 05 60,
+89c1030de0dc4d27472b6103,Ny Skeid Pizza Og Grill,13145,Fast Food Restaurant,"Kjelsåsveien 9, 0488 Oslo",59.943438,10.786198,22 22 20 01,
+49dfda749f6f42d9d4c73834,Kjelsås Pizza & Kebab Mina Samani,13145,Fast Food Restaurant,"Kjelsasveien 9, 0488 Oslo",59.943477,10.786134,22 22 20 01,
+c950aa7610514e0c6b946f07,Vecchia Roma Jazar,13065,Restaurant,"Grefsenveien 26, 0774 Oslo",59.943216,10.773775,462 32 939,
+4664a49b185347a3a4dc8245,Bit It,13065,Restaurant,"Sandakerveien 64, 0484 Oslo",59.941658,10.770092,21 39 27 52,
+cea0896f14874388367c61d0,Sameiet Stabekk-tunet Bygg Iv,13065,Restaurant,"Sandakerveien 64, 0484 Oslo",59.941536,10.769642,67 57 40 00,
+3b82a13685194460d4026fd7,Foeniks Limited,13065,Restaurant,"Vossegata 46 A, 0475 Oslo",59.933723,10.771227,901 23 105,
+450388929e1343f6e0bbcbb4,Lille Spiseri,13065,Restaurant,"Treschows gate 4, 0477 Oslo",59.940414,10.767063,976 05 101,
+079f7161d157458f3c62bbe1,The Frogner Social Tapas & Cocktail,13065,Restaurant,"Sinsenveien 51, 0585 Oslo",59.933859,10.790443,482 21 448,
+938479e6c9ea45521dbd5aea,Oslo Lunsj,13065,Restaurant,"Per Kvibergs gate 14, 0478 Oslo",59.934777,10.768437,979 39 836,
+99fe264b8729481b16496258,Cene,13065,Restaurant,"Per Kvibergs gate 14, 0478 Oslo",59.934777,10.768437,22 38 44 30,
+59b1c0e34f0e5866b60aa5b2,Øst,13022,Sports Bar,"Innspurten 12E, 0663 Oslo",59.918253,10.804649,464 24 737,7.1
+4c7be2c2bd346dcbc07ffcef,Hasle Pizza Bar,13064,Pizzeria,"Grenseveien 50, Oslo",59.923635,10.792619,,
+53fb607b498e5d7c6cec1c62,Domino's Pizza,13064,Pizzeria,"Lørenveien 50, 0585 Oslo",59.930039,10.795459,03330,6.3
+4cc2cd5101fb236a442aa1ba,Pizza Driver,13064,Pizzeria,"Grenseveien 40, 0575 Oslo",59.924666,10.788957,22 19 19 19,
+61dc6ac8c77fa05364eb5838,Lunar Restaurant,13072,Asian Restaurant,0585,59.92941,10.797359,,
+51cc5310498ea61fd30bd9f1,Artgate.no,10004,Art Gallery,"Hasleveien 15C, 0571 Oslo",59.928521,10.781012,930 29 531,
+6140db82b0a71963153ee50b,Trattoria Molto,13236,Italian Restaurant,"Lørenfaret 1, 0580 Oslo",59.930935,10.799384,,
+a410cdf5188c4fbafc2c23f0,Hasle Sushi Diep Hong Thi VU,13065,Restaurant,"Grenseveien 50, 0579 Oslo",59.923653,10.79285,414 59 488,
+5cd3aa1d1ff54e6605664f32,Barservice,13065,Restaurant,"Hovinveien 54 A, 0576 Oslo",59.922451,10.792621,926 50 402,
+2f8435f5c3bc41e1b2f219f2,Super Sky Grill Mohammad Arif,13145,Fast Food Restaurant,"St Jørgensv 31, 0662 Oslo",59.921467,10.796335,22 17 27 75,
+2911dfbafd1c47c7a7cbd3cf,Working On A Dream Ivana Gvozden,13065,Restaurant,"Einars vei 4, 0575 Oslo",59.922991,10.787162,,
+b48d77dffeb64e86060245e5,Cafe Drop Pei Xin Li,13065,Restaurant,"Eikenga 4, 0579 Oslo",59.924766,10.798705,,
+229b6629a49e462fa91878a3,Aroy,13065,Restaurant,"Traneveien 1, 0575 Oslo",59.925311,10.787106,481 51 778,
+52857ee43c7446b505c4f81c,Døgnvill Drift,13065,Restaurant,"Økernveien 51, 0576 Oslo",59.921077,10.785111,22 68 08 00,
+c4a0ce59ecec44d87d9cded8,Aegean Mat,13065,Restaurant,"Hasleveien 31, 0575 Oslo",59.927885,10.786369,,
+4f7e1f367677410476bfff0c,Rabarbra Cafe og Catering AS Konkursbo,13065,Restaurant,"Lørenveien 63, 0580 Oslo",59.928885,10.798672,23 00 34 00,
+ba2c861a1c87410813c0cc31,Crave Health,13032,"Cafe, Coffee, and Tea House","Seljeveien 35, 0575 Oslo",59.929605,10.788742,450 96 791,
+a949b4d720a644f572fcb9e3,Line Kristoffersen Drift,13032,"Cafe, Coffee, and Tea House","Dronning Ingrids Plass 1, 0576 Oslo",59.919731,10.781339,934 56 137,
+6cf3186724944a589c4e0d5d,Instalink,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 4A, 0581 Oslo",59.92508,10.806141,917 77 012,
+f05462030ba54d071f27e54a,Madicken,13065,Restaurant,"Innspurten 16, 0663 Oslo",59.920233,10.805288,22 65 03 00,
+60f224c1981c499462f922aa,Toppen 2 Tariq Mahmood,13145,Fast Food Restaurant,"Grensev 76, 0663 Oslo",59.917198,10.800657,22 63 02 63,
+41b2c61543a64edd8bff6d5b,Valle Kiosk & Gatekjøkken Alam Iffat,13145,Fast Food Restaurant,"Grenseveien 76, 0663 Oslo",59.917198,10.800657,22 65 60 02,
+9d3d085f03d94666fb9ef297,Sanjays,13065,Restaurant,"Lørenveien 44, 0585 Oslo",59.930685,10.793608,22 22 26 00,
+803d7bb36cf04ad69d82b42c,Jonathan Løren AS Konkursbo,13032,"Cafe, Coffee, and Tea House","Lørenveien 44, 0585 Oslo",59.930762,10.79348,23 23 90 90,
+81e470a2a11946674a33f580,Østlandske Servering DA,13065,Restaurant,"Grenseveien 22, 0571 Oslo",59.926024,10.778231,22 38 53 14,
+fca73a7eec034a8b37687c43,Chaplin Gatekjøkken Bela,13145,Fast Food Restaurant,"Økernveien 145, 0580 Oslo",59.928515,10.804633,944 39 776,
+811e6af61c5b43d9a25d97a6,Avd. Økern,13065,Restaurant,"Økernveien 145, 0580 Oslo",59.928515,10.804633,22 97 08 08,
+51c9bb15498e48d4b4dcda7b,Umai - Sushi,13276,Sushi Restaurant,"Lørenveien 43, 0585 Oslo",59.930559,10.79199,21 45 37 60,8.3
+4cac431f14c33704d279ee3b,Makan Cafe,13099,Chinese Restaurant,"Økernveien 145, 0580 OSLO",59.928668,10.804902,958 81 755,
+4bcf399877b29c744ba88882,PizzaBuzzen,13064,Pizzeria,,59.929769,10.805464,,
+60d5eb4ab3f2f34d4f330c12,Wraps & Coffee,13035,Coffee Shop,"Ulvenveien 82E, 0581 Oslo",59.92575,10.811945,981 37 640,
+4f4f95dde4b0db329841e878,Burger King,13145,Fast Food Restaurant,Oslo,59.931271,10.812464,,
+5a8c5ad0b6b04b2d4e54d10c,Pizzabakern,13064,Pizzeria,"Gladengveien 24, 0661 Oslo",59.919278,10.793565,979 43 000,
+2bf021b0ae30462a3c5588d5,PizzaPartner,13064,Pizzeria,"Ulvenveien 75 (Økern/Ulven) og Rosenholmveien 4 (Holmlia), 0581 Oslo",59.92705,10.803274,22 66 66 66,
+ff3f0ab5f0094c5414a92b1d,Cafe Drop Li,13032,"Cafe, Coffee, and Tea House","Haslevangen 33, 0579 Oslo",59.924903,10.799912,22 65 28 40,
+5b8e431438a04a91fbc55ca2,Cafe Drop Shot A/S -,13065,Restaurant,"Eikenga 4, 0579 Oslo",59.924775,10.79882,22 65 28 40,
+1ec364053d05473f69d30af4,Sunport Company Zamani,13065,Restaurant,"Økern Torgvei 1, 0580 Oslo",59.930348,10.805645,22 38 05 10,
+df3e0260569748463f3aac33,Yi Xiang Travel,13065,Restaurant,"Lørenvangen 28, H202, 0585 Oslo",59.93177,10.797421,468 89 895,
+c8df5e4cb7064151c4f33add,Smaken,13065,Restaurant,"Peter Møllers vei 5 A, 0585 Oslo",59.930305,10.792671,,
+16f924a1d9ea45148a37be5a,Løren Konsept,13065,Restaurant,"Lørenveien 44, 0585 Oslo",59.930762,10.79348,21 42 42 99,
+c21d41291fe94511138c067e,Matbiten Restaurant & Cafeteria ANS,13065,Restaurant,"Spireaveien 18, 0580 Oslo",59.932703,10.799269,,
+95c266272c4e4d7eb2640577,Dinh,13032,"Cafe, Coffee, and Tea House","Spireaveien 16a, 0580 Oslo",59.932733,10.800785,,
+d15f295d04884c050aeb8ba7,Bakeri Hasle Torg,13002,Bakery,"v/ Silje Bua Hammer Sørligata 10C, 0577 Oslo",59.923566,10.792863,23 37 76 91,
+c3eec03104004029792ffcea,Alexandra Lin,13065,Restaurant,"Kruttveien 9, 0585 Oslo",59.932138,10.793683,38 07 02 77,
+c8686a779db1471e45e59b21,Travellers' Corner Cafe,13065,Restaurant,"Hjalmar Brantings vei 8, 0581 Oslo",59.932915,10.795788,,
+4f00975b0f20495b3b988397,Linda Yvonne Bjerke,13065,Restaurant,"Seljeveien 7, 0575 Oslo",59.928448,10.787396,920 18 306,
+b5035bead24b457443922bc5,Dogs & Horses Feed Specialists,13065,Restaurant,"Ulvenveien 89 A, 0581 Oslo",59.925726,10.811072,23 03 92 00,
+624708cdd05967199d05135d,Cultivate Food,13377,Vegan and Vegetarian Restaurant,"Sandakerveien 24c, 0473 Oslo",59.93482,10.75928,,
+5870dd16dfa6ff39ad177b85,Grådi,13027,Bistro,"Sørligata 40, 0577 Oslo",59.91455,10.771129,917 97 055,8.1
+deab28088bf5440d387acc72,Sweety Kebab - Khalid Andeel,13145,Fast Food Restaurant,"Grønlandsleiret 47, 0130 Oslo",59.910691,10.767209,,
+4bb67b36ef159c74360876f7,Bobs Pub,13018,Pub,"Grønland 1, 0188 Oslo",59.913164,10.758421,404 70 863,6.0
+4beabca26295c9b6dfc08608,Queens Pub og Pianobar,13022,Sports Bar,"Brugata 14, 0186 Oslo",59.913815,10.755518,22 17 70 26,5.7
+54591a39498e5e36624f3872,Starbucks Torggata,13034,Café,"Torggata 17B, 0183 Oslo",59.91623,10.752174,406 38 839,5.8
+62751b7cc2f836352705447a,Abelone Kjøkken & Bar,13057,Gastropub,"Brugata 11, Oslo",59.913843,10.756499,,
+4e318b41fa76b9130b72c080,Café Brunch,13145,Fast Food Restaurant,Oslo,59.911977,10.757256,,
+5f9c08bd364d190aa737dc25,Kaffebønnen,13035,Coffee Shop,"Skøyenveien 43, 0375 Oslo",59.929183,10.687385,406 10 705,
+f55257ef04554d918adf757c,Bevertningsutvikling,13065,Restaurant,"Drammensveien 130B, 0277 Oslo",59.921357,10.687697,22 54 64 97,
+786e4725c2cb4b14cca22e9d,Lb Kjøkken,13065,Restaurant,"Drammensveien 130, 0277 Oslo",59.92151,10.687966,22 56 19 46,
+1fe7c28a676d4f8ae1d48c25,Print-design Ivar Okshovd,13027,Bistro,"Drammensveien 127, 0277 Oslo",59.921854,10.68844,22 56 00 53,
+4fafd68da84c46a2724d647d,Big Horn Steak House Norge,13065,Restaurant,"Karenslyst Allé 12 -14, 0278 Oslo",59.919227,10.686268,22 09 84 60,
+206eddf7b4fc486defe6d922,Siljansenteret,13065,Restaurant,"Karenslyst Allé 12, 3748 SILJAN",59.919132,10.686166,917 77 886,
+4c599d3c67ac0f4736a4044c,House Of Sushi,13276,Sushi Restaurant,"Ole Vigs gate 15, 0366 Oslo",59.927649,10.721518,22 93 31 00,6.6
+4cfbbb28084f548148938209,Song Tran Sushi,13276,Sushi Restaurant,"Schønings gate 9 A, 0362 Oslo",59.928306,10.724867,22 69 49 22,
+4e2166941495f18f034dd569,Flaneur Food,13039,Deli,"Niels Juels gate 51, 0259 Oslo",59.919068,10.718901,22 55 70 00,8.5
+5c156e62b9ac38002c0769e3,Vinoteket,13025,Wine Bar,"Henrik Ibsens gate 60 A, 0255 Oslo",59.915,10.721854,974 32 020,7.8
+56ff9421498ebc508ecf73bb,Lett,13332,Salad Restaurant,Oslo,59.916449,10.715148,,7.3
+56fb63cc498e6b393cd7cc6a,Espresso House,13034,Café,"Henrik Ibsens gate 90D, 0255 Oslo",59.914607,10.719634,459 40 524,6.3
+4bf19f977077952121963e7c,Natraj Tandoori Restaurant,13199,Indian Restaurant,"Bygdøy Allé 8, 0262 Oslo",59.915766,10.713148,22 44 75 33,5.9
+4be55603cf200f470311133c,Frogner Kino,10024,Movie Theater,"Frognerveien 30, 0263 Oslo",59.918601,10.710147,22 55 65 57,
+4bdddc256198c9b6a8f811ff,Bygdøy Sushi,13276,Sushi Restaurant,"Bygdøy allé 66, 0265 Oslo",59.918896,10.701044,22 55 92 22,5.7
+4c7e9a16fb74236a4fa5f7b9,Galleri Haaken,10004,Art Gallery,"Lille Frogner allé 6, 0263 Oslo",59.919487,10.711941,22 55 91 97,
+513b45bbe4b04f70216cbd5b,Blue Elephant Restaurant,13352,Thai Restaurant,"Skovveien 8, 0257 Oslo",59.916531,10.716188,22 43 12 00,5.7
+4b0588b6f964a520afd522e3,Le Canard,13148,French Restaurant,"President Harbitz' gate 4, 0259 Oslo",59.918776,10.715731,22 54 34 00,
+597caac1c824ae75171e1427,Blå Thai Street Food,13352,Thai Restaurant,0257 Oslo,59.916531,10.716188,22 43 12 00,
+5ae8662c8194fc002caab71c,TUNCO Frogner,13315,Noodle Restaurant,0257 Oslo,59.915915,10.716164,,
+524b032811d2ae4d1c3210a6,+39,13236,Italian Restaurant,,59.912672,10.710052,,
+4df50b1245dd4e269346035e,Fuji Japanese Restaurant,13276,Sushi Restaurant,"Munkedamsveien 100, 0270 Oslo",59.912585,10.710065,22 43 11 80,
+56212e3d498e1aa0a124bcd1,Albin Art,10004,Art Gallery,"Briskebyveien 42, 0259 Oslo",59.920376,10.717125,993 58 020,
+5b8be8608fb09e002c720429,Zawai,13032,"Cafe, Coffee, and Tea House","Briskebyveien 22b, 0259 Oslo",59.919716,10.718218,940 32 891,
+632d8ee6a406d13400015953,Barramón Sommerro,13345,Spanish Restaurant,"Sommerrogata 1, Oslo",59.915205,10.719324,,
+632d984c18fd4f0f97e62d87,Plah & Ahaan,13352,Thai Restaurant,"Sommerrogata 1, Oslo",59.915205,10.719324,,
+632d93475b84c758f4d70815,Izakaya Sommerro,13072,Asian Restaurant,"Sommerrogata 1, 0255 Oslo",59.915205,10.719324,,
+5f620eb00ed4c262cb6c0a05,Frenchie,13148,French Restaurant,"100 Henrik Ibsens gate, 0255 Oslo",59.914562,10.719057,,
+627fdce7e8994d038c152d18,Cartel's,13303,Mexican Restaurant,0255 Oslo,59.914763,10.719625,,
+611bfc3307a15d516d41c58d,Brasserie Coucou,13152,Brasserie,"60C Henrik Ibsens gate, 0255 Oslo",59.914947,10.720362,23 98 98 98,
+5efdd16bab146b0008ce974f,DiVino,13236,Italian Restaurant,"Henrik Ibsens gate 60c, 0255",59.914988,10.72057,22 12 05 02,
+50429133e4b01555a69fcbad,Monkey Bar,10032,Night Club,"Henrik Ibsens gate 60 B, 0255 Oslo",59.91506,10.721494,23 89 89 33,5.4
+4bcb2fa668f976b0e9806083,Peppes Pizza,13064,Pizzeria,"Henrik Ibsens gate 100, 0255 Oslo",59.914362,10.718737,22 22 55 55,5.3
+4b56b059f964a5209e1828e3,Kaffistova,13034,Café,"Rosenkrantz' gate 8, 0159 Oslo",59.914715,10.740071,23 21 42 10,6.6
+61f19af7f14cec6b0c40cf5d,Kafeteria August,13034,Café,"Universitetsgata 9, 0164 Oslo",59.917034,10.738367,920 25 580,
+5213b07511d2686d77b21b13,Luna Park,13003,Bar,"Akersgata 47, 0180 Oslo",59.914489,10.742794,463 98 681,5.8
+54677db8498e74242964e3e7,Cafe Amsterdam Oslo,13018,Pub,"Kristian Augusts gate 12, 0164 Oslo",59.916194,10.738796,489 48 918,5.6
+5c8d1ecd6e4650002ca41d45,Pincho Nation,13354,Theme Restaurant,"Kristian IV's gate 4 (Rosenkrantz Gate), 0164 Oslo",59.91513,10.739775,408 45 862,
+638dfa4c11f9101a0a090642,Restuant Sumo Karl Johan,13072,Asian Restaurant,"Karl Johans gate 45 (Universitetsgata), 0162 Oslo",59.914621,10.736598,,
+4b0588b6f964a520b9d522e3,Mesob,13067,African Restaurant,"1 Stenersgata, 0184 Oslo",59.920144,10.751175,22 20 70 95,
+4b2be372f964a52011bd24e3,Revolver,10032,Night Club,"Møllergata 32, 0179 Oslo",59.91706,10.749886,22 20 22 32,4.4
+52f24bba11d260422281b6ae,Il Parmigiano,13064,Pizzeria,"Maridalsveien 174, 0469 Oslo",59.939765,10.75874,22 02 02 01,
+4b511413d86d4669f2a6cfbb,Starmo Pizza Italiana,13032,"Cafe, Coffee, and Tea House","Sandakerveien 22 A, 0473 Oslo",59.934189,10.761452,22 35 22 35,
+8902889268b341165432ed38,Bjølsen Mat Og Kafe V/Tran,13032,"Cafe, Coffee, and Tea House","Sarpsborggata 12, 0468 Oslo",59.942136,10.759904,22 23 92 69,
+db463c6ad36946bb24d78142,Wongs,13032,"Cafe, Coffee, and Tea House","Sandakerveien 10e, 0473 Oslo",59.932237,10.759466,22 37 27 22,
+ab9dba7a6cf24d9fd4eb4fb7,Ibrar Khan,13145,Fast Food Restaurant,"Vogts gate 40, 0474 Oslo",59.933458,10.763316,22 35 72 00,
+372af6d0eaeb4bd1bbc992e4,Hanoi Restaurant Tri Quoc Truong,13065,Restaurant,"Vogts gate 38, 0474 Oslo",59.933266,10.763111,21 64 64 77,
+4ba79057f964a520cd9d39e3,Tandoori Hut Norway Ltd,13199,Indian Restaurant,"Maridalsveien 154 A, 0461 Oslo",59.937576,10.755971,22 58 01 50,6.2
+5259355411d2b6e392e83f9d,Jafs Bjølsen,13145,Fast Food Restaurant,"Maridalsveien 174, 0469 Oslo",59.939984,10.759292,,
+5ba0ac72408f4e62fe0b25f7,Bjølsen Pizza Og Kebab Mustafa Mohseini,13145,Fast Food Restaurant,"Maridalsveien 205, 0469 Oslo",59.942397,10.763256,22 23 02 02,
+60d76247c7149164e83f9c5c,Casa Matta,13236,Italian Restaurant,"Frognerveien 58, 0266 Oslo",59.922386,10.704336,404 03 170,
+59271c3ddb1d81056a35e024,Seaport Restaurant,13354,Theme Restaurant,"Sørengkaia 101, 0194 Oslo",59.902707,10.753159,22 10 22 10,8.8
+54afffc3498ec7434f20bb61,Espresso House,13034,Café,"Jernbanetorget 1 (Flytogterminalen), 0154 Oslo",59.911718,10.751685,21 06 48 04,6.5
+595e1a4381635b657d28e847,Coyo,13303,Mexican Restaurant,"Sørengkaia 165, 0194 Oslo",59.901782,10.751429,23 68 75 57,6.7
+4c8a2d936418a1439347ddce,Carmel Grill,13072,Asian Restaurant,"Dronningens gate 27, 0154 Oslo",59.912105,10.747653,22 41 67 69,6.4
+4c4bd00ebad7a5934e1f5cac,Deli de Luca,13039,Deli,"Oslo S, 0154 Oslo",59.910748,10.752957,,6.1
+4b5d73e1f964a5206b5d29e3,Stockfleths Tinghuset,13034,Café,"C. J. Hambros plass 4, 0164 Oslo",59.915583,10.741635,400 92 366,8.1
+4c2d785fe307d13a0bfb0dda,Baker Hansen,13002,Bakery,"Stortingsgata 20, 0161 Oslo",59.91371,10.73508,940 23 223,6.6
+5dbc7aaaa2edfe00075209ff,Stallen,13336,Scandinavian Restaurant,"Underhaugsveien 28, 0354 Oslo",59.92391,10.726409,458 41 755,
+3aa6184a4896415be74ef49e,Gandhi indisk restaurant,13065,Restaurant,"Majorstuveien 36, 0367 Oslo",59.928028,10.715148,22 60 42 00,
+a1f784b6574d4e5c0a5ec741,Tariq Burger Bar Mahmood Tariq Muhannad,13145,Fast Food Restaurant,"Kirkeveien 50, 0368 Oslo",59.927796,10.713313,915 95 148,
+085a1ac3a59c4b3999dd74cc,Astromeda Ung Klubb Brukthandel Kafe Mari Hoff,13032,"Cafe, Coffee, and Tea House","Kirkeveien 50, 0368 Oslo",59.927787,10.713197,977 71 617,
+4e63be1ac65b2dc8a02fcc20,Mega Sushi ANS,13276,Sushi Restaurant,"Grefsenveien 6, 0482 Oslo",59.94168,10.771492,22 22 05 55,6.8
+4cfb860bd8468cfa241df56b,JaFs Grefsen,13031,Burger Joint,"Grefsenveien 57, 0487 Oslo",59.945316,10.780477,22 22 91 91,
+54fb2aef498ef41b016551c0,Tasty Thai Bjølsen,13352,Thai Restaurant,,59.941768,10.763013,,
+6339acc0477a8a2180045386,Gyro City,13177,Greek Restaurant,"Glads vei 20, Oslo",59.951324,10.78616,,
+4bdd5752f219c9b6c8691210,Hjemme Hos Svigers,13034,Café,"Fredriksborgveien 16, 0286 Oslo",59.903471,10.687844,22 55 62 26,7.9
+4ba62981f964a520313839e3,Rodeløkken Kafe,13034,Café,"Wedels vei 1, 0287 Oslo",59.914086,10.690614,22 43 72 28,7.4
+5155927ce4b023b64ff133bb,Arkadia & Torgkafeen,13336,Scandinavian Restaurant,"Museumsveien 10, 0287 Oslo",59.90754,10.686583,400 23 505,5.7
+4bae0621f964a520f77b3be3,Lanternen Restaurant Bar,13338,Seafood Restaurant,Oslo,59.907351,10.695901,,5.4
+4fa5296ce4b00c584414363f,Norsk Hot Dog,13058,Hot Dog Joint,,59.90342,10.698367,,
+4ee261e6490152e4bd220123,Røylen Selskapslokaler,13336,Scandinavian Restaurant,"Bygdøynesveien 37, Oslo",59.902514,10.698563,,
+6392c4e6e83e4ae2a489af8b,Lanternen Bygdøy,13032,"Cafe, Coffee, and Tea House","Huk Aveny 2, 0287 Oslo",59.907237,10.695568,402 84 687,
+7b1f7e4bc0ba4f55f23bebdb,Lanternen Restaurant,13003,Bar,"Huk Aveny 2, 0287 Oslo",59.907246,10.695683,22 43 78 38,
+8e87a5c6b9fc419e6df843e5,Art Ado Productions Adolphe Huchard,13065,Restaurant,"Langviksveien 10, 0286 Oslo",59.902436,10.686949,22 32 82 73,
+8aa645a34de04c772277e182,Niva Gatekjøkken Ans,13145,Fast Food Restaurant,"Fredriksborgveien 21, 0286 Oslo",59.902371,10.684447,,
+b7b5e4813a6d4fd558d76d34,Minoti,13032,"Cafe, Coffee, and Tea House","Strømsborgveien 18b, 0287 Oslo",59.903761,10.677577,,
+5a5e4e42e5d342d660bc5125,Rodeløkken Kafe V/may E. Vidal,13032,"Cafe, Coffee, and Tea House","Wedels vei 2, 0287 Oslo",59.913996,10.690577,928 24 239,
+3438aff8c62c4d3515837e32,Ramons Grill,13145,Fast Food Restaurant,"Wedels vei 1, 0287 Oslo",59.913999,10.690627,22 43 72 28,
+5918a4f22181437522d0aa07,Kveldssol,13065,Restaurant,"Herbernveien, 0286 Oslo",59.901104,10.693461,22 44 97 00,
+82fa0ae014d249c7ce7ea2f6,Lille Herbern,13338,Seafood Restaurant,"Herbernveien 1, 0286 Oslo",59.901056,10.693409,22 44 97 00,
+e9ae6ce459ca4dd84d1b2f88,Lille Herbern Restaurant,13065,Restaurant,"Herbern, Oslo kommune, 0286 Oslo",59.90097,10.693423,974 80 003,
+3b9604bd9d4b4793369c335b,Medusa Bar & Cafe Da,13032,"Cafe, Coffee, and Tea House","Bygdøynesveien 37, 0286 Oslo",59.902795,10.698228,928 00 748,
+fa16abe929f54a9a79d7193d,Hukodden Strandrestaurant,13065,Restaurant,"S. H. Lundhs vei 7, 0287 Oslo",59.902002,10.676968,479 55 246,
+b04a3667963d434a42d63d32,Hukodden Strandrestaurant AS - Hukodden Strandrestaurant AS Betalingsterminal,13065,Restaurant,"S. H. Lundhs vei 7, 0287 Oslo",59.901954,10.676917,452 65 694,
+61792e88784937178e1df39e,De Mi Tierra,13141,Empanada Restaurant,"Munkedamsveien 29, 0251",59.91236,10.726924,,
+4bc9fd67fb84c9b693171c3e,New Anarkali,13199,Indian Restaurant,"Thorvald Meyers gate 76 (Leirfallsgata), 0550 Oslo",59.91931,10.7596,22 20 04 20,8.8
+508e9681e4b0b2a6179362cc,Creperie de Mari,13032,"Cafe, Coffee, and Tea House","Thorvald Meyers gate 67, 0552 Oslo",59.921633,10.759017,462 29 262,8.2
+560ebba9498e99a6613d8166,Miss Gin,13334,Sandwich Spot,"Thorvald Meyers gate 83, 0552 Oslo",59.919755,10.759124,403 44 300,7.9
+5dea98b591ebb5000890636d,Ezo Ramen & Izakaya,13272,Ramen Restaurant,"20 Nordre gate, 0551 Oslo",59.921223,10.75826,906 50 382,5.9
+5ce93b303fcee8002cd4ef2c,Il Caffe,13034,Café,"Thorvald Meyers gate 44b, 0552 Oslo",59.923247,10.759475,921 60 552,
+6337188c11d5336278b87016,NATURLI' Eatery,13377,Vegan and Vegetarian Restaurant,"Thorvald Meyers gate 40B, 0555 Oslo",59.923693,10.759432,406 10 870,
+618f931e6f59cf1bb4313f6d,Cultivate Food,13377,Vegan and Vegetarian Restaurant,"Helgesens gate 18a, 0553 Oslo",59.92465,10.759319,922 12 739,
+4b2b709cf964a52066b624e3,Baltazar Ristorante & Enoteca,13236,Italian Restaurant,"Dronningens gate 27, 0154 Oslo",59.912105,10.747653,23 35 70 60,7.4
+5040efdde4b0068b20149bb5,Bjørka,10004,Art Gallery,,59.911079,10.764871,,
+4da9dff00437dccbd7f743a2,Taste Home,13072,Asian Restaurant,"Mosseveien 20, 0193 Oslo",59.901416,10.764162,22 67 00 07,
+57674ae9ed76425f208bac3e,Good Luck Cafe Feng Chao Zhou,13065,Restaurant,"Normannsg 5, 0655 Oslo",59.908277,10.779025,22 56 75 52,
+d5831736427e499bc2802542,Anders Nordstoga,10000,Arts and Entertainment,"Konows gate 8 H0501, 0192 Oslo",59.902459,10.772478,24 20 05 57,
+fee6244afabb457556ddc064,Haveli Restaurant,13065,Restaurant,"åkebergveien 60, 0657 Oslo",59.908853,10.786419,22 68 87 48,
+0821eefd7848448881c3f55b,Jordal Bistro Chaudhry M Yasin - Jordal Bistro Chaudhry M Yas,13065,Restaurant,"Strømsveien 22, 0657 Oslo",59.908853,10.786419,22 68 87 48,
+4e3c3477b61cb577be6632d1,Enga Pub,13018,Pub,"Vålerenggata 5 (Smålensgata), 0657 Oslo",59.907423,10.783829,938 94 409,
+4ba60d13f964a520493039e3,Javelin Coffee & Tea,13034,Café,"Bøgata 10 (Nannestadgata), 0655 Oslo",59.911983,10.780982,951 09 624,5.9
+570802e5498e72d56986c832,Nonna Rosa Pizzeria,13064,Pizzeria,"Schweigaardsgate 88, Oslo",59.907089,10.776165,,
+4ef75b1a490124bf996c4587,Vålerenga Grill & Tikka Abbas,13145,Fast Food Restaurant,"Hedmarksgata 10 A, 0658 Oslo",59.910115,10.787983,22 68 23 00,
+6200166644ae921809f15ca4,Njokobok,13067,African Restaurant,"Åkebergveien 42 B, 0650",59.90962,10.776308,,
+4e00c4efd22db37fb0260e2b,Japp Pizza,13064,Pizzeria,Oslo,59.903281,10.77177,,
+4b0588b6f964a52091d522e3,Galleri Kampen,10004,Art Gallery,"4 Norderhovgata, 0654 Oslo",59.911361,10.780316,,
+5e0e33ec27e8d40008466b3e,Il Professore Ristorante Italiano,13236,Italian Restaurant,"54A Schweigaards gate, 0656 Oslo",59.908353,10.770424,950 09 200,
+f574d767002b4f0dfb625c4c,Pizza Baronen Kværner,13064,Pizzeria,"Konows gate 75, 0196 Oslo",59.901866,10.789103,22 33 22 33,
+5d6cf98c687d4e6687201982,Enga Bar & Kafe,13003,Bar,"Vålerenggata 5, 0657 Oslo",59.907414,10.783713,24 07 17 00,
+00a9b13b93a147cc642e6b95,Friends Cafe & Fastfood Saiqa Muqaddas,13145,Fast Food Restaurant,"Enebakkveien 17, 0657 Oslo",59.907249,10.78216,400 72 604,
+720173e14cf745ed4ff26599,Lille Cafe One Bar,13032,"Cafe, Coffee, and Tea House","St. Halvards gate 65 B, 0657 Oslo",59.907267,10.780696,22 57 25 56,
+b4ea2f77bb154f502281adf8,Boligsameie Ingeborgs Gate 4,13065,Restaurant,"Ingeborgs gate 4, 0658 Oslo",59.908356,10.78737,,
+67710a6d4bd0485d38cfce02,Jordal Bistro,13065,Restaurant,"Strømsveien 22, 0657 Oslo",59.908796,10.786252,22 68 87 48,
+0c54b9f90abe4ce7d4015d5e,Jordal Restaurant Gabriele Vespaciano,13065,Restaurant,"Strømsv 22, 0657 Oslo",59.908814,10.786483,22 68 87 48,
+30f6bcf1fc2c499e925cd5b4,Lada Thai Mat Prapin,13145,Fast Food Restaurant,"Strømsveien 22 A, 0657 Oslo",59.908978,10.786342,22 67 55 51,
+b881f49e4e044e03055f3c2a,Cafe New York Mohammad Hassan Afzal Malik,13065,Restaurant,"Strømsveien 24 B, 0658 Oslo",59.908964,10.787279,22 74 41 20,
+198ab1475e5b44221b7bb36b,Orientalsk Kjøkken DA,13065,Restaurant,"Konows gate 97B, 0196 Oslo",59.901872,10.794828,22 57 29 87,
+9482777f44b14ba49bf635c2,Abaas El Kalaf,13065,Restaurant,"Eirik Raudes vei 22K, 0196 Oslo",59.902931,10.796598,900 65 992,
+aef014b1b61f489cbca3d5ee,4 Seasons Oslo,13065,Restaurant,"Frognerveien 67, 0266 Oslo",59.924892,10.707031,22 13 54 90,
+594ebf5bd5e24bb899b60b57,Ed Murphy,13065,Restaurant,"Bygdøy Allé 51b, 0265 Oslo",59.917962,10.70703,,
+e9276edbab2848998cc03780,Madserud Gård,13065,Restaurant,"Madserud Allé 34, 0274 Oslo",59.923701,10.694647,22 54 54 22,
+71d4e95da77642018aa44065,Gabels cafe V/Luong - Gabels cafe,13035,Coffee Shop,"Gabels gate 47, 0262 Oslo",59.917478,10.711486,21 37 91 67,
+1417e914ce1747404042db67,Vmg Vitor Manuel G De Brito,13032,"Cafe, Coffee, and Tea House","Briskebyveien 48, 0259 Oslo",59.920744,10.716777,481 14 068,
+60e0571e004ad5590671555b,Brauð Toastbar,13334,Sandwich Spot,"Thorvald Meyers gate 47A, 0555 Oslo",59.924251,10.759049,,
+0778851038f847adfc2b6b6b,Garson Design,13145,Fast Food Restaurant,"Sandakerveien 26, 0564 Oslo",59.923223,10.77357,,
+17afb00b60b94bb9046abe2d,Nye Yasmina Take Away Bouker Mourad Ben Ali,13145,Fast Food Restaurant,"Monrads gate 21, 0564 Oslo",59.9219,10.773706,906 20 911,
+5b6cb19a180b91002c81b370,Ben Reddik,13302,Mediterranean Restaurant,"Leirfallsgata 6, 0550 Oslo",59.91933,10.75761,466 77 211,7.5
+38c3f02c9510496a78e99a65,Seaqueen Charlie Vo,13145,Fast Food Restaurant,"Kingos gate 18, 0457 Oslo",59.930562,10.750364,22 22 32 32,
+56a24edb846340ed1959c49a,Tasty Pizza Og Shawarma Hazhar Mohammed Maaroof Maroof,13145,Fast Food Restaurant,"Kristiansands gate 12 B, 0463 Oslo",59.938831,10.753502,,
+4b0830eff964a520e20523e3,Jewel of India,13199,Indian Restaurant,"Oscars gate 81 (Frognerveien), 0256 Oslo",59.915921,10.716806,22 55 39 29,8.7
+4befcb9fd4f70f47ce2f390f,Kaffebrenneriet,13034,Café,"Skovveien 8 (Frognerveien), 0257 Oslo",59.916426,10.71597,952 62 662,7.5
+4bba6b501261d13ab79eea98,Grill's Ville,13031,Burger Joint,"Niels Juels gate 29 (Frognerveien), 0257 Oslo",59.916317,10.714584,22 43 77 44,7.2
+4dbc478543a1d8504b871af1,Japanese Dining Sato,13263,Japanese Restaurant,"Frognerveien 10 (Niels Juells Gate), 0257 Oslo",59.916269,10.714533,476 50 333,7.0
+4de67953d164804164a08c47,Escalón Tjuvholmen,13347,Tapas Restaurant,"Bryggegangen 8 (Tjuvholmen), 0252 Oslo",59.908484,10.721554,21 95 12 50,6.3
+6144c3979f1626667dd2e737,Xef,13345,Spanish Restaurant,"8 Bryggegangen, 0252 Oslo",59.908563,10.721694,905 42 124,
+5f958bb060606f114d155a3b,Venti venti,13236,Italian Restaurant,0252 Oslo,59.906471,10.720419,,
+55f92712498e35595e04f42c,Bydel Tjuvholmen,10004,Art Gallery,"Tjuvholmen allé, 0252 Oslo",59.907964,10.721633,,
+63430e25d3f1e43212c9dc0b,Fatty Patty,13031,Burger Joint,"Bygdøy allé 62, 0265 Oslo",59.919002,10.702334,,
+5ee1435405e5e50476454664,Arts Restaurant,13302,Mediterranean Restaurant,"Filipstad Brygge 2, 0252 Oslo",59.909807,10.722756,21 65 11 00,
+50b16e07e4b0f2e7f14c3579,Songnsveien Kebab,13145,Fast Food Restaurant,Oslo,59.935893,10.731612,,
+ed5af3b3270e4764d91e277f,Studentkafeene AS Avd 48 Zeb Kafeen,13065,Restaurant,"Sem Sælands vei 2, 0371 Oslo",59.937315,10.720639,22 85 33 80,
+934b5483c4a24c4bd8afe55f,Afram Kino Matglede,13065,Restaurant,"Kirkeveien 114, 0361 Oslo",59.934555,10.727955,,
+1f414148fef3430b9f7ad9f6,Lene Sæther,13145,Fast Food Restaurant,"Kirkeveien 112 B, 0361 Oslo",59.934453,10.727211,902 88 419,
+4b2f6376f964a52016eb24e3,Bislett Kebab House Bislett,13145,Fast Food Restaurant,"Hegdehaugsveien 2, 0167 Oslo",59.920389,10.733546,22 46 80 44,5.8
+4b5f5c0af964a520f7b529e3,Texburger,13031,Burger Joint,"Universitetsgata 20, 0162 Oslo",59.915488,10.737617,22 33 81 36,7.6
+4b0588b3f964a520b2d422e3,Eilefs Landhandleri,13018,Pub,"Kristian Iv's gate 1, 0164 Oslo",59.914963,10.740443,22 42 53 47,6.9
+5d9390f6f10818000832f7cd,Ludo,13064,Pizzeria,0356 Oslo,59.926646,10.723832,,
+4c725e0f7121a1cde93762d1,Le Palais Des Thés,13032,"Cafe, Coffee, and Tea House","Vibes gate 10, 0356 Oslo",59.926574,10.722908,22 60 32 00,
+54132689498e3cb401debd6e,Bun's Burger og Bar Sørengkaia,13031,Burger Joint,"Sørengkaia 71, 0191 Oslo",59.903039,10.754044,23 23 00 23,7.8
+4fbcae49e4b07f051383afa2,Hegdehaugsveien Frukt & Grønt,13039,Deli,"Sven Bruns gate 9, 0166 Oslo",59.920019,10.703621,22 55 74 21,
+9d1ae78acf334b2eed05fbfe,Bertosa,13145,Fast Food Restaurant,"Kirkeveien 102 D, 0361 Oslo",59.93334,10.724749,452 37 240,
+5d1b42fd3e8ac400246b1a03,VIN Bjørvika,13025,Wine Bar,"Operagata 11, 0194 Oslo",59.906728,10.755767,,8.2
+55ae5348498e6282bc1068f6,Joe & The Juice,13032,"Cafe, Coffee, and Tea House","Dronning Eufemias gate 39 (Barcode), 0191 Oslo",59.90731041587633,10.759372981185043,958 70 787,7.8
+5eedeecff91a7700077a2257,Talormade Oslobukta,13043,Donut Shop,"Operagata 69, Hus 5, 0194 Oslo",59.906824,10.757564,930 05 326,7.8
+5ce834b8f0b490002c116dbd,Brasserie Rivoli,13152,Brasserie,"Operagata 3, 0194 Oslo",59.906776,10.755818,21 42 05 90,7.1
+5f51f5cdcf74b372279f6305,The Vandelay,13310,Modern European Restaurant,"Operagata 30, 0194 Oslo",59.906728,10.757462,,6.0
+610af9efed8ec17e03ce3789,Feniqia (Oslo),13298,Lebanese Restaurant,"Rostockgata 66, 0194, 0194 Oslo",59.90603,10.760421,920 23 384,
+6179712210071d7f031c8fd8,Dapper Bistro,13027,Bistro,0194 Oslo,59.906565,10.75992,,
+603931f8d44e4376e21f7c67,Nimbu,13199,Indian Restaurant,"Rostockgata 64, 0194 Oslo",59.906148,10.759586,484 64 600,
+60d1ce339cf29b2dc4076869,Sumo Restaurant Bjørvika,13276,Sushi Restaurant,0191,59.906326,10.75848,,
+610541ee71612f0fe761aefb,KUMI Oslobukta,13377,Vegan and Vegetarian Restaurant,"Operagata 71b, 0194 Oslo",59.906188,10.758262,973 02 866,
+60d73ae450638413c79c12e7,Cafe Platz (holtsweiler),13034,Café,"Operagata 61d Oslobukta, 0194 Oslo",59.906927,10.756908,922 66 620,
+622ca240cbc8927f8152b6c2,Bacalao Til Folket,13325,Portuguese Restaurant,0191 Oslo,59.908297,10.757802,,
+5e5bf4624726a4000b52fdae,Munchies,13031,Burger Joint,"Operagata 13, 0194 Oslo",59.907868,10.756881,,
+60ec8b7dca764354c75df745,Villa Paradiso,13236,Italian Restaurant,0194 Oslo,59.906472,10.75555,,
+5f4fc044beae8f7fb04592d5,Lett,13332,Salad Restaurant,0194 Oslo,59.907054,10.75601,,
+62b32e6b02b4cf4bcd59de0b,Iki,13263,Japanese Restaurant,"Sørengkaia 27, 0194 Oslo",59.90349,10.755613,468 90 015,
+6166cfdab387390ab926acab,Munch Deli Og Kafé,13039,Deli,"Edvard Munchs plass 1 (Ground Floor), 0194 Oslo",59.90585,10.7551,,
+5ac216472c7eb9726c80d418,Mirabel Restaurant Og Bar,13236,Italian Restaurant,0194 Oslo,59.902477,10.753018,,5.6
+16ab173deaf54c7cbb0544ad,Kjeller`n Muharrem Lemi Karsniqi,13065,Restaurant,"Christies gate 5, 0557 Oslo",59.9275,10.765089,,
+40eda82350664d651b37323f,Habanero,13303,Mexican Restaurant,"3. Etasje Frognerveien 22, 0263 Oslo",59.927116,10.761289,,
+1fe65fe7b2334d46bc39bc67,Taj Mahal Indisk Tandoori & Restaurant,13065,Restaurant,"Toftes gate 30, 0556 Oslo",59.927116,10.761289,22 37 12 60,
+4c10521a23584cbd925cafc3,Midina,13065,Restaurant,"Toftes gate 41, 0552 Oslo",59.924414,10.760936,920 39 674,
+68762a217e09460e3092975f,Pho 24,13065,Restaurant,"Seilduksgata 17, 0553 Oslo",59.925442,10.759495,,
+451cc50289c44d024b0b8bb0,Massa Pasta Sportsbar,13032,"Cafe, Coffee, and Tea House","Holsts gate 9, 0473 Oslo",59.931388,10.761523,,
+4b2bc4bcf964a5208fba24e3,Delhi Tandoori,13199,Indian Restaurant,"Maridalsveien 4, 0178 Oslo",59.919749,10.751176,22 20 12 48,7.5
+4b0588b6f964a520acd522e3,Feinschmecker Spisested,13148,French Restaurant,"Balchens gate 5, 0265 Oslo",59.918477,10.708004,22 12 93 80,8.4
+53936690498e574c69baefd9,Enoteca Vinbar,13236,Italian Restaurant,"Bygdøy Allé 59, 0265 Oslo",59.918472,10.705141,23 27 09 27,6.5
+4bf12c3617880f472bfb2937,Elise Cafe,13034,Café,"Elisenbergveien 22 (Gimleveien), 0265 Oslo",59.918939,10.706064,22 44 25 11,5.9
+4bb8fa5e3db7b713e4da219a,Aroma Tandoori,13199,Indian Restaurant,"Bygdøy alle 62, 0265 Oslo",59.918766,10.702175,24 11 90 00,
+5c4a43307c891c002d0d5f51,Kathmandu Restaurant,13032,"Cafe, Coffee, and Tea House","Bygdøy Allé 62b, 0265 Oslo",59.918706,10.702534,22 55 50 20,
+4be199cd2740ef3b27d8210f,Lille Andy's Pub,13022,Sports Bar,"Frognerveien 12 B, 0263 Oslo",59.916573,10.713376,22 44 15 00,5.8
+5392ec84498eb409d686234f,Frognerparken cafe,13035,Coffee Shop,"Frognerveien 67, 0266 Oslo",59.922122,10.704704,22 55 75 82,
+c0db0bd3bd1145c3edb2b73f,Burrito Project Oslo City,13065,Restaurant,"Drammensveien 110 A, 0273 Oslo",59.919354,10.694021,466 12 607,
+04de26ce125a445b53e1b1a7,Empire State Holdings,13065,Restaurant,"Drammensveien 110 A, 0273 Oslo",59.919354,10.694021,,
+1e1c4224ace34c2427a52684,Helt Rå,13352,Thai Restaurant,"Drammensveien 110 M, 0273 Oslo",59.919505,10.692595,909 55 697,
+c4b7537ca0c74a3ea9aa9cd5,Asbjørn Trengereid,13065,Restaurant,"Bygdøy alle 111 A, 0273 Oslo",59.918938,10.690403,22 52 35 85,
+9d25c9d95f404b17dbde76f5,GG Invest,13065,Restaurant,"Bygdøy Allé 111, 0273 Oslo",59.918756,10.690313,22 49 19 64,
+3454b944b9534a55060ea739,Piccolo Paradiso Bygdøy Allé,13032,"Cafe, Coffee, and Tea House","Bygdøy allé 63, 0265 Oslo",59.918979,10.703778,,
+8365ec11395d44f6717cc730,Magma Bar & Restaurant,13302,Mediterranean Restaurant,"Bygdøy Allé 53, 0265 Frogner",59.918486,10.704204,23 08 58 10,
+f12244aee0eb461287e1087a,Kaffe & Kaker,13065,Restaurant,"Bygdøy Alle 59, 0265 Oslo",59.918502,10.704961,23 27 09 27,
+3ca29789a615448a0616f333,Paresa Elisenberg,13032,"Cafe, Coffee, and Tea House","Elisenbergveien 19, 0265 Oslo",59.918661,10.705872,,
+7f9852c563e14f1fc23076cd,Danora,13002,Bakery,"Karenslyst Allé 1 A, 0278 Oslo",59.918648,10.686707,23 13 18 00,
+e9d6c61f23ac4b67d8d2a5fa,Catering Systemer,13065,Restaurant,"Karenslyst allé 12-14, 0278 Oslo",59.919093,10.68623,24 11 31 00,
+969ee972b5d84c66299ad656,Sakura Sushi V/Hoang,13065,Restaurant,"Eckersbergs gate 41, 0266 Oslo",59.920019,10.707536,22 44 28 80,
+9213b0bd9b124f89f3d35764,Sakura Uyen Hoang,13032,"Cafe, Coffee, and Tea House","Eckersbergs gate 41b, 0266 Oslo",59.919981,10.707601,,
+aa288c42b7694d1338c0affb,Alis-Salatbar Ali Farzand,13145,Fast Food Restaurant,"Eckersbergsgt 41, 0266 Oslo",59.919981,10.707601,,
+5c82b6c373fe25002cedfc7d,Louis Pizza,13064,Pizzeria,"Ullevålsveien 88a, 0451 Oslo",59.933324,10.73352,400 60 048,
+4b26296ef964a520d97824e3,Kaffekoppkafe Naser Ghafori,13035,Coffee Shop,"Ullevålsveien 82B, 0454 Oslo",59.932888,10.734112,22 46 75 07,5.6
+5140c035e4b00ccf379ffcf4,Sushihjørnet,13276,Sushi Restaurant,"Ullevålsveien 82 C, 0454 Oslo",59.932733,10.734369,,
+fea44f4168234babc2baeefd,Verdi Pizza & Cafe V/ Mohamed Benzekri,13032,"Cafe, Coffee, and Tea House","Sognsveien 8, 0451 Oslo",59.93469,10.733606,,
+c79cf191f96c4203707ed929,Aquarela Do Brasil Ødegaard - Aquarela Do Brazil,13065,Restaurant,"Sognsveien 2, 0451 Oslo",59.93328,10.734637,22 60 79 70,
+485523f92b3e4946f39cee14,Svendsens Gadget Service,13065,Restaurant,"Fagerborggata 42 A, 0360 Oslo",59.93287,10.728269,,
+5914a2a16bdee638c53407eb,Saray Restaurant avd. Grønland,13356,Turkish Restaurant,"Grønland 5, 0188 Oslo",59.913033,10.759551,22 17 22 22,
+4bae42d8f964a5200f9a3be3,TGI Friday's Aker Brygge,13068,American Restaurant,"Stranden 39 (Stranden 39), 0250 Oslo",59.909606,10.726351,24 13 31 00,6.3
+5aedaafa4febd5002c99fffb,Freddy Fuego,13305,Burrito Restaurant,0252 Oslo,59.908312,10.723274,,6.3
+69b545645bef4b0817547d10,Take Thai,13145,Fast Food Restaurant,"Etterstadsletta 17a, 0660 Oslo",59.910702,10.798356,,
+4bc5d70b4a9aa5935ffc067b,Mymy Sushi,13276,Sushi Restaurant,"Prinsens gate 2, 0152 Oslo",59.910119,10.748069,22 42 67 50,7.7
+4e303083c65b80dfd8483586,Revierhavnen Kro,13336,Scandinavian Restaurant,"Hovedøya, 0150 Oslo",59.899065,10.735188,22 67 53 50,7.4
+4e46aa65aeb70e74f4971338,Ris Bolle Thai Café,13352,Thai Restaurant,"Dronningens gate 25, 0154 Oslo",59.911443,10.747051,22 41 20 07,7.5
+54d3acdc498e0be97321e1a6,Opland Burger & Steak,13031,Burger Joint,"Jernbanetorget 1 (Østbanehallen), 0154 Oslo",59.910892,10.751225,22 17 94 00,6.6
+5f9a946c10b05638bb35acb5,Spor Av Nord,13034,Café,"Tollbugata 7 B, 0152 Oslo",59.909787,10.747184,973 44 010,
+5e4d4e06e115d1000871b882,The Cakery,13002,Bakery,"10 Kongens gate, 0153 Oslo",59.910514,10.742458,401 00 097,
+5de3ea0e29a35700084d5e82,Rice Bowl,13352,Thai Restaurant,"Kirkegata 20, 0153 Oslo",59.910633,10.744298,,
+5ed01795131f4c0008f3b3b8,Centropa,13310,Modern European Restaurant,"Anne-Cath Vestlys plass 1, 0150 Oslo",59.908855,10.751982,966 46 994,
+5f3a941dc551a43bd09e08db,Salome,13236,Italian Restaurant,"Henny Mürers gang 1, 0150 Oslo",59.90819,10.754262,,
+5ba2243e031320002ce7f318,Shanghai 2018,13099,Chinese Restaurant,"Kirkegata 30, 0153 Oslo",59.911482,10.745292,22 41 20 40,
+555d873b498ec3f83a263734,Eufemia Bar,13013,Hotel Bar,"Dronning Eufemias gate 4, 0191 Oslo",59.909371,10.75309,24 10 30 00,
+5c7ff32156c89f002cab8f25,El Camino Barcode,13303,Mexican Restaurant,"Dronning Eufemias gate 11 Diagonale, 0150 Oslo",59.908178,10.754672,941 40 438,
+4b67301bf964a52038402be3,Peppes Pizza,13064,Pizzeria,"Karl Johans gate 1 (Jernbanetorget), 0154 Oslo",59.911421,10.749568,22 22 55 55,5.6
+60c8ceb44f87490c53860bd8,The Wild Rover,13018,Pub,"Karl Johans gate 8, 0154 Oslo",59.911633,10.747222,,
+4d34205d98336dcb726d34f0,McDonald's,13031,Burger Joint,"Nedre Slottsgate 21, 0157 Oslo",59.912889,10.743093,22 82 85 90,5.6
+690937f367ae430e2a199c5a,Galleri Kampen,10004,Art Gallery,"Norderhovgata 30, 0654 Oslo",59.913882,10.778885,22 67 49 46,
+5331b0ab498ebe1cf91d1ee2,Hitchhiker,13134,Comfort Food Restaurant,"Maridalsveien 17, 0178 Oslo",59.922383,10.751773,954 51 466,7.8
+5a4fb0e31bc7040e58f57196,Dinos Pizza,13064,Pizzeria,"Seilduksgata 9, 0553 Oslo",59.925393,10.757749,23 32 80 80,
+5c7407acdb2aeb0039952307,Hub Bar,13003,Bar,"Biskop Gunnerus' gate 3, 0155 Oslo",59.912476,10.750168,23 10 80 00,6.2
+4b65b98af964a520effb2ae3,Økern Sushi,13276,Sushi Restaurant,"Ulvenveien 82, 0581 Oslo",59.925788,10.811881,22 64 02 00,7.1
+62f7ad18d4a62a71bda92b06,Kazam Bowl,13272,Ramen Restaurant,0585 Oslo,59.930606,10.800995,,
+5fa81b227e48b0426a30d7f2,Osloves Pizza,13064,Pizzeria,"Lørenveien 60, 0585 Oslo",59.929256,10.797798,,
+4c18e51f834e2d7fd0802980,Restaurant Fusion,13199,Indian Restaurant,,59.930425,10.793647,,
+622b721161d5df425bd67d32,Eat Thai Løren,13352,Thai Restaurant,"Lørenveien 44, 0585 Oslo",59.930496,10.793421,,
+5f830b64a5d9a20fe6a9c0cd,Soofi Restaurant,13317,Persian Restaurant,"Selma Ellefsens vei 2, 0581 Oslo",59.92517,10.807297,,
+5a75cd04646e3811656083fc,Benihana sushi,13276,Sushi Restaurant,"Ulven, 0581 Oslo",59.925948,10.81246,,
+b68c92f7d3e44b025e31f89f,Pizzabussen,13064,Pizzeria,"Økernveien 146, 0580 Oslo",59.929768,10.806082,22 64 43 35,
+83cfe32f15c54518fda0c76e,Økern Sushi,13072,Asian Restaurant,"Økernveien 145, 0580 Oslo",59.928506,10.804517,22 64 02 00,
+f8e1e70f859a490699c121e8,Makan Cafe Chi Tat Chui,13034,Café,"Økernveien 145, 0580 Oslo",59.928515,10.804633,22 97 08 08,
+4855fae480234ef0d8900ab7,Hero Pizza Dilband Ali,13064,Pizzeria,"o Dilband Al, 0580 Oslo",59.93149,10.807929,,
+d4534a3008a74aaa4a4b6b42,African Musicians Union-Norway,13067,African Restaurant,"Spireaveien 9, 0580 Oslo",59.93424,10.799858,22 67 11 31,
+7fa77599891246830ea9e10b,Waynes Coffee Løren torg,13034,Café,"Lørenveien 44, 0585 Oslo",59.930732,10.79366,21 44 54 85,
+8b26beeca6a04be1557936dd,Kantinedrift Sjølie & Birk S Berge,13065,Restaurant,"Haslevangen 45, 0580 Oslo",59.925125,10.803328,22 64 67 70,
+57c8420a498ea39345bcd8a8,Folkets Kebab & Pizza,13031,Burger Joint,"Grenseveien 40, 0575 Oslo",59.924929,10.786696,22 19 19 19,
+525975c4498e426b5fc0498e,Indian Cuisine,13199,Indian Restaurant,"Tøyengata 2-4-6, 0190 Oslo",59.912855,10.76402,401 66 805,
+4d163b1fcc216ea8671b68d3,Kebabish Original Oslo,13199,Indian Restaurant,"Breigata 12, 0187 Oslo",59.91414,10.761372,22 17 46 46,
+51700f9ce4b059af47127628,Pizza Pasta,13236,Italian Restaurant,"Jernbanetorget 1, 0154 Oslo",59.912217,10.760901,,
+4d3596b32e56236a4ff238b4,Mio Sushi,13276,Sushi Restaurant,"Oscars gate 1B, 0352 Oslo",59.924424,10.731299,,
+b2bf528e182a4571d9193319,Ginos Mat og Vin Reiseklubb,13065,Restaurant,"Pilestredet 75 C, 0354 Oslo",59.926853,10.728711,22 60 51 20,
+2dcbd8d80efe4f4983a55743,Nan King House Hong Tin Wo,13065,Restaurant,"Underhaugsveien 2, 0354 Oslo",59.925458,10.7305,22 69 42 75,
+3aaf40120a4d428f1605909f,Intermezzo Sushi & Noodles,13065,Restaurant,"Underhaugsveien 2, 0354 Oslo",59.925458,10.7305,23 19 79 62,
+4d2897f3e8154cfa63467b67,Tasty Foods DA - Tasty Foods,13065,Restaurant,"Benneches gate 2, 0169 Oslo",59.924403,10.737206,22 59 98 89,
+bb9d4e26ed9e49490e46ee35,Trillingsgaard,10039,Music Venue,"Bolignummer H0402 Vibes gate 22, 0356 Oslo",59.92782,10.725935,987 64 586,
+59861aaa5c68384bf13f22c3,Sørenga Sjømat,13338,Seafood Restaurant,"Soerengkaia 49, 0194 Oslo",59.903743,10.755749,461 77 007,
+5853dd6de309e14af1fb5c25,Noodie Barcode,13352,Thai Restaurant,Oslo,59.907847,10.758871,,
+60ce299a353cb84acc3d15e8,New Flavours of India,13199,Indian Restaurant,"Sørengkaia 69, 0194 Oslo",59.903263,10.754315,22 30 22 30,
+6380cbd3ca2cb8709326f45a,Panorama Restaurant,13302,Mediterranean Restaurant,0194 Oslo,59.903359,10.754052,,
+62e80be57cb02c50ce194c18,Buddha Ramen,13272,Ramen Restaurant,0191,59.90817,10.757693,,
+62e4206be4bc6c32964468be,Dirty Vegan,13031,Burger Joint,0191 Oslo,59.908097,10.757454,,
+4b155708f964a52038ab23e3,Pascal Holding,13002,Bakery,"Tollbugata 11 (Dronningens Gate), 0152 Oslo",59.909993,10.746452,22 42 85 51,8.2
+58309352fbe8ff7800415d0a,- Closed,13072,Asian Restaurant,"Eilert Sundts gata 39 (Uranienborgveien), 0259 Oslo",59.922806,10.720147,22 04 85 06,
+ae1f92a68afd43e8a80ee2af,Izakay,13065,Restaurant,"Kirkeveien 57, 0368 Oslo",59.927955,10.714224,481 32 323,
+62df0336570444fd1767cd63,Trikkehallen Bevertning,13032,"Cafe, Coffee, and Tea House","Torshovgata 33, 0476 Oslo",59.932825,10.768146,22 87 07 00,
+8376fa7237cb4eed034c0bc4,Sofienberg Grill Noor,13145,Fast Food Restaurant,"Teglverksv 2, 0553 Oslo",59.923913,10.764635,22 35 57 37,
+7d0ad0f8f96a4909c2596723,Abeba Cafe Damitew,13032,"Cafe, Coffee, and Tea House","Diakonveien 15, 0370 Oslo",59.935036,10.706662,407 57 322,
+4b0588b7f964a520e2d522e3,Lekter'n,13065,Restaurant,"Stranden 3, 0250 Oslo",59.910061,10.727684,22 83 00 60,6.0
+55f316be498ec97d6be63a72,Kiosken Bar,10032,Night Club,"Tordenskiolds gate 12, 0160 Oslo",59.911853,10.734893,413 78 188,6.9
+576d4ef9498eda0236a43ec9,Espresso House,13035,Coffee Shop,"Vogts gate 46, 0477 Oslo",59.934474,10.763981,459 40 525,6.3
+5366801b498e5b725e786836,Il Parmigiano,13064,Pizzeria,"Bergensgata, Oslo",59.939888,10.759248,,
+7062df6c480948aadbd8bda0,Sushi Company,13065,Restaurant,"Arendalsgata 14, 0463 Oslo",59.937806,10.754417,928 09 666,
+77fdcca16f844bf1337f9c23,Sagene Lille Kro Vaseer,13145,Fast Food Restaurant,"Maridalsveien 154 B, 0461 Oslo",59.937672,10.756074,22 15 52 90,
+a4ef3df671794c5e52be5491,Lofthus Samvirkelag Ll,13065,Restaurant,"Maridalsveien 87, 0461 Oslo",59.932618,10.756485,22 04 96 67,
+5dfa2b0960780e00086fc810,Linn Sushi,13276,Sushi Restaurant,"Bygdøy allé 62A, 0265 Oslo",59.918704,10.702207,401 88 889,
+4f6617b6e4b0eae10bd4b565,Sushi Thai Wok,13352,Thai Restaurant,Oslo,59.918936,10.702675,,
+fd2ab8d62d114e4680cdf6ad,Aker Eiendomskompani,13065,Restaurant,"G Vigelandsv 7, 0274 Oslo",59.923526,10.689063,22 55 39 44,
+6e734e55059b4b35b6a4eaff,Mh Cafe,13065,Restaurant,"Haslekroken 1 B, 0575 Oslo",59.922463,10.790515,957 88 276,
+e814d17b50bc498f39cc979c,Lomas Catering Og Kaffedrift,13065,Restaurant,"Sinsenveien 27 C, 0585 Oslo",59.931521,10.786876,950 86 180,
+5a623c739deb7d1b742adb53,Dekka Bord,13027,Bistro,"Ullevaalsveien 81, 0454 Oslo",59.931717,10.7354,957 92 843,
+4d0528a437036dcbf30c15fb,Sjel Vest,13347,Tapas Restaurant,"Ullevålsveien 81, 0454 Oslo",59.93163,10.735413,926 60 878,
+539de41b498e0d932e843f76,Pizza Ricetta,13064,Pizzeria,"Brageveien 2 A, 0452 Oslo",59.930915,10.734118,907 90 008,
+4c28d742fe6e2d7f05e0533c,Mm Sushi,13276,Sushi Restaurant,"Holmlia Senter vei 26, 1255 Oslo",59.930909,10.733476,,
+59304ec16fd6265bab69a299,Bislett Kebab House,13288,Kebab Restaurant,Hegdehaugsveien 2 (Pilestredet),59.930529,10.732539,,
+757e730e09cb48b72dae7bb6,Helena Nymo,13065,Restaurant,"Ullevålsveien 95, 0359 Oslo",59.932843,10.733534,22 46 81 73,
+eeaf6e73ec2647cb550f8a77,Adamstuen Pizza & Grill DA,13145,Fast Food Restaurant,"Ullevålsveien 95, 0359 Oslo",59.932843,10.733534,21 38 21 05,
+edb5232a07564b7d36dfcea8,Boulevard Dine In,13065,Restaurant,"Jonas Reins gate 1, 0360 Oslo",59.932358,10.726768,24 11 90 00,
+239927eb7b4642c5cd4052d6,Magnus Thorvik,13065,Restaurant,"Jacob Aalls gate 62, 0364 Oslo",59.932052,10.72623,970 09 167,
+4b09a40cf964a520d61a23e3,Traktøren,13064,Pizzeria,"Sars' gate 31A, 0562 Oslo",59.921224,10.770651,,
+4cfdf14471324f2400157f49,Saga Restaurantdrift,13032,"Cafe, Coffee, and Tea House","3 Etg. Dælenenggata 4, 0567 Oslo",59.925545,10.774327,,
+4eaab4e8b803cf1ffb34b029,Helsfyr Sushi,13276,Sushi Restaurant,,59.914201,10.797657,,
+5a033172fdb9a75b145097e5,Domino's Pizza Helsfyr,13064,Pizzeria,"Strømsveien 96, 0663 Oslo",59.91316,10.798739,,
+5fa2c6f41a77f6635bc0065e,Trewerket,13027,Bistro,"Innspurten 11-13, 0663 Oslo",59.916567,10.806655,990 92 193,
+e9b5a204064d4156e8f4de9d,Bjørvika Bistro,13032,"Cafe, Coffee, and Tea House","økernveien 51, 0576 Oslo",59.921086,10.785227,,
+4812863381de42d64e6e9c8b,Salma&M,13065,Restaurant,"Rolf Hofmos gate 24, 0655 Oslo",59.913193,10.788632,22 67 71 10,
+77db68e7b918483738b964b7,Auk Råvarer,13065,Restaurant,"Sons gate 17, 0654 Oslo",59.91463,10.782864,,
+4bdd6e8cd33f2d7fc1eb8a3c,Cafe Villa Grande,13034,Café,"Huk Aveny 56, 0287 Oslo",59.899204,10.678211,67 10 99 70,
+4be566302457a5935d66ab15,Huk Strandrestaurant,13336,Scandinavian Restaurant,"Schiøtts vei 8, 0286 Oslo",59.89512,10.674241,,
+4c73e7638efc37049bbc167d,Dyna fyr,13336,Scandinavian Restaurant,"Bygdøylund, Oslo",59.894918,10.688441,,
+df0c8493119c47562cabf9a8,Hukodden,13065,Restaurant,"Strømsborgveien 46, Ute på Huk badestrand, 0287 Oslo",59.899054,10.675196,479 55 246,
+821de8ad548d4c69f258b16a,Gjestestuene på Norsk Folkemuseum,13065,Restaurant,"Strømsborgveien 2, 0287 Oslo",59.901031,10.674662,22 12 37 00,
+5af4184a6dcf0400396c8dcb,KUMI Gamlebyen,13034,Café,"Schweigaards gate 56a, 0656 Oslo",59.908425,10.769653,973 02 866,8.1
+59a8093a492814439ac19e6f,Gurken Gurken Gurken Gurken,13003,Bar,"Eiriks gate 2 (Åkebergveien), 0650 Oslo",59.91155,10.771464,22 38 00 88,7.5
+51437310e4b0110594882a7c,Noplace,10004,Art Gallery,"Oslo gate 2B (Arupsgate), 0192 Oslo",59.907297,10.768128,,
+85b5433f39ff428dee13c049,Japp Pizza Og Kebab Amjad Mehmood,13145,Fast Food Restaurant,"Alnafetgata 1 B, 0192 Oslo",59.902605,10.772105,22 67 83 48,
+69de138cf2d140aee1e43eac,Norsk Thai Kaffe Ans,13032,"Cafe, Coffee, and Tea House","Oslo gate 14, 0192 Oslo",59.905565,10.767862,22 68 00 08,
+28015bd6a8354d982a5b95ff,Rhs,13065,Restaurant,"Schweigaards gate 60B, 0656 Oslo",59.907944,10.771362,22 19 25 66,
+c7853149dc3b4379534285bb,Fetter Bedrift,13065,Restaurant,"Oslo gate 14, 0192 OSLO",59.905577,10.767452,22 67 87 22,
+659cebbcfd794f0306b32d87,G G Grillbar Hemod Fakhria Fiad,13145,Fast Food Restaurant,"Oslo gate 17, 0192 Oslo",59.905433,10.767298,907 51 245,
+6d94abd0f73e466432bb2392,Vi Tre Drift DA,13065,Restaurant,"Oslo gate 13, 0192 Oslo",59.906077,10.767669,975 51 313,
+14922c564e054203424ac5ce,Tekst Av Tanja Tanja Hauge Reine,10000,Arts and Entertainment,"Stamhusveien 41, 1181 Oslo",59.897581,10.78028,916 39 429,
+5b58b760cad1b6002ca3a7e9,Sabi Sushi by Alex Cabiao,13276,Sushi Restaurant,"Thomas Heftyes gate 37, 0265 Oslo",59.91897,10.703663,,
+4f55fc76e4b005c47fcdeb4f,Pascal,13040,Dessert Shop,"Bygdøy Allé 56C, 0265 Oslo",59.916834,10.709421,22 42 11 19,
+e1f26dd3c79b4ca7e0830bdd,Dolly Dimple's Drift,13064,Pizzeria,"Karenslyst allé 12 /14, 0278 Oslo",59.918967,10.686308,24 11 31 00,
+51cf2685498e8c1d92b85fc5,Lille Herbern,13338,Seafood Restaurant,Oslo,59.89861,10.693547,,8.6
+50c9cb53498ef0e120fb9a9a,Tapas Bar,13347,Tapas Restaurant,"Color Magic, Oslo",59.908605,10.70909,,
+4c0a633d340720a118468693,Chillout,13034,Café,"Markveien 55, 0554 Oslo",59.920478,10.757145,22 35 42 00,8.5
+5820c77e96b0d84ce74611eb,Vikingkjelleren,13347,Tapas Restaurant,,59.913079,10.72308,,
+6273fd95f4fb170a9971f535,Avalon,13336,Scandinavian Restaurant,"Munkedamsveien 31, Oslo",59.912028,10.726461,21 09 03 01,
+4bd875e535aad13a2bef90f3,Cafe Barbera,13018,Pub,"Filipstad Brygge 1, 0250 Oslo",59.910564,10.72346,22 83 53 70,5.0
+4e25c48ab61ceeea677ed588,Ploy's Thai Mat,13352,Thai Restaurant,"Trondheimsveien 161, 0570 Oslo",59.931627,10.77809,473 68 584,
+5d7cf0aa2deabf000881a628,Ming Sushi,13276,Sushi Restaurant,"1A Rosenhoffgata, 0569 Oslo",59.928987,10.77685,,
+50672744e4b0cdb22fe4e8c2,Li Li,13099,Chinese Restaurant,"Trondheimsveien 157, 0570 Oslo",59.931104,10.778695,22 15 77 66,
+50063268624142743e28cb73,Wembley Sports Bar,13032,"Cafe, Coffee, and Tea House","Schouterrassen 25, 0573 Oslo",59.931484,10.783023,980 33 691,
+e1d5e66e9b7f4430dbfb083f,Mbm Pro Hjose Mehdinia,13032,"Cafe, Coffee, and Tea House","Schouterrassen 20, 0573 Oslo",59.931194,10.781546,22 35 00 03,
+56c0740ecd10f62cdfbeb4fb,Buenaventura,13035,Coffee Shop,"Bentsegata 1A, 0465 Oslo",59.937812,10.755059,21 39 55 99,
+4c45d8a3f0bdd13a8b86cbcc,Sushi & Wok,13276,Sushi Restaurant,,59.938196,10.757164,,
+5714769e498ec7bc67eedc3a,Åpent Bakeri,13002,Bakery,"Bygg 7 Maridalsveien 87, 0461 Oslo",59.932618,10.756485,22 44 94 70,
+425a1bb574204c3697d3a7ea,Nygata Bakeri & Kaffehus,13002,Bakery,"Nygata 1, 0155 Oslo",59.9399,10.758779,22 23 63 19,
+0b8fbb096ff442ba54d07868,Østens Gullstue DA,13065,Restaurant,"Bergensgata 5 C, 0468 Oslo",59.941021,10.759662,22 23 70 45,
+38114bd847b04b437b74331a,Saeyd Dibaj,10000,Arts and Entertainment,"Maridalsveien 235 A, 0467 Oslo",59.945244,10.76154,977 94 021,
+7c4721f6c4ea4d4e5815f987,Nydalen Grill,13145,Fast Food Restaurant,"Maridalsveien 256, 0872 Oslo",59.946302,10.759919,21 05 84 84,
+e858d9bba241430c572c7a6a,Dos Amigos Jacamo,13145,Fast Food Restaurant,"Sandakerveien 54, 0477 Oslo",59.937332,10.765773,414 69 696,
+dceb3a24c16b46f342db080d,Tåsen Kebab Parveen Raqia,13145,Fast Food Restaurant,"Tåsenveien 69, 0870 Oslo",59.949755,10.750802,22 23 84 16,
+4f3551fde4b0d7a27cc3be24,Flamenco Pizza Nordberg,13064,Pizzeria,,59.956609,10.745965,,
+f7f038bf2cb842d26559e388,China Palace Hong Yim Hui,13065,Restaurant,"Kaj Munks vei 41 A, 0876 Oslo",59.952417,10.751218,22 23 08 08,
+8f9182fd3962489364f29392,Happy Indian Tree,13065,Restaurant,"Kaj Munks vei 41, 0876 Oslo",59.952331,10.751232,22 23 04 20,
+a8c4a777413b467fa04c3806,Pon Mat,13065,Restaurant,"Kaj Munks vei 41 B, 0876 Oslo",59.952576,10.75213,464 41 344,
+f947d45c5f084457ee679e47,Abdullah Mahmood,13145,Fast Food Restaurant,"Nordbergveien 43, 0875 Oslo",59.956463,10.746338,21 39 28 60,
+9d3694b6297246683143367d,Tåsen Pizza,13065,Restaurant,"Nordbergveien 43, 0875 Oslo",59.956463,10.746338,21 39 28 60,
+d7293b068a5045c252e30466,Belgisk Pommes Fries I Oslo Burkowicz,13145,Fast Food Restaurant,"Bergrådveien 34b, 0873 Oslo",59.955552,10.758817,,
+b66a45ce75d241176700ad20,Eiendomssalg Valdres Torgeir Reien,13065,Restaurant,"Carl Kjeldsensv 64 B, 0880 Oslo",59.958399,10.758797,,
+2abe161e965d43973609459e,Via Italia,13032,"Cafe, Coffee, and Tea House","Korsvollbakken 17, 0880 Oslo",59.957236,10.762423,22 58 00 70,
+834cc94e5147437235d2d240,Casa sushi Alex Geneux Martinez - Geneux Martinez Gurania,13065,Restaurant,"Carl Kjelsens vei 23 F, 0860 Oslo",59.959953,10.746688,21 38 35 63,
+23b2d49ec87c47dfb215d3f8,Nydalen Drift,13032,"Cafe, Coffee, and Tea House","Nydalsveien 17, 0484 Oslo",59.94798,10.764578,67 10 99 70,
+5341e77c32824fa4b4730c01,Whatsoup Nydalen,13032,"Cafe, Coffee, and Tea House","Nydalsveien 33, 0484 Oslo",59.949125,10.766336,900 12 526,
+d8c28cc68a6744b42663ce4a,Nydalen Restaurantdrift AS Tvangsavviklingsbo,13065,Restaurant,"Nydalsveien 15, 0484 Oslo",59.947403,10.76449,23 11 65 00,
+cf50e8a2ce7b463ad1192795,Smak Fastfood Mohammad Sajad Asghar,13145,Fast Food Restaurant,"Nydalen Allé 1, 0484 Oslo",59.948632,10.766761,22 02 09 43,
+b2438156024c45e7dd66869e,Nydalen Sushi Og Wok Son Thanh Nguyen,13145,Fast Food Restaurant,"Nydalen Allé 1, 0484 Oslo",59.948584,10.76671,22 02 54 00,
+4bbc6ec22d9ea593658ea0ce,McDonald's,13031,Burger Joint,"Storgata 15 (Storgata), 0155 Oslo",59.913568,10.749536,23 10 70 00,5.8
+58c02e4614f8f47273019be3,Mela Café,13309,Middle Eastern Restaurant,"Mariboes gate 6, 0183 Oslo",59.916788,10.750336,917 73 736,8.3
+50abc667e4b0ddb08e6d2aa3,Spice,13064,Pizzeria,"Persveien 22, 0581 Oslo",59.924042,10.819333,22 33 33 33,
+8813b8e8da4146eb71fac17a,Expocat,13065,Restaurant,"Ulvenveien 90, 0581 Oslo",59.925483,10.813038,406 24 188,
+06b13872c05e4bad9d521e88,Dominos Pizza Norway,13145,Fast Food Restaurant,"Kabelgaten 8, 0580 Oslo",59.926981,10.815386,410 82 360,
+034dd588f73044093ba0cfd0,Dp Servicekontor,13145,Fast Food Restaurant,"Kabelgata 8, 0580 Oslo",59.926981,10.815386,,
+e85b81fef96247ceea56a97c,Playmaker Veronica Skjetlein,13065,Restaurant,"Kvernhusstien 28, 0580 Oslo",59.92763,10.818095,,
+253d8124ff8e4201f9bb4828,Iram Ashraf Raja,13032,"Cafe, Coffee, and Tea House","Ulvenveien 117 B, 0665 Oslo",59.92214,10.815174,,
+9c611712190e4f93aef3d0ac,Gunda Haaland,13032,"Cafe, Coffee, and Tea House","Karl Staaffs vei 37, 0665 Oslo",59.920212,10.81406,22 64 27 60,
+f056126ba8da482bfd927911,Sultanis Cafe Pizza,13065,Restaurant,"Karl Staffs vei 63, 0665 Oslo",59.91988,10.811479,21 64 67 22,
+0f58f0ab3adb45c6f752ee76,Pizza World Asokumar Kailaimalainathan - Asokumar Kailaimalainathan,13065,Restaurant,"Karl Staaffs vei 23, 0665 Oslo",59.920089,10.815306,924 39 735,
+6775afaa637744714f832762,United Bakeries Consept,13002,Bakery,"Karl Johans gate 31, 0159 Oslo",59.924367,10.822968,22 95 73 93,
+8a4e67c7a4ff4f4c6e424cd1,Pegasus Coffee Kenneth Read,13035,Coffee Shop,"Teisenveien 5 Leil 103, 0664 Oslo",59.917559,10.818314,922 19 034,
+7c41a1329b104600d5230dc0,Trend Products,13065,Restaurant,"Lillebergsvingen 5, 0662 Oslo",59.918594,10.79887,416 17 023,
+4fb14111e4b0664ab87c0e38,Pizzeria La Pietra,13064,Pizzeria,"Ingeborgs gate 4 (Vålerenggata), 0658 Oslo",59.908395,10.787306,915 76 163,6.6
+545ba46f498ea078c4ec6180,Sushi time,13276,Sushi Restaurant,,59.914048,10.79769,,
+4e736a471495dffb8ee50b4a,Never Forget Sushi,13032,"Cafe, Coffee, and Tea House","Strømsveien 24, 0658 Oslo",59.90902,10.787446,21 68 02 68,5.5
+5c8521bfe7065500251fc942,Galleri Bastian,13032,"Cafe, Coffee, and Tea House","Normannsgata 44, 0655 Oslo",59.911633,10.781561,939 34 449,
+57b97eeb498e35396fdef65d,Zara Galleri,10004,Art Gallery,0655 Oslo,59.91314,10.780633,,
+418b212b1c16436bd1d8056c,Helsfyr Bakeri & Kaffehus,13065,Restaurant,"Strømsveien 96, 0663 Oslo",59.91282,10.798507,475 08 398,
+0ae949ec6b2f441dcdca57ee,Mono Grills,13065,Restaurant,"Fyrstikkalléen 1, 0661 Oslo",59.912553,10.796209,,
+f1030ae79a3b495020ab2bc0,Lille Sumo Zhelin Zhang,13065,Restaurant,"Malerhaugveien 34 C, 0661 Oslo",59.91715,10.79552,989 55 628,
+54074f2f498e098fd4377f33,Little Italy,13236,Italian Restaurant,DFDS Crown,59.911919,10.794258,,
+6959279609fe4dba26e43c81,Mai Phan Consulting,13065,Restaurant,"Rolf Hofmos gate 15, 0655 Oslo",59.91223,10.78866,951 87 827,
+7ce786578543472a67e01546,Låven Valhall Lillehammer E Stabell,13032,"Cafe, Coffee, and Tea House","Gladengveien 8, 0661 Oslo",59.916964,10.789177,980 48 012,
+c212b6fc68a74224e2a82751,Klf,13065,Restaurant,"Tvetenveien 6, 0661 Oslo",59.912586,10.809062,916 21 668,
+eb61894b150d4a4367f7b7fa,Ny Pizza Driver Oslo,13145,Fast Food Restaurant,"Hedmarksgata 10 A, 0658 Oslo",59.910007,10.788292,22 37 88 00,
+61e1bcad415bdc4971d9703a,Mano Pizza,13064,Pizzeria,"Markveien 46a, 0554 Oslo",59.92156,10.757521,930 10 201,
+4be8252188ed2d7f127bcb1d,Peppes Pizza,13064,Pizzeria,"Stortingsgata 4, 0158 Oslo",59.912962,10.738407,22 22 55 55,5.9
+60e4a905f70d5b449fde0b86,Casbar,13064,Pizzeria,0161 Oslo,59.913999,10.732736,22 82 40 29,
+0c870e5904c74136bb90368c,Lina Cafe,13032,"Cafe, Coffee, and Tea House","Frederik Stangs gate 11, 0264 Oslo",59.915126,10.708336,971 51 322,
+3899c5e5b1d84845f9415b0e,Timeout Monika Radovanovic,13032,"Cafe, Coffee, and Tea House","Leiv Erikssonsgate 1, 0271 Oslo",59.911733,10.705344,901 24 302,
+38f24182205e483a870daadb,Restaurant +39,13065,Restaurant,"Svoldergata 8 A, 0271 Oslo",59.911271,10.707284,908 35 052,
+e6a01fcac5434718810ea446,Zen Oslo,13065,Restaurant,"Munkedamsveien 100, 0270 Oslo",59.912654,10.709821,22 43 11 80,
+f23ccdc6170744f748606cc1,Kastanjen Restaurantdrift,13032,"Cafe, Coffee, and Tea House","Bygdøy Allé 18, 0262 Oslo",59.916294,10.71149,23 27 12 70,
+6a82916054304bc2b411ac2d,Nye Kastanjen,13065,Restaurant,"Bygdøy Allé 18, 0262 Oslo",59.916216,10.711619,913 19 553,
+4f9fea02e4b05255289a05f2,Jensens Bøfhus,13383,Steakhouse,"Stortingsgata 2, 0158 Oslo",59.912863,10.738831,406 90 680,5.5
+f9e3962988fb422b8d471852,Vf-Modeling Vemund Flatla,10035,Performing Arts Venue,"Nydalen Allé 27, 0484 Oslo",59.947479,10.766584,951 01 936,
+35bb067cd46e44586a887c40,Bizzy Veigrillen V/Lone Munazza,13145,Fast Food Restaurant,"Othilie Tonnings vei 4 B, 0486 Oslo",59.952026,10.774321,35 51 41 77,
+014757f21a57411a35c708df,Spagetti Factory ANS,13065,Restaurant,"Monolitveien 38, 0375 Oslo",59.934564,10.682767,23 25 32 80,
+aac6ee4eac894242eab7d78f,Delicious Bnl Borislava Eneva Ivanova,13145,Fast Food Restaurant,"Jon Smestads vei 12, 0377 Oslo",59.938485,10.679657,,
+572b69db02264a454435779b,Bjørnsgard,13065,Restaurant,"Sørkedalsveien, 0758 Oslo",59.938587,10.680401,22 49 90 60,
+580bf0d0ba9b4c1e18c4a5f4,Jeppes Bistro V/chr Fr Petersen,13027,Bistro,"Monolitveien 12 A, 0375 Oslo",59.933349,10.687394,,
+379eafe40d0e426f2f0995e3,Villa Heggeli C J Gervin,13032,"Cafe, Coffee, and Tea House","Skøyenveien 11, 0375 Oslo",59.933251,10.691735,22 52 15 93,
+9399b23126d94ac86160a14e,E-takeaway Norway,13065,Restaurant,"Hoffsveien 27, 0275 Oslo",59.929773,10.676482,22 21 90 50,
+7a8bfc82959d4853a44d1695,Cafehuset,13065,Restaurant,"Morgedalsvegen 12, 0378 Oslo",59.937321,10.667091,22 49 43 12,
+05a2088c9e5647e6f1e9a24c,Artistacafe Daming Ly,13065,Restaurant,"Noreveien 27 A, 0379 OSLO",59.933283,10.666479,67 56 76 01,
+2c800171d8af470fb5182589,Vintagefever.no,13065,Restaurant,"Skøyenveien 61, 0375 Oslo",59.928157,10.686606,975 06 567,
+b0826623410744c850d33594,Sporty Sara,13065,Restaurant,"Smithsvingen 10, 0378 Oslo",59.939424,10.665952,995 44 399,
+3c8caf7aae80449e344ba636,Vinderenkoret,10039,Music Venue,"Øvre Smestadvei 7, 0375 Oslo",59.943416,10.672124,22 14 86 86,
+4b0ede3ff964a520265c23e3,Hai Sushi,13276,Sushi Restaurant,"Jernbaneveien 1 (Østensjøveien), 0667 Oslo",59.907675,10.819265,22 26 43 00,7.6
+4fabc0ade4b05cb200a91080,Papa Rosas Grill,13145,Fast Food Restaurant,"Østensjøveien 67 (Bekkeveien), 0667 Oslo",59.906577,10.819253,415 93 657,7.2
+51324841e4b02d07dedbdfdb,Kami Sushi,13072,Asian Restaurant,"Brynsveien 5 (Østensjøvn), 0664 Bryn",59.909299,10.813061,22 22 06 67,
+4ea06c54e5fa13c70e818cd6,Peppes Pizza,13064,Pizzeria,"Østersjøveien 47, Oslo",59.909226,10.812385,,
+4f4f9888e4b0dff6fac5bff1,Sushi Express,13276,Sushi Restaurant,,59.908821,10.818605,,
+5f1330209e5df364940776cf,Jonathan Sushi Bryn Senter,13276,Sushi Restaurant,"Østensjøveien 79, 0667 Oslo",59.903914,10.821696,407 99 777,
+5c34a448666116002be671e6,Lille Persille,13032,"Cafe, Coffee, and Tea House","Østensjøveien 79, 0667 Oslo",59.903523,10.82117,23 89 84 83,
+5dc2f0385d316d00076f8bc0,Gourmet Allé,13034,Café,"Oestensjoeveien 79 3 Etasje (Bryn Senter), 0667 Oslo",59.903122,10.822224,24 07 71 07,
+5eff495e86b46d0007cbee46,Mc Donald's,13145,Fast Food Restaurant,"Østensjøveien 79, 0667 Oslo",59.903118,10.82275,,
+9a50bfd8e7314b4c31f47439,Illion,13065,Restaurant,"Østensjøveien 45, 0667 Oslo",59.909308,10.813176,22 22 06 67,
+55bee4f2a4c84037d137c46c,Kami Sushi,13276,Sushi Restaurant,"Østensjøveien 45, 0667 Oslo",59.909338,10.812996,22 22 06 67,
+6fa71451ef074e9e9c8086fa,"Rose, Kevin Evanson",13145,Fast Food Restaurant,"Østensjøveien 43, 0667 Oslo",59.909751,10.813227,,
+ec5d3ee0d229499bd4f70c8b,Bryn Kebab M. Kheshti,13145,Fast Food Restaurant,"Østensjøveien 43, 0667 Oslo",59.909838,10.813214,22 65 47 57,
+1543736babc54cb47dfddaa2,Deilig Mat Mariam Majid,13145,Fast Food Restaurant,"Østensjøveien 43, 0667 Oslo",59.909838,10.813214,,
+feafbb4a21174dfdb6d277a1,Stk Restaurantdrift,13065,Restaurant,"Østensjøveien 36, 0667 Oslo",59.910792,10.813071,920 97 060,
+69c1d3dbc73d40531d1ebc61,Olsen på Bryn,13344,Southern Food Restaurant,"Østensjøveien 64, 0667 Oslo",59.907615,10.817929,22 26 11 00,
+1686bbef5d764968477ccef1,Pizza Napoli Elilarasi Arasalingham,13145,Fast Food Restaurant,"Østensjøveien 62, 0667 Oslo",59.907585,10.818109,23 12 62 50,
+2c9d5e1b5eeb4d04f513f49f,Pizza Nett Shirley O Baulhassani,13145,Fast Food Restaurant,"Bryn Østensjøveien 62, 0667 Oslo",59.907585,10.818109,22 75 81 50,
+894193c964204b3dcf5acf26,Joker Sportscafé DA,13032,"Cafe, Coffee, and Tea House","Østensjøveien 62, 0667 Oslo",59.907594,10.818225,22 27 77 10,
+ad1babe084334843289dc36b,Sushi Away Da,13145,Fast Food Restaurant,"Østensjøveien 64, 0667 Oslo",59.907594,10.818225,,
+a268031f92b04d655d35dff9,Olsen Restaurant,13065,Restaurant,"Østensjøveien 64, 0667 Oslo",59.907594,10.818225,22 26 11 00,
+64ba874abb3e4d4c01881a0f,Sushi Away V/Van Y Nguyen,13145,Fast Food Restaurant,"Østensjøveien 64, 0667 Oslo",59.907594,10.818225,,
+25780b6d76174339b9c94b75,Rasooi Avdeling 2,13065,Restaurant,"Jernbanetorvet 1, 0021 Oslo",59.907588,10.819278,,
+714983572ffe4e3895aef666,Ta Hai Hoang,13065,Restaurant,"Jernbaneveien 1, 0667 Oslo",59.907588,10.819278,906 45 295,
+fb082c87f02342153376a6f8,Ovenpå Kafe - Restaurant Sjeikhi,13032,"Cafe, Coffee, and Tea House","Nils Hanses vei 15, 0667 Oslo",59.910793,10.8205,67 17 04 86,
+af85b34f1d7d4711eb8aa3fa,Papa Rosa Pizza Mustapha,13145,Fast Food Restaurant,"Østensjøveien 67, 0667 Oslo",59.906607,10.819073,22 37 18 30,
+ccd95322f2a448135dc53f3b,Cafe Art'e Kenneth Sørensen,13034,Café,"Leilighet 907 Teisenveien 43, 0666 Oslo",59.913414,10.822557,928 36 984,
+0ebef7f3926640de3973fa11,Popcorn To The People Jens Gubhage,13145,Fast Food Restaurant,"Dunkers gate 3c, 0357 Oslo",59.911118,10.803145,971 03 164,
+812e59d06fa24c42abc9a179,Friends Company,13065,Restaurant,"v/Mahmood Ghaffari Teisenveien 41, 0666 Oslo",59.913596,10.822647,22 04 08 00,
+686bdbce3c2a4281ccb4dda8,Lille Persille Ski,13032,"Cafe, Coffee, and Tea House","Østensjøveien 79, 0667 Oslo",59.903523,10.82117,63 01 73 11,
+dcd0be236fe5424b8028f5ba,Bryn Servering,13032,"Cafe, Coffee, and Tea House","Østensjøveien 79, 0667 Oslo",59.903523,10.82117,22 76 01 81,
+33889ce3f6864ded73b13485,Irja Andersen,13032,"Cafe, Coffee, and Tea House","Østensjøveien 79, 0667 Oslo",59.903436,10.821183,,
+3d522900df894d7507cf4a61,Coffee House,13032,"Cafe, Coffee, and Tea House","Fyrstikkbakken 28b, 0667 Oslo",59.910246,10.827531,,
+611a01f2b06d48c29f1c2559,Kayadri Kafe Anthonypillai-Wilson,13032,"Cafe, Coffee, and Tea House","Etterstadsletta 102, 0659 Oslo",59.906416,10.80192,22 35 73 45,
+fd50ff735e4d41431607b967,Bimo Etoile Hemaz Djamel,13065,Restaurant,"Høyenhallveien 55, 0678 Oslo",59.900595,10.814536,21 38 95 81,
+803e8c726b9e419a2b354be4,Agust Johannsson,13145,Fast Food Restaurant,"Arnljot Gellines vei 33, 0657 Oslo",59.904903,10.798816,932 66 665,
+4f301ff2e4b0124abb3ca85b,Godbit Sushi,13276,Sushi Restaurant,"Pilestredet 55 (Dalsbergstien), 0167 Oslo",59.922867,10.732238,,
+866565fe2da440e843184c47,Cockney,13065,Restaurant,"Bogstadveien 50, 0366 Oslo",59.927546,10.719079,22 46 17 71,
+0624a71871b842f6a2446c5b,Ragnhild Bjørnsen,13065,Restaurant,"Majorstuveien 17 A, 0367 Oslo",59.925847,10.718108,466 74 965,
+2fd709b2b18d41d305de6728,Moss Hospitality,13065,Restaurant,"Majorstuveien 17, 0367 Oslo",59.925809,10.718173,403 41 716,
+2481b9143ba14563e4e34cc1,Baronen Cafe og Bar,13003,Bar,"Ringgata 2 D, 0577 Oslo",59.915621,10.774182,957 76 264,
+8dd019e9bbfa47d7bde21610,Tavoy,13065,Restaurant,"Jens Bjelkes gate 43 C, 0578 Oslo",59.914651,10.770178,459 10 809,
+4d932d634b7f470c426a02a5,Blackfish Capital,13065,Restaurant,"Leilighet 98 Pilestredet park 34, 0860 OSLO",59.959267,10.733982,,
+58f5be40646e383f39ec6dc7,Backstube Oslo City,13002,Bakery,"Stenersgata 1 110 (Oslo City), 0184 Oslo",59.913058,10.753119,,7.8
+4cd6018c2944b1f7cfbc60ec,Vinny's Kebab,13145,Fast Food Restaurant,"Lybekkergata 5, 0184 Oslo",59.913217,10.75403,,7.2
+521f270e11d2dae038b9f0cb,Krishn AS Cusine,13377,Vegan and Vegetarian Restaurant,,59.930765,10.710349,,
+57acaa9f498e3fb014db299f,Diamond Indian Cuisine,13223,South Indian Restaurant,"Sørkedalsveien 5, 0369 Oslo",59.930659,10.712353,21 38 60 80,
+5a26b814fe374071a284d2bb,Sushi Godbit Majorstuen,13276,Sushi Restaurant,"Bogstadveien 66 A, 0366 Oslo",59.929456,10.714347,22 69 30 00,
+52b34652498e62d2217738b5,Majorstuen Grill,13145,Fast Food Restaurant,"Bogstadveien 53 B, 0366 Oslo",59.929426,10.714527,22 56 70 01,
+4b69b5b5f964a52037af2be3,Dolly Dimple's,13064,Pizzeria,"Kirkeveien 64, 0364 Oslo",59.929211,10.715144,04440,
+57ef9169498e96e114afbcd9,Estar Sushi,13276,Sushi Restaurant,Oslo,59.927258,10.71316,,
+4dcaacc8d16495ca5aef82bc,Jacob Aall Brasserie & Bar - Majorstua,13003,Bar,"Bogstadveien 64, 0366 Oslo",59.928504,10.716187,22 59 80 20,
+4b2658e5f964a520677a24e3,Cafe Rustique Majorstuen,13034,Café,"Majorstuveien 32A, 0367 Oslo",59.927275,10.715613,22 59 35 00,
+a8a44d4f9969486729fcd9c0,China West Lake Min Yuan Yu,13065,Restaurant,"Sørkedalsveien 10, 0369 Oslo",59.930738,10.710003,22 69 62 40,
+1ad7a0132731409ae84d80f3,Dp Majorstuen 26201,13145,Fast Food Restaurant,"Sørkedalsveien 9, 0369 Oslo",59.931244,10.710861,,
+50fd7db0e4b05d91378ad007,Chinatown,13099,Chinese Restaurant,Oslo,59.929541,10.716555,,
+4b1128b4f964a5207a7823e3,Sagene Torg,13039,Deli,"Arendalsgata 14, 0463 Oslo",59.937863,10.754584,22 23 90 36,8.6
+4b278066f964a520f38624e3,Kaffe Gram,13035,Coffee Shop,"Stockfleths gate 60 (Kierschowsgate), 0461 Oslo",59.937473,10.751836,22 35 15 70,7.9
+4b0ed98ef964a520dc5b23e3,Pizza Pancetta Bjølsen,13064,Pizzeria,"Bentsebrugata 31 B, 0469 Oslo",59.93932,10.759217,23 00 98 88,7.7
+4b72c0dbf964a520f2862de3,Bamboo Restaurant,13072,Asian Restaurant,"Stockfleths gate 53 (Sagene), 0461 Oslo",59.936989,10.752377,22 71 42 20,7.7
+4b9cf26df964a5201f8436e3,Helt Rått,13276,Sushi Restaurant,"Stockfleths gate 51 A, 0461 Oslo",59.936335,10.752417,23 40 94 00,6.3
+bde1ad4f74c44a452f4dc695,Nazar Cafe Bar,13035,Coffee Shop,"Kristiansands gate 2, 0463 Oslo",59.938334,10.752758,401 74 760,
+c921755ac9cb4542b5bcd3f3,Helle Amalie Østensvik,10035,Performing Arts Venue,"Arendalsgata 12 B, 0463 Oslo",59.938003,10.753568,905 97 763,
+5b744fcb76324a4b0b7b4233,Max Takeaway,13145,Fast Food Restaurant,"Maridalsveien 174, 0469 Oslo",59.939813,10.758792,22 02 02 01,
+c5d62580dec54b2f59d85dc9,Sagene Grillhouse,13032,"Cafe, Coffee, and Tea House","Arendalsgata 14, 0463 Oslo",59.937806,10.754417,,
+6ab795caa39540b8c77a4448,Bjølsen Caffebar,13065,Restaurant,"Bentsebrugata 31, 0469 Oslo",59.939368,10.759268,,
+b405a0d33e5049a1aaff0fee,Nye Supergrill V/Naeem Ul-Hassan Bhatti,13065,Restaurant,"Maridalsveien 154, 0461 Oslo",59.937576,10.755971,22 23 23 66,
+526ce2b4498e8c34410941d6,Barratt Coffee Bar,13035,Coffee Shop,"St. Olavs gate 24, 0166 Oslo",59.917703,10.737341,400 05 767,6.6
+561afdb7e3304c707da64447,Bo Bjørntoft,10000,Arts and Entertainment,"St. Edmunds vei 39 D, 0280 Oslo",59.926835,10.670532,23 04 91 01,
+4c1555bc40b2482109603d6c,Centrecourt DA,13065,Restaurant,"Hyllveien 5, 0274 Oslo",59.924923,10.690662,,
+dd27170920674ede82c49c6e,Otk-restauranten Lise Moe,13065,Restaurant,"Hyllveien 5, 0274 Oslo",59.924923,10.690662,917 85 694,
+57ebe463498efa56a0eee452,Social Eating by Bar,13347,Tapas Restaurant,"Vulkan 9, 0175 Oslo",59.922679,10.752196,940 08 182,
+641b2a13bad34d4b2e691de2,Doug's Hamburgers,13031,Burger Joint,"Vulkan 5, Oslo",59.922295,10.752321,,
+560699c1498ec78f88b77e22,Thai Corner Carl Berner,13032,"Cafe, Coffee, and Tea House","Trondheimsveien 102, 0565 Oslo",59.925482,10.775214,21 39 35 39,
